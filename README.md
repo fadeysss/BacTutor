@@ -1,115 +1,160 @@
-# Bac Tutor
+# Bac Tutor (Flask + Local AI)
 
-MVP web pentru pregătire la Bacalaureat, construit în Flask, cu interfață minimalist-modernă, structură pe materii / subiecte / capitole, progres pe sesiune și un knowledge feed extensibil.
+Bac Tutor is an offline-first study platform for Romanian Baccalaureate preparation.  
+It is designed for real local usage (classmates/friends) and as a portfolio project that demonstrates full-stack product thinking, not just UI mockups.
 
-## Ce conține MVP-ul
+## Why this project
 
-- **Materii disponibile**: Română (mate-info), Matematică M2, Informatică (mate-info), plus **Lecție personală**.
-- **Navigare pedagogică**: materie → subiect → capitol.
-- **Explicații pe capitol**: rezumat, obiectiv, capcană frecventă, pași de lucru și task-uri.
-- **Mini-quiz**: 3 întrebări rapide, scor, XP și nivel (Începător / Intermediar / Avansat).
-- **Dashboard de progres**: XP, scor mediu, activitate recentă, zone slabe.
-- **Knowledge Feed**: poți adăuga manual notițe sau importa PDF-uri, iar aplicația le caută lexical și le afișează în capitolul relevant.
-- **Lecție personală**: salvezi text sau PDF separat, iar tutorul generează rezumat și exerciții.
-- **Integrare LLM opțională**: dacă rulezi local Ollama, tutorul poate formula răspunsuri mai naturale; altfel există un fallback local deterministic.
+- Romanian students need structured repetition for Bac topics, not only long notes.
+- Many students prefer local/private tools over cloud-only AI products.
+- A practical learning flow should combine lesson context, quick assessment, and progress feedback.
 
-## Structura proiectului
+Core flow:
 
 ```text
-bactutor_app/
+subject -> section -> chapter -> lesson -> final quiz -> progress feedback
+```
+
+## Key features
+
+- Structured curriculum for:
+  - Romanian (mate-info)
+  - Mathematics M1 (mate-info)
+  - Informatics (mate-info)
+- Chapter-based lessons with:
+  - short recap
+  - worked example
+  - common mistakes
+  - quick checks
+  - end-of-lesson quiz
+- Adaptive quiz selection from an exam bank (`data/exam_bank.json`)
+- Progress tracking (XP, level, weak spots)
+- Personal lesson upload (text or PDF)
+- Knowledge ingestion with semantic search (optional Ollama embeddings)
+- Local-first AI tutor with safe fallback when Ollama is unavailable
+
+## Technical highlights
+
+- **Backend:** Flask (single app, service-layer modules)
+- **Data storage:** JSON files for catalog, progress, examples, quiz bank, knowledge feed
+- **AI integration:** Ollama `/api/chat` and `/api/embed`
+- **Frontend:** server-rendered Jinja + custom CSS/JS
+- **Content ingestion:** PDF parsing via `pypdf`
+
+Project structure:
+
+```text
+bactutor_app_v2/
 ├── app.py
-├── data/
-│   ├── catalog.json
-│   ├── custom_lessons.json
-│   ├── knowledge_feed.jsonl
-│   └── progress.json
-├── scripts/
-│   ├── add_knowledge.py
-│   └── import_pdf.py
 ├── services/
-│   ├── catalog_service.py
-│   ├── content_store.py
-│   ├── custom_lesson_service.py
-│   ├── lesson_service.py
-│   ├── llm_service.py
-│   ├── progress_service.py
-│   └── quiz_service.py
-├── static/
-│   ├── app.js
-│   └── style.css
 ├── templates/
-│   ├── admin.html
-│   ├── base.html
-│   ├── custom_lesson.html
-│   ├── dashboard.html
-│   ├── home.html
-│   ├── lesson.html
-│   └── subject.html
+├── static/
+├── data/
+├── scripts/
 └── uploads/
 ```
 
-## Instalare rapidă
+## Engineering decisions and tradeoffs
+
+- **JSON over database:** chosen for local simplicity and easy portability.  
+  Tradeoff: limited concurrency and weaker multi-user guarantees.
+- **Server-rendered pages over SPA:** faster iteration and lower operational complexity.  
+  Tradeoff: less dynamic client-side state handling.
+- **Local AI optionality:** app remains usable without Ollama.  
+  Tradeoff: response quality depends on local model/runtime availability.
+
+## Recent improvements
+
+- Hardened runtime defaults:
+  - no static fallback secret key
+  - debug mode controlled by `FLASK_DEBUG=1`
+- Safer PDF uploads:
+  - extension + MIME checks
+  - PDF signature validation (`%PDF-`)
+  - unique filenames (collision-safe)
+  - explicit 20MB user-facing limit handling
+- Ollama health status moved to TTL-based cache refresh (runtime recovers without restart)
+- Improved site feel:
+  - staggered reveal animations
+  - better hover/interaction feedback
+  - reduced-motion support for accessibility
+- Maintenance script portability fix:
+  - removed hardcoded absolute path in `scripts/upgrade_math_m1_content.py`
+
+## Quick start
+
+### 1. Install
 
 ```bash
-cd bactutor_app
 python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
+# Windows
+.venv\Scripts\activate
+# Linux/macOS
+source .venv/bin/activate
+
 pip install -r requirements.txt
+```
+
+### 2. Run app
+
+```bash
 python app.py
 ```
 
-Deschizi apoi `http://127.0.0.1:5000`.
+Open: `http://127.0.0.1:5000`
 
-## Cum „hrănești” tutorul cu informații
-
-### Din interfață
-
-- intri în **Knowledge Feed**;
-- adaugi o notiță manuală sau imporți un PDF;
-- alegi materia / subiectul / capitolul la care să se lege informația.
-
-Toate intrările noi se salvează în `data/knowledge_feed.jsonl`.
-
-### Din linia de comandă
-
-Adaugă o notiță:
+### 3. Optional: enable Ollama
 
 ```bash
-python scripts/add_knowledge.py   --title "Formule derivate"   --subject matematica_m2   --subiect subiectul-3   --chapter derivabilitate   --text "Reguli de derivare, lanț, produs, raport..."
+ollama serve
+ollama pull gemma3
+ollama pull embeddinggemma
 ```
 
-Importă un PDF:
+Set environment:
 
 ```bash
-python scripts/import_pdf.py   --file /cale/catre/lectie.pdf   --title "Sinteza roman"   --subject romana_mate_info   --subiect subiectul-3   --chapter liviu-rebreanu-roman-realist-obiectiv
+OLLAMA_ENABLED=1
+OLLAMA_HOST=http://127.0.0.1:11434
+OLLAMA_CHAT_MODEL=gemma3
+OLLAMA_EMBED_MODEL=embeddinggemma
 ```
 
-## Integrare Ollama (opțional)
-
-Dacă ai Ollama pornit local, poți activa răspunsurile LLM setând variabilele:
+Check:
 
 ```bash
-export OLLAMA_ENABLED=1
-export OLLAMA_HOST=http://127.0.0.1:11434
-export OLLAMA_MODEL=llama3.1:8b
+python scripts/check_ollama.py
 ```
 
-Dacă Ollama nu rulează, aplicația rămâne funcțională și folosește explicațiile din catalog + knowledge feed.
+## Data files
 
-## Fișierele de date importante
+- `data/catalog.json` - subject/section/chapter curriculum
+- `data/chapter_examples.json` - worked examples and quick checks
+- `data/exam_bank.json` - quiz items
+- `data/progress.json` - student progress
+- `data/knowledge_feed.jsonl` - imported notes/PDF chunks
+- `data/knowledge_vectors.json` - semantic vectors
+- `data/custom_lessons.json` - personal lessons
 
-- `data/catalog.json` — structura materiilor, subiectelor și capitolelor.
-- `data/knowledge_feed.jsonl` — log extensibil cu notițe și fragmente PDF.
-- `data/progress.json` — progresul pe sesiune.
-- `data/custom_lessons.json` — lecțiile personale salvate de utilizatori.
+## Useful scripts
 
-## Ajustări rapide pe care le poți face
+- `python scripts/add_knowledge.py ...`
+- `python scripts/import_pdf.py ...`
+- `python scripts/rebuild_embeddings.py`
+- `python scripts/add_exam_item.py ...`
 
-- vrei **altă structură pe capitole** → editezi `data/catalog.json`;
-- vrei **M1 în loc de M2** → schimbi capitolele din catalog și descrierea materiei;
-- vrei **quiz-uri mai precise** → adaugi în catalog întrebări manuale pe capitol și extinzi `quiz_service.py`;
-- vrei **corectare din poză** → poți adăuga ulterior un modul OCR / vision pe ruta de lesson.
+## Portfolio positioning (for CV / university applications)
 
-## De ce este util acest MVP
+This project demonstrates:
 
-Nu este doar o pagină frumoasă: are deja structura de conținut, log-ul de cunoștințe, progresul elevului și punctele de extensie pentru LLM, PDF-uri și capitole noi.
+- end-to-end feature ownership (data model, backend services, UI, AI integration)
+- educational product design (guided learning + assessment loop)
+- pragmatic engineering tradeoffs (local-first, fallback strategies, maintainability)
+- applied software quality improvements (input validation, runtime safety, UX polish)
+
+## Next milestones
+
+- Add lightweight automated tests (`pytest`) for route health and quiz grading
+- Add a focused onboarding wizard (`recommended first chapter`)
+- Add exportable progress snapshot for students
+- Move persistence to SQLite if multi-user local concurrency becomes important
