@@ -1,0 +1,111 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero compact-hero">
+  <div>
+    <a class="back-link" href="{{ url_for('home') }}">← Inapoi la materii</a>
+    <span class="eyebrow">Materiale de studiu</span>
+    <h1>Adauga continut nou pentru sesiuni mai bune de invatare</h1>
+    <p class="hero-copy">Poti salva notite sau importa PDF-uri. Materialele sunt folosite in cautare lexicala, iar daca Ollama este disponibil, si in cautare semantica.</p>
+  </div>
+  <aside class="card glass hero-stats">
+    <div class="stat-grid compact">
+      <div><span>Intrari</span><strong>{{ knowledge_stats.entries }}</strong></div>
+      <div><span>Indexate</span><strong>{{ knowledge_stats.indexed }}</strong></div>
+      <div><span>Itemi quiz</span><strong>{{ exam_item_count }}</strong></div>
+      <div><span>Tutor AI</span><strong>{% if ollama_status.healthy %}online{% else %}offline{% endif %}</strong></div>
+    </div>
+  </aside>
+</section>
+
+<section class="split-layout admin-layout">
+  <article class="card section-card">
+    <div class="section-header">
+      <div>
+        <h2>Adauga notita manuala</h2>
+        <p>Util pentru formule, idei scurte si observatii de recapitulare.</p>
+      </div>
+    </div>
+    <form method="post" class="stack-form">
+      <input type="hidden" name="action" value="add_note">
+      <input type="text" name="title" placeholder="Titlu notita" required>
+      <select name="catalog_binding">
+        {% for option in catalog_flat %}
+          <option value="{{ option.value }}">{{ option.label }}</option>
+        {% endfor %}
+      </select>
+      <textarea name="note_text" rows="8" placeholder="Scrie informatia pe care vrei sa o salvezi..." required></textarea>
+      <button class="button" type="submit">Salveaza notita</button>
+    </form>
+  </article>
+
+  <article class="card section-card">
+    <div class="section-header">
+      <div>
+        <h2>Importa PDF</h2>
+        <p>Fisierul este fragmentat automat si adaugat in materialele de studiu.</p>
+      </div>
+    </div>
+    <form method="post" enctype="multipart/form-data" class="stack-form">
+      <input type="hidden" name="action" value="import_pdf">
+      <input type="text" name="pdf_title" placeholder="Titlu pentru PDF" required>
+      <select name="catalog_binding">
+        {% for option in catalog_flat %}
+          <option value="{{ option.value }}">{{ option.label }}</option>
+        {% endfor %}
+      </select>
+      <input type="file" name="pdf_file" accept="application/pdf" required>
+      <button class="button" type="submit">Importa PDF-ul</button>
+    </form>
+  </article>
+</section>
+
+<section class="split-section admin-tools-row">
+  <article class="card section-card">
+    <div class="section-header">
+      <div>
+        <h2>Reindexare semantica</h2>
+        <p>Refaci indexul dupa ce ai adaugat multe materiale noi.</p>
+      </div>
+    </div>
+    <form method="post" class="stack-form slim-form">
+      <input type="hidden" name="action" value="rebuild_vectors">
+      <button class="button secondary" type="submit">Reindexeaza embeddings</button>
+    </form>
+  </article>
+  <article class="card section-card">
+    <div class="section-header">
+      <div>
+        <h2>Banca de exercitii</h2>
+        <p>Quiz-urile sunt pastrate in <code>data/exam_bank.json</code> si pot fi extinse in timp.</p>
+      </div>
+    </div>
+    <p class="muted-text">Ai deja {{ exam_item_count }} itemi organizati pe capitole, dificultate si ani de referinta.</p>
+  </article>
+</section>
+
+<section class="card section-card">
+  <div class="section-header">
+    <div>
+      <h2>Intrari recente</h2>
+      <p>Ultimele materiale disponibile pentru cautare si asistenta.</p>
+    </div>
+  </div>
+  {% if recent_entries %}
+    <div class="knowledge-grid">
+      {% for item in recent_entries %}
+        <div class="knowledge-card">
+          <div class="knowledge-meta">
+            <span>{{ item.source_name }}</span>
+            {% if item.subject_id %}<span>{{ item.subject_id }}</span>{% endif %}
+            {% if item.chapter_id %}<span>{{ item.chapter_id }}</span>{% endif %}
+          </div>
+          <h4>{{ item.title }}</h4>
+          <p>{{ item.text[:260] }}{% if item.text|length > 260 %}…{% endif %}</p>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="muted-text">Nu exista inca intrari in materialele de studiu.</p>
+  {% endif %}
+</section>
+{% endblock %}

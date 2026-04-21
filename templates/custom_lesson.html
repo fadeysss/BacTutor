@@ -1,0 +1,124 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero compact-hero">
+  <div>
+    <a class="back-link" href="{{ url_for('home') }}">← Înapoi la materii</a>
+    <span class="eyebrow">Lecție personală</span>
+    <h1>Adaugă o lecție proprie și lasă tutorul să o explice</h1>
+    <p class="hero-copy">Poți lipi text sau încărca un PDF. Lecția este salvată separat și poate fi refolosită ulterior în același stil de învățare scurt și clar.</p>
+  </div>
+  <aside class="card glass hero-stats">
+    <div class="stat-grid compact">
+      <div><span>Lecții salvate</span><strong>{{ lessons|length }}</strong></div>
+      <div><span>Format</span><strong>text / PDF</strong></div>
+      <div><span>Integrare</span><strong>knowledge feed</strong></div>
+      <div><span>Explicație</span><strong>{% if global_ollama_status.healthy %}AI + fallback{% else %}fallback local{% endif %}</strong></div>
+    </div>
+  </aside>
+</section>
+
+<section class="split-layout custom-layout">
+  <article class="card section-card">
+    <div class="section-header">
+      <div>
+        <h2>Adaugă lecția</h2>
+        <p>Lecția este salvată în fișier separat și intră și în feed-ul de cunoștințe.</p>
+      </div>
+    </div>
+    <form method="post" enctype="multipart/form-data" class="stack-form">
+      <input type="hidden" name="action" value="save_lesson">
+      <input type="text" name="title" placeholder="Titlul lecției" required>
+      <textarea name="lesson_text" rows="8" placeholder="Lipește aici lecția ta sau notițele pe care vrei să le explice tutorul..."></textarea>
+      <div class="or-divider"><span>sau</span></div>
+      <input type="file" name="lesson_pdf" accept="application/pdf">
+      <button class="button" type="submit">Salvează lecția</button>
+    </form>
+  </article>
+
+  <article class="card section-card">
+    <div class="section-header">
+      <div>
+        <h2>Lecțiile tale</h2>
+        <p>Alege una pentru explicație, recapitulare și întrebări.</p>
+      </div>
+    </div>
+    {% if lessons %}
+      <div class="lesson-list">
+        {% for item in lessons %}
+          <a class="lesson-item {% if selected_lesson and selected_lesson.id == item.id %}active{% endif %}" href="{{ url_for('custom_lesson', lesson_id=item.id) }}">
+            <strong>{{ item.title }}</strong>
+            <p>{{ item.excerpt }}</p>
+            <span>{{ item.source_label }}</span>
+          </a>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p class="muted-text">Nu există încă lecții personale salvate.</p>
+    {% endif %}
+  </article>
+</section>
+
+{% if selected_lesson and lesson_bundle %}
+  <section class="lesson-layout custom-lesson-layout">
+    <div class="lesson-main">
+      <article class="card section-card">
+        <div class="section-header">
+          <div>
+            <h2>{{ selected_lesson.title }}</h2>
+            <p>Rezumat automat pe baza lecției încărcate.</p>
+          </div>
+        </div>
+        <div class="stack-list">
+          {% for paragraph in lesson_bundle.summary %}
+            <div class="stack-item">
+              <p>{{ paragraph }}</p>
+            </div>
+          {% endfor %}
+        </div>
+        <div class="keyword-wrap">
+          {% for keyword in lesson_bundle.keywords %}
+            <span class="pill">{{ keyword }}</span>
+          {% endfor %}
+        </div>
+      </article>
+
+      <article class="card section-card">
+        <div class="section-header">
+          <div>
+            <h2>Task-uri recomandate</h2>
+            <p>Pornesc direct din textul lecției tale.</p>
+          </div>
+        </div>
+        <ul class="bullet-list">
+          {% for task in lesson_bundle.tasks %}
+            <li>{{ task }}</li>
+          {% endfor %}
+        </ul>
+      </article>
+    </div>
+
+    <aside class="lesson-side">
+      <article class="card section-card sticky-card">
+        <div class="section-header">
+          <div>
+            <h2>Întreabă pe baza lecției tale</h2>
+            <p>Poți clarifica orice punct neînțeles.</p>
+          </div>
+        </div>
+        <form method="post" class="stack-form">
+          <input type="hidden" name="action" value="ask_custom">
+          <input type="hidden" name="lesson_id" value="{{ selected_lesson.id }}">
+          <textarea name="custom_question" rows="4" placeholder="Ex: Poți să-mi explici ideea principală mai simplu?">{{ custom_question or '' }}</textarea>
+          <button class="button" type="submit">Primește explicația</button>
+        </form>
+        {% if custom_answer %}
+          <div class="answer-box prewrap">
+            <h4>Răspuns</h4>
+            <p>{{ custom_answer }}</p>
+          </div>
+        {% endif %}
+      </article>
+    </aside>
+  </section>
+{% endif %}
+{% endblock %}

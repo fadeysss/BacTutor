@@ -1,0 +1,1830 @@
+{
+  "meta": {
+    "generated": true,
+    "count": 70
+  },
+  "items": [
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "text-la-prima-vedere",
+      "micro_recap": "La Subiectul I punctele vin din răspunsuri precise, scurte și ancorate în fragment.",
+      "attention_hook": "Nu răspunde din impresie: subliniază în text locul din care scoți ideea.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · răspuns pe text suport",
+        "statement": "Fragment: „În dimineața aceea, orașul părea mai liniștit decât de obicei.” Cum justifici ideea de atmosferă calmă?",
+        "steps": [
+          "Identifici cuvântul-cheie: „mai liniștit”.",
+          "Îl transformi într-o formulare proprie: atmosfera este calmă.",
+          "Răspunsul trebuie să trimită explicit la fragment."
+        ]
+      },
+      "quick_checks": [
+        "Ai citat sau parafrazat exact zona relevantă?",
+        "Răspunsul tău are maximum 1-2 enunțuri clare?"
+      ],
+      "memory_hook": "Textul suport îți oferă deja dovada; tu doar o formulezi corect.",
+      "sprint_plan": [
+        "citești cerința",
+        "marchezi dovada",
+        "scrii răspunsul scurt"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "sens-denotativ-conotativ-si-expresivitate",
+      "micro_recap": "Cuvântul are sens denotativ când numește direct și sens conotativ când sugerează sau încarcă afectiv.",
+      "attention_hook": "La bac, nu defini lung; arată cum funcționează cuvântul în context.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · sens conotativ",
+        "statement": "În sintagma „inimă de piatră”, de ce avem sens conotativ?",
+        "steps": [
+          "Nu este vorba despre o piatră reală.",
+          "Expresia sugerează lipsa de empatie.",
+          "Apare o valoare figurată, deci conotativă."
+        ]
+      },
+      "quick_checks": [
+        "Poți separa sensul literal de cel figurat?",
+        "Ai legat răspunsul de efectul expresiv?"
+      ],
+      "memory_hook": "Denotativ = literal; conotativ = figurat / sugerat.",
+      "sprint_plan": [
+        "citești expresia",
+        "verifici sensul literal",
+        "formulezi efectul figurat"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "text-argumentativ",
+      "micro_recap": "Un text argumentativ bun are teză clară, doi pași de argumentare și o concluzie coerentă.",
+      "attention_hook": "La început, formulează poziția ta fără ezitare: asta este teza.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · schemă",
+        "statement": "Tema: „Lectura dezvoltă imaginația”. Cum începi?",
+        "steps": [
+          "Formulezi teza: „Consider că lectura dezvoltă imaginația”.",
+          "Adaugi un argument personal sau cultural.",
+          "Închei reluând ideea într-o concluzie."
+        ]
+      },
+      "quick_checks": [
+        "Ai o teză explicită?",
+        "Fiecare argument susține exact teza?"
+      ],
+      "memory_hook": "Teză → argumente → concluzie.",
+      "sprint_plan": [
+        "scrii poziția",
+        "alegi 2 argumente",
+        "închizi logic textul"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "norme-de-redactare-ortografie-punctuatie-morfosintaxa",
+      "micro_recap": "Punctele ușoare se pierd la redactare când elevul scrie în grabă și nu recitește.",
+      "attention_hook": "La finalul oricărui răspuns, fă o verificare de 20 de secunde pe ortografie și punctuație.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · verificare rapidă",
+        "statement": "Compară: „Sau dus acasă.” vs „S-au dus acasă.” Care este forma corectă?",
+        "steps": [
+          "Forma corectă este „S-au dus acasă.”",
+          "Apare verbul auxiliar + pronumele clitic.",
+          "Greșeala vine din confuzia dintre omofone."
+        ]
+      },
+      "quick_checks": [
+        "Recunoști repede formele omofone?",
+        "Ai timp de o recitire finală?"
+      ],
+      "memory_hook": "Multe greșeli se repară prin recitire lentă.",
+      "sprint_plan": [
+        "citești propoziția",
+        "verifici forma corectă",
+        "corectezi înainte de predare"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "perspectiva-narativa-si-punct-de-vedere",
+      "micro_recap": "Perspectiva narativă se identifică prin persoană, tipul naratorului și accesul la conștiința personajelor.",
+      "attention_hook": "La analiză, caută pronumele și verbele: ele îți spun imediat cine povestește.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · narator",
+        "statement": "Fragment: „Am intrat în cameră și am înțeles că totul se schimbase.” Ce indică persoana I?",
+        "steps": [
+          "Verbele la persoana I sugerează un narator implicat.",
+          "Punctul de vedere este interiorizat.",
+          "Perspectiva este subiectivă."
+        ]
+      },
+      "quick_checks": [
+        "Ai observat marcile persoanei?",
+        "Poți formula și efectul lor?"
+      ],
+      "memory_hook": "Persoana I apropie cititorul de conștiința personajului-narator.",
+      "sprint_plan": [
+        "identifici persoana",
+        "numești naratorul",
+        "spui efectul"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "rolul-didascaliilor-si-particularitatile-textului-dramatic",
+      "micro_recap": "În textul dramatic, didascaliile dau informații de joc scenic, spațiu, gestică și ton.",
+      "attention_hook": "Nu le trata ca pe un detaliu marginal: ele construiesc sens și atmosferă.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · funcția didascaliilor",
+        "statement": "Didascalia „vorbește apăsat, apropiindu-se de fereastră” ce transmite?",
+        "steps": [
+          "Indică modul de rostire.",
+          "Sugerează tensiunea și mișcarea scenică.",
+          "Ajută cititorul și actorul să înțeleagă situația."
+        ]
+      },
+      "quick_checks": [
+        "Ai numit funcția scenică și efectul?",
+        "Poți face diferența între replică și didascalie?"
+      ],
+      "memory_hook": "Didascaliile „montează scena” în mintea cititorului.",
+      "sprint_plan": [
+        "identifici didascalia",
+        "spui ce indică",
+        "explici efectul"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "caracterizare-de-personaj",
+      "micro_recap": "Caracterizarea bună pornește de la trăsătură și o dovedește prin faptă, limbaj sau relații.",
+      "attention_hook": "Nu enumera trăsături fără probă: fiecare idee are nevoie de un exemplu.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · schemă",
+        "statement": "Vrei să arăți că un personaj este ambițios. Ce faci?",
+        "steps": [
+          "Formulezi trăsătura.",
+          "O susții printr-o faptă sau o replică relevantă.",
+          "Închei explicând ce efect are asupra evoluției personajului."
+        ]
+      },
+      "quick_checks": [
+        "Ai dovada textuală?",
+        "Ai legat trăsătura de rolul personajului în operă?"
+      ],
+      "memory_hook": "Trăsătură + dovadă + interpretare.",
+      "sprint_plan": [
+        "alegi trăsătura",
+        "găsești exemplul",
+        "explici semnificația"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "elemente-de-compozitie-si-limbaj",
+      "micro_recap": "Compoziția și limbajul devin puncte de analiză atunci când arăți ce rol au în sensul textului.",
+      "attention_hook": "Nu spune doar „există metafore”; explică efectul lor.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · rolul titlului",
+        "statement": "Cum poți comenta un titlu sugestiv?",
+        "steps": [
+          "Pornești de la sensul literal sau simbolic.",
+          "Îl legi de tema textului.",
+          "Arăți cum pregătește lectura operei."
+        ]
+      },
+      "quick_checks": [
+        "Ai comentat rolul, nu doar ai numit procedeele?",
+        "Ai făcut legătura cu tema?"
+      ],
+      "memory_hook": "Procedeu + efect + sens în ansamblu.",
+      "sprint_plan": [
+        "identifici elementul",
+        "spui efectul",
+        "legi de semnificația operei"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "curente-literare-si-repere-istorico-literare",
+      "micro_recap": "Reperele istorico-literare funcționează ca o hartă: epocă, curent, trăsături, autori-reper.",
+      "attention_hook": "Când blochezi la eseu, începe cu curentul și două trăsături clare.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · schemă de încadrare",
+        "statement": "Cum încadrezi rapid o operă în realism?",
+        "steps": [
+          "Numești curentul și perioada.",
+          "Precizezi două trăsături: obiectivitate, tipicitate, atenție la social.",
+          "Le demonstrezi prin operă."
+        ]
+      },
+      "quick_checks": [
+        "Ai două trăsături verificabile?",
+        "Poți lega trăsăturile de exemple din text?"
+      ],
+      "memory_hook": "Curentul nu se memorează singur; se leagă de autor și operă.",
+      "sprint_plan": [
+        "stabilești curentul",
+        "alegi 2 trăsături",
+        "le dovedești prin operă"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "mihai-eminescu-poezie-si-romantism",
+      "micro_recap": "Pentru Luceafărul, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Luceafărul",
+        "statement": "Construiește un răspuns de plecare pentru opera Luceafărul.",
+        "steps": [
+          "Teză de pornire: opera valorifică condiția geniului și opoziția dintre absolut și terestru.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Luceafărul = condiția geniului și opoziția dintre absolut și terestru.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "ion-creanga-basm-si-proza-memorialistica",
+      "micro_recap": "Pentru Povestea lui Harap-Alb, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Povestea lui Harap-Alb",
+        "statement": "Construiește un răspuns de plecare pentru opera Povestea lui Harap-Alb.",
+        "steps": [
+          "Teză de pornire: opera valorifică drumul inițiatic și maturizarea eroului.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Povestea lui Harap-Alb = drumul inițiatic și maturizarea eroului.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "i-l-caragiale-comedie-si-schita",
+      "micro_recap": "Pentru O scrisoare pierdută, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · O scrisoare pierdută",
+        "statement": "Construiește un răspuns de plecare pentru opera O scrisoare pierdută.",
+        "steps": [
+          "Teză de pornire: opera valorifică satira moravurilor politice și comicul de limbaj.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: O scrisoare pierdută = satira moravurilor politice și comicul de limbaj.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "titu-maiorescu-critica-si-junimism",
+      "micro_recap": "Pentru „În contra direcției de astăzi în cultura română”, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · „În contra direcției de astăzi în cultura română”",
+        "statement": "Construiește un răspuns de plecare pentru opera „În contra direcției de astăzi în cultura română”.",
+        "steps": [
+          "Teză de pornire: opera valorifică spiritul critic și teoria formelor fără fond.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: „În contra direcției de astăzi în cultura română” = spiritul critic și teoria formelor fără fond.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "ioan-slavici-nuvela-realista-si-morala",
+      "micro_recap": "Pentru Moara cu noroc, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Moara cu noroc",
+        "statement": "Construiește un răspuns de plecare pentru opera Moara cu noroc.",
+        "steps": [
+          "Teză de pornire: opera valorifică conflictul moral al personajului și degradarea prin patimă.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Moara cu noroc = conflictul moral al personajului și degradarea prin patimă.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "george-bacovia-simbolism",
+      "micro_recap": "Pentru Plumb, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Plumb",
+        "statement": "Construiește un răspuns de plecare pentru opera Plumb.",
+        "steps": [
+          "Teză de pornire: opera valorifică criza interioară și universul claustrant.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Plumb = criza interioară și universul claustrant.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "lucian-blaga-poezie-modernista",
+      "micro_recap": "Pentru Eu nu strivesc corola de minuni a lumii, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Eu nu strivesc corola de minuni a lumii",
+        "statement": "Construiește un răspuns de plecare pentru opera Eu nu strivesc corola de minuni a lumii.",
+        "steps": [
+          "Teză de pornire: opera valorifică cunoașterea luciferică și protejarea misterului.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Eu nu strivesc corola de minuni a lumii = cunoașterea luciferică și protejarea misterului.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "tudor-arghezi-modernism-si-estetica-uratului",
+      "micro_recap": "Pentru Testament, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Testament",
+        "statement": "Construiește un răspuns de plecare pentru opera Testament.",
+        "steps": [
+          "Teză de pornire: opera valorifică poetica transformării urâtului în valoare estetică.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Testament = poetica transformării urâtului în valoare estetică.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "ion-barbu-ermetism-si-joc-secund",
+      "micro_recap": "Pentru Riga Crypto și lapona Enigel / Joc secund, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Riga Crypto și lapona Enigel / Joc secund",
+        "statement": "Construiește un răspuns de plecare pentru opera Riga Crypto și lapona Enigel / Joc secund.",
+        "steps": [
+          "Teză de pornire: opera valorifică poezia intelectualizată și limbajul ermetic.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Riga Crypto și lapona Enigel / Joc secund = poezia intelectualizată și limbajul ermetic.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "mihail-sadoveanu-roman-traditional-si-istoric",
+      "micro_recap": "Pentru Baltagul, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Baltagul",
+        "statement": "Construiește un răspuns de plecare pentru opera Baltagul.",
+        "steps": [
+          "Teză de pornire: opera valorifică restabilirea ordinii și itinerariul inițiatic.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Baltagul = restabilirea ordinii și itinerariul inițiatic.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "liviu-rebreanu-roman-realist-obiectiv",
+      "micro_recap": "Pentru Ion, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Ion",
+        "statement": "Construiește un răspuns de plecare pentru opera Ion.",
+        "steps": [
+          "Teză de pornire: opera valorifică tema pământului și conflictul dintre glasul pământului și glasul iubirii.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Ion = tema pământului și conflictul dintre glasul pământului și glasul iubirii.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "camil-petrescu-roman-subiectiv-si-autenticitate",
+      "micro_recap": "Pentru Ultima noapte de dragoste, întâia noapte de război, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Ultima noapte de dragoste, întâia noapte de război",
+        "statement": "Construiește un răspuns de plecare pentru opera Ultima noapte de dragoste, întâia noapte de război.",
+        "steps": [
+          "Teză de pornire: opera valorifică autenticitatea și perspectiva subiectivă.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Ultima noapte de dragoste, întâia noapte de război = autenticitatea și perspectiva subiectivă.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "g-calinescu-roman-balzacian-si-critica",
+      "micro_recap": "Pentru Enigma Otiliei, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Enigma Otiliei",
+        "statement": "Construiește un răspuns de plecare pentru opera Enigma Otiliei.",
+        "steps": [
+          "Teză de pornire: opera valorifică viziunea balzaciană și tema moștenirii.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Enigma Otiliei = viziunea balzaciană și tema moștenirii.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "e-lovinescu-modernism-critic",
+      "micro_recap": "Pentru sincronismul, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · sincronismul",
+        "statement": "Construiește un răspuns de plecare pentru opera sincronismul.",
+        "steps": [
+          "Teză de pornire: opera valorifică modernizarea literaturii prin sincronizare cu Occidentul.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: sincronismul = modernizarea literaturii prin sincronizare cu Occidentul.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "marin-preda-roman-postbelic",
+      "micro_recap": "Pentru Moromeții, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Moromeții",
+        "statement": "Construiește un răspuns de plecare pentru opera Moromeții.",
+        "steps": [
+          "Teză de pornire: opera valorifică destrămarea lumii tradiționale și criza familiei.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Moromeții = destrămarea lumii tradiționale și criza familiei.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "nichita-stanescu-neomodernism",
+      "micro_recap": "Pentru Leoaică tânără, iubirea / Emoție de toamnă, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Leoaică tânără, iubirea / Emoție de toamnă",
+        "statement": "Construiește un răspuns de plecare pentru opera Leoaică tânără, iubirea / Emoție de toamnă.",
+        "steps": [
+          "Teză de pornire: opera valorifică metafora revelatorie și reinventarea limbajului poetic.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Leoaică tânără, iubirea / Emoție de toamnă = metafora revelatorie și reinventarea limbajului poetic.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "romana_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "marin-sorescu-poezie-si-dramaturgie-postbelica",
+      "micro_recap": "Pentru Iona, ai nevoie de un rezumat ultra-scurt, de o teză clară și de 2 repere relevante.",
+      "attention_hook": "Nu învăța eseul ca bloc de text: învață-l pe „noduri” de idei și exemple.",
+      "concrete_example": {
+        "title": "Mini-plan de eseu · Iona",
+        "statement": "Construiește un răspuns de plecare pentru opera Iona.",
+        "steps": [
+          "Teză de pornire: opera valorifică singurătatea modernă și meditația asupra libertății.",
+          "Alegi două repere: temă/conflict/personaj/compoziție/limbaj, după cerință.",
+          "Închei legând exemplele de specificul operei și de viziunea autorului."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula teza fără să intri încă în detalii?",
+        "Ai pregătit două exemple concrete, nu doar etichete?"
+      ],
+      "memory_hook": "Cheia de memorie: Iona = singurătatea modernă și meditația asupra libertății.",
+      "sprint_plan": [
+        "rostești teza",
+        "alegi 2 repere",
+        "închei coerent"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "multimi-intervale-si-logica-matematica",
+      "micro_recap": "Transformi rapid informația din enunț în intervale și apoi lucrezi doar cu intersecții, reuniuni și condiții de apartenență.",
+      "attention_hook": "Primul reflex: notezi mulțimile explicit și verifici capetele intervalelor.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · intersecție de intervale",
+        "statement": "Dacă A = (-2, 5] și B = [1, 7), determină A ∩ B și verifică dacă 5 aparține intersecției.",
+        "steps": [
+          "Intersecția păstrează doar valorile comune celor două intervale.",
+          "Capătul din stânga devine 1, deoarece de acolo încep valorile comune.",
+          "Capătul din dreapta rămâne 5 și este inclus, deci A ∩ B = [1, 5].",
+          "Numărul 5 aparține intersecției pentru că 5 este admis în ambele intervale."
+        ]
+      },
+      "quick_checks": [
+        "Poți scrie intersecția fără să desenezi axa?",
+        "Știi să verifici separat capetele?"
+      ],
+      "memory_hook": "A∩B = „ce rămâne în ambele”.",
+      "sprint_plan": [
+        "scrie mulțimile",
+        "desenează axa",
+        "verifică capetele"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "functii-si-reprezentari-grafice",
+      "micro_recap": "La bac se verifică frecvent dacă știi să citești domeniul, imaginea și monotonia direct dintr-un tabel sau grafic.",
+      "attention_hook": "Nu porni cu formule: citește mai întâi datele vizuale sau tabelare.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · citirea unei funcții din tabel",
+        "statement": "Pentru x ∈ {−1, 0, 1, 2}, valorile sunt f(x) = {3, 1, 1, 3}. Ce observi despre minim și simetrie?",
+        "steps": [
+          "Valoarea minimă este 1 și apare pentru x = 0 și x = 1.",
+          "Valorile 3 și 3 la capete sugerează o distribuție simetrică în jurul mijlocului intervalului discret.",
+          "La astfel de itemi, întrebarea nu cere neapărat formula, ci proprietățile citite corect."
+        ]
+      },
+      "quick_checks": [
+        "Poți identifica rapid punctele de minim?",
+        "Știi să compari valori fără a căuta formula?"
+      ],
+      "memory_hook": "Graficul se citește înainte să se calculeze.",
+      "sprint_plan": [
+        "citești domeniul",
+        "compari valorile",
+        "formulezi proprietatea"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "functia-de-gradul-i-si-functia-de-gradul-al-ii-lea",
+      "micro_recap": "La funcțiile de gradul I și II apare des legătura dintre ecuație, semn și reprezentarea grafică.",
+      "attention_hook": "Pentru inecuații de gradul II, rădăcinile și semnul lui a îți spun tot traseul.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · inecuație de gradul al II-lea",
+        "statement": "Rezolvă x² − 5x + 6 ≤ 0.",
+        "steps": [
+          "Factorizezi: x² − 5x + 6 = (x−2)(x−3).",
+          "Rădăcinile sunt 2 și 3.",
+          "Coeficientul lui x² este pozitiv, deci parabola este sub sau pe axă între rădăcini.",
+          "Soluția este [2, 3]."
+        ]
+      },
+      "quick_checks": [
+        "Știi unde este soluția când a > 0?",
+        "Poți lega semnul de poziția parabolei?"
+      ],
+      "memory_hook": "Parabola „pozitivă” este negativă doar între rădăcini.",
+      "sprint_plan": [
+        "factorizezi",
+        "marchezi rădăcinile",
+        "alegi intervalul de semn"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "siruri-aritmetice-si-geometrice",
+      "micro_recap": "Pentru șiruri identifici întâi regula: diferență constantă sau raport constant.",
+      "attention_hook": "La bac, primul pas este să verifici dacă ai progresie aritmetică sau geometrică.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · termen general",
+        "statement": "Într-un șir aritmetic cu a1 = 4 și rația r = 3, calculează a5.",
+        "steps": [
+          "Formula este an = a1 + (n−1)·r.",
+          "a5 = 4 + 4·3 = 16.",
+          "La verificare, poți genera rapid termenii: 4, 7, 10, 13, 16."
+        ]
+      },
+      "quick_checks": [
+        "Știi formula pentru an?",
+        "Poți diferenția între rație și raport?"
+      ],
+      "memory_hook": "Aritmetic = aduni; geometric = înmulțești.",
+      "sprint_plan": [
+        "identifici tipul",
+        "scrii formula",
+        "verifici pe 2 termeni"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "vectori-in-plan-si-coliniaritate",
+      "micro_recap": "Verifici coliniaritatea comparând coordonatele sau scriind un vector ca multiplu al altuia.",
+      "attention_hook": "Dacă un vector este multiplu scalar al celuilalt, punctele sau vectorii sunt coliniari.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · coliniaritate",
+        "statement": "Sunt coliniari vectorii u(2,4) și v(1,2)?",
+        "steps": [
+          "Observi că u = 2·v.",
+          "Fiind multipli scalar, au aceeași direcție.",
+          "Rezultă că vectorii sunt coliniari."
+        ]
+      },
+      "quick_checks": [
+        "Poți găsi același raport pe coordonate?",
+        "Știi diferența dintre coliniari și perpendiculari?"
+      ],
+      "memory_hook": "Coliniar = unul este k ori celălalt.",
+      "sprint_plan": [
+        "scrii coordonatele",
+        "compari rapoartele",
+        "formulezi concluzia"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "trigonometrie-elementara",
+      "micro_recap": "La trigonometrie, valorile speciale și identitatea fundamentală apar foarte des în subiectele scurte.",
+      "attention_hook": "Dacă unghiul este „special”, încearcă imediat să-l legi de tabelul standard.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · valori speciale",
+        "statement": "Calculează sin(π/6) și cos(π/3).",
+        "steps": [
+          "Din tabelul standard, sin(π/6)=1/2.",
+          "Tot din tabel, cos(π/3)=1/2.",
+          "La itemii rapizi, viteza vine din memorarea valorilor standard."
+        ]
+      },
+      "quick_checks": [
+        "Știi perechea π/6 ↔ 1/2?",
+        "Știi că sin și cos se citesc diferit pe cerc?"
+      ],
+      "memory_hook": "π/6, π/4, π/3 sunt unghiurile-cheie.",
+      "sprint_plan": [
+        "recunoști unghiul",
+        "citești valoarea",
+        "verifici intervalul"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "aplicatii-de-trigonometrie-si-produs-scalar",
+      "micro_recap": "Produsul scalar leagă imediat unghiul dintre vectori de coordonate.",
+      "attention_hook": "Când produsul scalar este 0, suspectezi perpendicularitate.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · perpendicularitate",
+        "statement": "Pentru u(1,2) și v(2,−1), decide dacă sunt perpendiculari.",
+        "steps": [
+          "Calculezi u·v = 1·2 + 2·(−1) = 0.",
+          "Produsul scalar nul înseamnă vectori perpendiculari.",
+          "Așadar, vectorii formează un unghi de 90°."
+        ]
+      },
+      "quick_checks": [
+        "Știi formula u·v?",
+        "Poți recunoaște imediat cazul 0?"
+      ],
+      "memory_hook": "u·v = 0 înseamnă unghi drept.",
+      "sprint_plan": [
+        "calculezi produsul scalar",
+        "interpretezi rezultatul",
+        "formulezi concluzia"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "puteri-radicali-si-logaritmi",
+      "micro_recap": "La puteri, radicali și logaritmi, simplificarea corectă și condițiile de existență fac diferența.",
+      "attention_hook": "Nu sari peste factorul comun din radical: rescrierea bună scurtează tot exercițiul.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · radicali",
+        "statement": "Simplifică √50 − √8.",
+        "steps": [
+          "√50 = √(25·2) = 5√2.",
+          "√8 = √(4·2) = 2√2.",
+          "Diferența devine 5√2 − 2√2 = 3√2."
+        ]
+      },
+      "quick_checks": [
+        "Scoți factorul pătrat perfect din radical?",
+        "Verifici semnul înainte de a combina termenii?"
+      ],
+      "memory_hook": "Caută întâi pătratul perfect ascuns.",
+      "sprint_plan": [
+        "descompui numerele",
+        "scoți radicalii",
+        "reduci termenii asemenea"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "numere-complexe",
+      "micro_recap": "La numere complexe, operațiile pe forma a+bi trebuie făcute ordonat, cu i² = −1.",
+      "attention_hook": "După înmulțire, caută automat termenul i² pentru a-l înlocui cu −1.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · înmulțire",
+        "statement": "Calculează (1+i)(2−i).",
+        "steps": [
+          "Dezvolți: 2 − i + 2i − i².",
+          "Înlocuiești i² cu −1, deci −i² = +1.",
+          "Rezultatul este 3 + i."
+        ]
+      },
+      "quick_checks": [
+        "Păstrezi separat partea reală și cea imaginară?",
+        "Înlocuiești corect i²?"
+      ],
+      "memory_hook": "i² = −1 este comutatorul exercițiului.",
+      "sprint_plan": [
+        "dezvolți",
+        "înlocuiești i²",
+        "grupezi termenii"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "functia-exponentiala-si-functia-logaritmica",
+      "micro_recap": "La funcțiile exponențiale și logaritmice, sensul de variație depinde de bază.",
+      "attention_hook": "Dacă baza este >1, funcția exponențială crește; dacă este între 0 și 1, descrește.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · citirea monotonicității",
+        "statement": "Pentru f(x)=2^x, decide dacă funcția este crescătoare sau descrescătoare.",
+        "steps": [
+          "Baza 2 este mai mare decât 1.",
+          "O funcție exponențială cu baza a>1 este crescătoare pe R.",
+          "Așadar, f este crescătoare."
+        ]
+      },
+      "quick_checks": [
+        "Știi regula pentru baza >1?",
+        "Poți aplica aceeași idee și la logaritm?"
+      ],
+      "memory_hook": "Baza dictează monotonia.",
+      "sprint_plan": [
+        "verifici baza",
+        "alegi regula",
+        "formulezi proprietatea"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+      "micro_recap": "În ecuații și inecuații, transformarea la aceeași bază și verificarea condițiilor de existență sunt obligatorii.",
+      "attention_hook": "Pentru inecuații logaritmice, nu uita: argumentul trebuie mai întâi să existe.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · inecuație exponențială",
+        "statement": "Rezolvă 2^x > 8.",
+        "steps": [
+          "Scrii 8 = 2^3.",
+          "Obții 2^x > 2^3.",
+          "Cum baza 2>1, compari exponenții: x > 3."
+        ]
+      },
+      "quick_checks": [
+        "Ai adus termenii la aceeași bază?",
+        "Ai verificat dacă sensul inecuației se păstrează?"
+      ],
+      "memory_hook": "Aceeași bază, apoi compari exponenții.",
+      "sprint_plan": [
+        "aduci la aceeași bază",
+        "compari exponenții",
+        "scrii soluția"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "metode-de-numarare-si-combinatorica",
+      "micro_recap": "În combinatorică alegi între permutări, aranjamente și combinații după ce observi dacă ordinea contează.",
+      "attention_hook": "Întrebarea-cheie: schimbarea ordinii produce alt rezultat?",
+      "concrete_example": {
+        "title": "Exemplu lucrat · combinații",
+        "statement": "Din 5 elevi alegem 2 reprezentanți. Câte alegeri sunt?",
+        "steps": [
+          "Ordinea nu contează, deci folosim combinații.",
+          "C(5,2)=10.",
+          "Dacă ar conta cine este președinte și cine vicepreședinte, problema s-ar schimba."
+        ]
+      },
+      "quick_checks": [
+        "Te-ai întrebat dacă ordinea contează?",
+        "Poți deosebi combinația de aranjament?"
+      ],
+      "memory_hook": "Alegere fără ordine = combinație.",
+      "sprint_plan": [
+        "decizi dacă ordinea contează",
+        "alegi formula",
+        "calculezi"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "probabilitati-statistica-si-matematici-financiare",
+      "micro_recap": "La probabilități și statistică, pornești de la definiția clasică și de la media aritmetică.",
+      "attention_hook": "Numără întâi cazurile favorabile și totale, abia apoi simplifică fracția.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · probabilitate clasică",
+        "statement": "Se aruncă un zar. Probabilitatea de a obține un număr par este?",
+        "steps": [
+          "Cazuri totale: 6.",
+          "Cazuri favorabile: 2, 4, 6, deci 3.",
+          "Probabilitatea este 3/6 = 1/2."
+        ]
+      },
+      "quick_checks": [
+        "Ai numărat corect spațiul de rezultate?",
+        "Ai simplificat fracția?"
+      ],
+      "memory_hook": "Probabilitatea = favorabile / totale.",
+      "sprint_plan": [
+        "identifici cazurile",
+        "scrii raportul",
+        "simplifici"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "geometrie-analitica-in-plan",
+      "micro_recap": "În geometria analitică, ecuația dreptei și coordonatele punctelor se citesc prin formule fixe.",
+      "attention_hook": "Dacă ai două puncte, poți obține imediat panta și apoi ecuația dreptei.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · mijlocul segmentului",
+        "statement": "Pentru A(1,3) și B(5,7), găsește coordonatele mijlocului M.",
+        "steps": [
+          "Formula este M((x1+x2)/2, (y1+y2)/2).",
+          "M((1+5)/2, (3+7)/2) = (3,5).",
+          "La verificare, vezi dacă M este „la jumătatea distanței” pe ambele coordonate."
+        ]
+      },
+      "quick_checks": [
+        "Știi formula mijlocului?",
+        "Poți interpreta grafic rezultatul?"
+      ],
+      "memory_hook": "Mijloc = media coordonatelor.",
+      "sprint_plan": [
+        "scrii formula",
+        "înlocuiești coordonatele",
+        "verifici"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+      "micro_recap": "La matrice și determinanți, ordinea calculelor și semnul sunt esențiale.",
+      "attention_hook": "Pentru determinantul de ordin 2, regula este simplă: produsul diagonalelor principale minus produsul diagonalelor secundare.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · determinant de ordin 2",
+        "statement": "Calculează determinantul matricei [[1,2],[3,4]].",
+        "steps": [
+          "det = 1·4 − 2·3.",
+          "Rezultă 4 − 6 = −2.",
+          "Un determinant nenul indică, de obicei, sistem compatibil determinat pentru matricea coeficienților."
+        ]
+      },
+      "quick_checks": [
+        "Ai păstrat ordinea produselor?",
+        "Ai verificat semnul final?"
+      ],
+      "memory_hook": "La 2x2: ad − bc.",
+      "sprint_plan": [
+        "scrii formula",
+        "înlocuiești",
+        "calculezi corect semnul"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "limite-de-functii",
+      "micro_recap": "La limite, simplificarea algebrică înainte de înlocuire evită formele nedeterminate.",
+      "attention_hook": "Dacă obții 0/0, nu te bloca: factorizezi sau raționalizezi.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · formă nedeterminată",
+        "statement": "Calculează lim x→2 (x²−4)/(x−2).",
+        "steps": [
+          "Factorizezi numărătorul: x²−4=(x−2)(x+2).",
+          "Simplifici factorul comun x−2.",
+          "Rămâne lim x→2 (x+2)=4."
+        ]
+      },
+      "quick_checks": [
+        "Recunoști tipul 0/0?",
+        "Știi ce metodă de simplificare se potrivește?"
+      ],
+      "memory_hook": "0/0 înseamnă „mai lucrează puțin”, nu „nu există”.",
+      "sprint_plan": [
+        "înlocuiești",
+        "identifici forma",
+        "simplifici și recalculezi"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "continuitate",
+      "micro_recap": "Continuitatea într-un punct cere trei condiții: existența lui f(a), existența limitei și egalitatea dintre ele.",
+      "attention_hook": "Ține minte triada: funcția există, limita există, sunt egale.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · condiție de continuitate",
+        "statement": "Pentru f(x)=x+1 dacă x<2 și f(2)=3, verifică continuitatea în x=2.",
+        "steps": [
+          "Limita când x→2 din expresia x+1 este 3.",
+          "Valoarea funcției este f(2)=3.",
+          "Cum limita și valoarea coincid, funcția este continuă în 2."
+        ]
+      },
+      "quick_checks": [
+        "Ai verificat și valoarea funcției, nu doar limita?",
+        "Ai analizat din ambele părți dacă e nevoie?"
+      ],
+      "memory_hook": "Continuitate = „lipit” fără săritură.",
+      "sprint_plan": [
+        "calculezi limita",
+        "găsești f(a)",
+        "compari"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "derivabilitate",
+      "micro_recap": "Derivata măsoară viteza de variație a funcției; la bac apar frecvent reguli de derivare de bază.",
+      "attention_hook": "Dacă vezi puteri simple, derivarea se face rapid cu regula lui x^n.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · derivată",
+        "statement": "Derivează funcția f(x)=x³.",
+        "steps": [
+          "Aplici regula: (x^n)′ = n·x^(n−1).",
+          "Rezultă f′(x)=3x².",
+          "La final, verifică dacă nu ai uitat coeficienții constanți."
+        ]
+      },
+      "quick_checks": [
+        "Știi regula pentru x^n?",
+        "Derivezi și constantele corect?"
+      ],
+      "memory_hook": "Scazi exponentul cu 1 și îl cobori în față.",
+      "sprint_plan": [
+        "alegi regula",
+        "derivezi",
+        "verifici exponentul final"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "studiul-functiilor-cu-ajutorul-derivatelor",
+      "micro_recap": "Semnul derivatei îți spune monotonia; punctele unde derivata se anulează sunt candidați la extreme.",
+      "attention_hook": "La studiul funcției, schema fixă te salvează: domeniu, derivată, puncte critice, semn, tabel de variație.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · monotonie",
+        "statement": "Pentru f′(x)=2x−4, unde poate avea f un punct critic?",
+        "steps": [
+          "Punctele critice apar unde derivata este 0 sau nu există.",
+          "Rezolvi 2x−4=0 și obții x=2.",
+          "Apoi studiezi semnul derivatei în jurul lui 2 pentru monotonie."
+        ]
+      },
+      "quick_checks": [
+        "Știi ce este un punct critic?",
+        "Ai făcut legătura între semnul derivatei și variație?"
+      ],
+      "memory_hook": "Derivata pozitivă urcă, derivata negativă coboară.",
+      "sprint_plan": [
+        "calculezi derivata",
+        "afli punctele critice",
+        "faci tabelul de semn"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "primitive",
+      "micro_recap": "La primitive, cauți o funcție care, derivată, dă expresia inițială.",
+      "attention_hook": "Gândește „inversul derivării”.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · primitivă elementară",
+        "statement": "Găsește o primitivă pentru f(x)=2x.",
+        "steps": [
+          "Știi că derivata lui x² este 2x.",
+          "Deci o primitivă este F(x)=x²+C.",
+          "Constanta C trebuie mereu menționată."
+        ]
+      },
+      "quick_checks": [
+        "Ai adăugat constanta de integrare?",
+        "Ai verificat prin derivare?"
+      ],
+      "memory_hook": "Primitiva este derivarea „în sens invers”.",
+      "sprint_plan": [
+        "recunoști modelul",
+        "scrii primitiva",
+        "adaugi +C"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "integrala-definita",
+      "micro_recap": "La integrala definită, după ce găsești o primitivă aplici formula Newton-Leibniz.",
+      "attention_hook": "Ordinea este fixă: primitivă, capăt superior minus capăt inferior.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · calcul de integrală",
+        "statement": "Calculează ∫(de la 0 la 1) 2x dx.",
+        "steps": [
+          "O primitivă pentru 2x este x².",
+          "Aplici formula: x²|₀¹ = 1² − 0².",
+          "Rezultatul este 1."
+        ]
+      },
+      "quick_checks": [
+        "Ai găsit corect primitiva?",
+        "Ai evaluat în ordinea corectă?"
+      ],
+      "memory_hook": "Sus minus jos, niciodată invers.",
+      "sprint_plan": [
+        "găsești primitiva",
+        "evaluezi la capete",
+        "scazi corect"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "aplicatii-ale-integralei",
+      "micro_recap": "Aplicația clasică la bac este aria domeniului delimitat de grafic și axă.",
+      "attention_hook": "Înainte de integrală, verifică dacă funcția este deasupra sau sub axa Ox.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · aria sub grafic",
+        "statement": "Determină aria de sub graficul lui f(x)=x pe intervalul [0,1].",
+        "steps": [
+          "Pe [0,1], funcția este pozitivă.",
+          "Aria este ∫(de la 0 la 1) x dx = x²/2|₀¹ = 1/2.",
+          "Cum funcția este deasupra axei, aria coincide cu valoarea integralei."
+        ]
+      },
+      "quick_checks": [
+        "Ai verificat semnul funcției pe interval?",
+        "Știi când trebuie modul?"
+      ],
+      "memory_hook": "Arie = integrală doar dacă funcția nu schimbă semnul.",
+      "sprint_plan": [
+        "verifici semnul",
+        "calculezi integrala",
+        "interpretezi aria"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "grupuri-si-legi-de-compozitie",
+      "micro_recap": "La legi de compoziție verifici operația, elementul neutru și inversele.",
+      "attention_hook": "În multe exerciții, elementul neutru se găsește rezolvând a∘e=a.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · element neutru",
+        "statement": "Pe R, fie a∘b = a + b + 1. Găsește elementul neutru e.",
+        "steps": [
+          "Impunem a∘e = a.",
+          "Rezultă a + e + 1 = a.",
+          "Deci e = −1."
+        ]
+      },
+      "quick_checks": [
+        "Ai scris condiția de neutru la stânga și la dreapta?",
+        "Poți verifica rezultatul?"
+      ],
+      "memory_hook": "Neutrul păstrează elementul „neschimbat”.",
+      "sprint_plan": [
+        "scrii condiția",
+        "rezolvi ecuația",
+        "verifici"
+      ]
+    },
+    {
+      "subject_id": "matematica_m1",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "inele-corpuri-si-polinoame",
+      "micro_recap": "La polinoame apar des teorema împărțirii cu rest și schema lui Horner.",
+      "attention_hook": "Dacă ți se cere restul la împărțirea lui P(x) la x−a, gândește instant P(a).",
+      "concrete_example": {
+        "title": "Exemplu lucrat · restul împărțirii",
+        "statement": "Pentru P(x)=x²−1, află restul împărțirii la x−1.",
+        "steps": [
+          "Prin teorema restului, restul este P(1).",
+          "P(1)=1−1=0.",
+          "Deci x−1 divide polinomul."
+        ]
+      },
+      "quick_checks": [
+        "Ai recunoscut forma x−a?",
+        "Știi să calculezi P(a) rapid?"
+      ],
+      "memory_hook": "Rest la x−a → calculezi P(a).",
+      "sprint_plan": [
+        "identifici a",
+        "calculezi P(a)",
+        "interpretezi rezultatul"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "algoritmi-si-reprezentare-in-pseudocod",
+      "micro_recap": "Primul pas la info este să înțelegi clar inputul, outputul și pașii dintre ele.",
+      "attention_hook": "Nu sări direct în cod: în 2026 viteza vine din schemă clară, nu din improvizație.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · pseudocod minim",
+        "statement": "Construiește pașii pentru afișarea sumei a două numere citite de la tastatură.",
+        "steps": [
+          "citești a și b",
+          "calculezi s ← a+b",
+          "afișezi s"
+        ]
+      },
+      "quick_checks": [
+        "Știi diferența dintre citire, procesare și afișare?",
+        "Poți rescrie aceiași pași în pseudocod?"
+      ],
+      "memory_hook": "Input → procesare → output.",
+      "sprint_plan": [
+        "notezi datele de intrare",
+        "descrii calculul",
+        "verifici rezultatul"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "date-variabile-expresii-si-operatori",
+      "micro_recap": "La exercițiile scurte urmărești actualizarea valorilor din variabile pas cu pas.",
+      "attention_hook": "După fiecare atribuire, „oprești filmul” și notezi noua valoare.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · atribuire",
+        "statement": "Inițial x=2. După instrucțiunea x←x+3, care este noua valoare?",
+        "steps": [
+          "Vechea valoare este 2.",
+          "Calculezi 2+3=5.",
+          "Noua valoare a lui x devine 5."
+        ]
+      },
+      "quick_checks": [
+        "Știi că partea dreaptă se calculează cu valoarea veche?",
+        "Poți urmări mai multe atribuiri la rând?"
+      ],
+      "memory_hook": "Atribuirea rescrie variabila cu noua valoare.",
+      "sprint_plan": [
+        "iei valoarea veche",
+        "calculezi expresia",
+        "rescrii variabila"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "structuri-de-control-secventa-alternativa-repetitivitate",
+      "micro_recap": "Aici alegi între secvență, if și buclă, în funcție de tipul cerinței.",
+      "attention_hook": "Când vezi „pentru fiecare”, „până când”, „de n ori”, gândește automat repetitivitate.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · buclă simplă",
+        "statement": "Descrie pe scurt cum ai afișa numerele de la 1 la 5.",
+        "steps": [
+          "inițializezi i cu 1",
+          "cât timp i≤5 afișezi i",
+          "crești i cu 1"
+        ]
+      },
+      "quick_checks": [
+        "Recunoști momentul în care ai nevoie de repetiție?",
+        "Știi unde se actualizează contorul?"
+      ],
+      "memory_hook": "Repetitivitate = inițializare + condiție + actualizare.",
+      "sprint_plan": [
+        "alegi structura",
+        "scrii condiția",
+        "actualizezi contorul"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "subprograme-predefinite-si-functii-standard",
+      "micro_recap": "Funcțiile standard te ajută să nu rescrii calcule deja existente în limbaj.",
+      "attention_hook": "La bac se verifică des dacă știi ce produce o funcție precum abs, sqrt sau strlen.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · funcție standard",
+        "statement": "Determină rezultatul expresiei abs(−7).",
+        "steps": [
+          "Funcția abs dă valoarea absolută.",
+          "Valoarea absolută a lui −7 este 7.",
+          "Rezultatul final este 7."
+        ]
+      },
+      "quick_checks": [
+        "Recunoști ce intră și ce iese din funcția standard?",
+        "Știi dacă tipul datelor rămâne numeric?"
+      ],
+      "memory_hook": "Funcțiile standard economisesc cod și timp.",
+      "sprint_plan": [
+        "identifici funcția",
+        "aplici definiția",
+        "verifici tipul rezultatului"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-1",
+      "chapter_id": "complexitate-si-urmarirea-executiei",
+      "micro_recap": "La urmărirea execuției notezi valorile după fiecare pas; la complexitate cauți numărul dominant de operații.",
+      "attention_hook": "Nu încerca să memorezi tot: fă un tabel de urmărie pentru variabile.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · număr de pași",
+        "statement": "O buclă for de la 1 la n execută o instrucțiune simplă. Ce complexitate are?",
+        "steps": [
+          "Instrucțiunea se repetă n ori.",
+          "Numărul de pași crește liniar cu n.",
+          "Complexitatea este O(n)."
+        ]
+      },
+      "quick_checks": [
+        "Știi să ignori constantele?",
+        "Poți face diferența între O(n) și O(n²)?"
+      ],
+      "memory_hook": "Liniar = o singură buclă simplă.",
+      "sprint_plan": [
+        "numeri buclele",
+        "vezi cum depind de n",
+        "păstrezi termenul dominant"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "tablouri-unidimensionale",
+      "micro_recap": "La vectori, problema standard este parcurgerea și actualizarea unei statistici: sumă, maxim, frecvență.",
+      "attention_hook": "La orice tablou, decide ce „informație acumulată” păstrezi.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · maxim într-un vector",
+        "statement": "Pentru vectorul [2, 7, 4], determină valoarea maximă.",
+        "steps": [
+          "Pornești cu maxim=2.",
+          "Compari cu 7 și actualizezi maxim=7.",
+          "Compari cu 4 și păstrezi 7."
+        ]
+      },
+      "quick_checks": [
+        "Știi de unde pornești inițializarea?",
+        "Poți face aceeași schemă pentru minim sau sumă?"
+      ],
+      "memory_hook": "Parcurgere + comparație + actualizare.",
+      "sprint_plan": [
+        "inițializezi",
+        "parcurgi",
+        "actualizezi când găsești mai bun"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "matrice-si-tablouri-bidimensionale",
+      "micro_recap": "La matrice, indiciile vin din poziție: linii, coloane, diagonală principală sau secundară.",
+      "attention_hook": "Dacă cerința menționează diagonala, uită-te imediat la relația dintre indici.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · diagonala principală",
+        "statement": "În matricea [[1,2],[3,4]], determină suma elementelor de pe diagonala principală.",
+        "steps": [
+          "Pe diagonala principală ai pozițiile (1,1) și (2,2).",
+          "Valorile sunt 1 și 4.",
+          "Suma este 5."
+        ]
+      },
+      "quick_checks": [
+        "Știi cum identifici diagonala principală?",
+        "Poți trece de la indici la valori?"
+      ],
+      "memory_hook": "Diagonala principală: i = j.",
+      "sprint_plan": [
+        "identifici pozițiile",
+        "citești valorile",
+        "calculezi suma"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "siruri-de-caractere",
+      "micro_recap": "La șiruri, numără, cauți, extragi sau înlocuiești; totul pornește de la poziția caracterelor.",
+      "attention_hook": "Nu încerca să vizualizezi tot deodată: mergi caracter cu caracter sau pe funcții standard.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · lungime de șir",
+        "statement": "Determină lungimea șirului \"BAC\".",
+        "steps": [
+          "Șirul conține caracterele B, A, C.",
+          "Numărul lor este 3.",
+          "Deci lungimea este 3."
+        ]
+      },
+      "quick_checks": [
+        "Știi diferența dintre caracter și șir?",
+        "Poți număra fără spații și semne suplimentare?"
+      ],
+      "memory_hook": "Șir = secvență ordonată de caractere.",
+      "sprint_plan": [
+        "identifici șirul",
+        "numeri caracterele",
+        "scrii rezultatul"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "inregistrari-si-structuri-de-date-simple",
+      "micro_recap": "Înregistrarea grupează date diferite despre aceeași entitate.",
+      "attention_hook": "Când vezi „nume + notă + clasă”, gândește structura de tip înregistrare.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · model de înregistrare",
+        "statement": "Vrei să memorezi pentru un elev: nume, media și absențele. Ce tip de structură alegi?",
+        "steps": [
+          "Datele sunt de tipuri diferite.",
+          "Toate descriu aceeași entitate: elevul.",
+          "O înregistrare este alegerea naturală."
+        ]
+      },
+      "quick_checks": [
+        "Știi când nu este suficient un tablou simplu?",
+        "Poți enumera câmpurile unei înregistrări?"
+      ],
+      "memory_hook": "Înregistrarea = „fișa” unui obiect.",
+      "sprint_plan": [
+        "identifici entitatea",
+        "listezi câmpurile",
+        "alegi tipurile potrivite"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "fisiere-text",
+      "micro_recap": "La fișiere text, schema standard este: deschizi, citești până la sfârșit, prelucrezi, închizi.",
+      "attention_hook": "Multe probleme sunt aceleași ca la vectori, doar că datele vin din fișier.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · numărare valori",
+        "statement": "Dintr-un fișier care conține numerele 2 5 8, vrei să afli câte numere sunt.",
+        "steps": [
+          "citești primul număr",
+          "mărești contorul la fiecare citire reușită",
+          "la final, contorul este 3"
+        ]
+      },
+      "quick_checks": [
+        "Poți distinge între citire și prelucrare?",
+        "Știi când se oprește bucla de citire?"
+      ],
+      "memory_hook": "Fișier text = intrare secvențială.",
+      "sprint_plan": [
+        "deschizi",
+        "citești până la EOF",
+        "închizi și afișezi"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "subprograme-definite-de-utilizator",
+      "micro_recap": "Subprogramele separă logica în piese reutilizabile și ușor de testat.",
+      "attention_hook": "Dacă aceeași operație apare de mai multe ori, merită extrasă într-o funcție sau procedură.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · funcție simplă",
+        "statement": "Definim funcția patrat(x) care întoarce x*x. Ce întoarce patrat(4)?",
+        "steps": [
+          "Înlocuiești x cu 4.",
+          "Calculezi 4*4.",
+          "Rezultatul este 16."
+        ]
+      },
+      "quick_checks": [
+        "Știi diferența dintre procedură și funcție?",
+        "Poți urmări parametrii trimiși?"
+      ],
+      "memory_hook": "Funcția întoarce o valoare, procedura execută pași.",
+      "sprint_plan": [
+        "identifici parametrii",
+        "urmărești corpul funcției",
+        "scrii rezultatul"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-2",
+      "chapter_id": "recursivitate",
+      "micro_recap": "În recursivitate contează două lucruri: cazul de bază și apelul care reduce problema.",
+      "attention_hook": "Dacă nu vezi clar cazul de oprire, algoritmul recursiv nu este încă sigur.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · factorial recursiv",
+        "statement": "Pentru n! definit prin n!=n·(n−1)! și 0!=1, calculează 3!.",
+        "steps": [
+          "3! = 3·2!",
+          "2! = 2·1!",
+          "1! = 1·0! = 1, deci 3! = 6."
+        ]
+      },
+      "quick_checks": [
+        "Ai identificat cazul de bază?",
+        "Problema se reduce la una mai mică?"
+      ],
+      "memory_hook": "Recursivitate = definiție în funcție de un caz mai mic.",
+      "sprint_plan": [
+        "găsești cazul de bază",
+        "urmărești apelurile",
+        "revii cu rezultatele"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "tehnici-elementare-de-algoritmica",
+      "micro_recap": "Aici intră frecvent cifrele unui număr, divizibilitatea, Euclid, Fibonacci sau sume simple.",
+      "attention_hook": "Când vezi „cifrele unui număr”, gândește imediat la operațiile /10 și %10.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · sumă a cifrelor",
+        "statement": "Determină suma cifrelor numărului 125.",
+        "steps": [
+          "Ultima cifră este 5, apoi 2, apoi 1.",
+          "Le aduni: 5+2+1.",
+          "Rezultatul este 8."
+        ]
+      },
+      "quick_checks": [
+        "Știi cum extragi ultima cifră?",
+        "Știi cum elimini ultima cifră?"
+      ],
+      "memory_hook": "cifră = n%10, eliminare = n/10.",
+      "sprint_plan": [
+        "iei ultima cifră",
+        "o aduni",
+        "elimini cifra și repeți"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "cautare-si-sortare",
+      "micro_recap": "La căutare și sortare contează când este justificat un algoritm și ce cost are.",
+      "attention_hook": "Dacă vectorul este deja ordonat, căutarea binară devine o armă foarte bună.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · căutare binară",
+        "statement": "În vectorul ordonat [1,3,5,7,9], cauți valoarea 7. Cu ce metodă eficientă începi?",
+        "steps": [
+          "Vectorul este ordonat.",
+          "Se poate tăia repetat în jumătăți.",
+          "Alegerea naturală este căutarea binară."
+        ]
+      },
+      "quick_checks": [
+        "Ai verificat dacă datele sunt ordonate?",
+        "Poți explica de ce binara este mai rapidă?"
+      ],
+      "memory_hook": "Ordonat → căutare binară.",
+      "sprint_plan": [
+        "vezi dacă e ordonat",
+        "alegi algoritmul",
+        "justifici eficiența"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "interclasare-frecvente-si-prelucrari-eficiente",
+      "micro_recap": "Interclasarea combină eficient două șiruri ordonate; frecvențele rezumă rapid aparițiile.",
+      "attention_hook": "Dacă ai multe valori mici sau repetate, vectorul de frecvență economisește timp.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · frecvență",
+        "statement": "Pentru valorile 2,2,5, de câte ori apare 2?",
+        "steps": [
+          "Parcurgi valorile și incrementezi frecvența corespunzătoare.",
+          "Pentru 2, contorul ajunge la 2.",
+          "Așadar, frecvența lui 2 este 2."
+        ]
+      },
+      "quick_checks": [
+        "Poți ține un contor pentru fiecare valoare?",
+        "Știi când interclasarea cere două șiruri ordonate?"
+      ],
+      "memory_hook": "Frecvența = „de câte ori apare”.",
+      "sprint_plan": [
+        "numeri aparițiile",
+        "actualizezi contorul",
+        "citești rezultatul"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "backtracking",
+      "micro_recap": "Backtracking generează soluții pas cu pas și revine când un drum devine imposibil.",
+      "attention_hook": "În minte, imaginează-ți un arbore de decizie pe care îl explorezi cu revenire.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · alegere controlată",
+        "statement": "Vrei toate numerele de 2 cifre formate doar din 1 și 2. Cum procedezi?",
+        "steps": [
+          "Alegi prima cifră dintre 1 și 2.",
+          "Pentru fiecare alegi a doua cifră tot dintre 1 și 2.",
+          "Obții 11, 12, 21, 22."
+        ]
+      },
+      "quick_checks": [
+        "Poți formula regula de validare?",
+        "Înțelegi momentul în care „te întorci” la pasul anterior?"
+      ],
+      "memory_hook": "Alegi, verifici, mergi mai departe; dacă nu merge, revii.",
+      "sprint_plan": [
+        "definești pașii",
+        "testezi validarea",
+        "revii când nu mai poți continua"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "generare-combinatorica",
+      "micro_recap": "Generarea combinatorică produce aranjări, combinații sau submulțimi în ordine sistematică.",
+      "attention_hook": "Întrebarea de bază: ordinea contează sau nu?",
+      "concrete_example": {
+        "title": "Exemplu lucrat · submulțimi",
+        "statement": "Pentru mulțimea {1,2}, care sunt submulțimile?",
+        "steps": [
+          "Ai ∅, {1}, {2}, {1,2}.",
+          "Le obții alegând pentru fiecare element: îl iei sau nu.",
+          "În total sunt 4 submulțimi."
+        ]
+      },
+      "quick_checks": [
+        "Poți lega numărul submulțimilor de 2^n?",
+        "Poți deosebi combinațiile de permutări?"
+      ],
+      "memory_hook": "Fiecare element are două stări: inclus sau nu.",
+      "sprint_plan": [
+        "stabilești regula",
+        "generezi sistematic",
+        "verifici dacă ai toate cazurile"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "grafuri-neorientate",
+      "micro_recap": "În grafurile neorientate, muchiile nu au sens, iar gradul unui vârf este numărul de muchii incidente.",
+      "attention_hook": "Desenează rapid graful sau lista de adiacență ca să nu pierzi relațiile.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · gradul unui vârf",
+        "statement": "Într-un graf cu muchiile {1-2, 1-3}, care este gradul vârfului 1?",
+        "steps": [
+          "Vârful 1 este incident cu două muchii.",
+          "Deci gradul său este 2.",
+          "Direcția nu contează în graf neorientat."
+        ]
+      },
+      "quick_checks": [
+        "Știi să numeri muchiile incidente?",
+        "Poți deosebi gradul de numărul total de vârfuri?"
+      ],
+      "memory_hook": "Grad = câte legături are vârful.",
+      "sprint_plan": [
+        "listezi muchiile",
+        "numeri incidențele",
+        "scrii gradul"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "grafuri-orientate",
+      "micro_recap": "În grafurile orientate contează sensul arcelor, deci separi gradul intern de cel extern.",
+      "attention_hook": "Orice săgeată care pleacă mărește gradul extern; orice săgeată care intră mărește gradul intern.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · grade într-un digraf",
+        "statement": "În digraful cu arcele 1→2 și 3→2, care este gradul intern al vârfului 2?",
+        "steps": [
+          "În 2 intră două arce: 1→2 și 3→2.",
+          "Gradul intern este 2.",
+          "Gradul extern al lui 2 este 0 aici."
+        ]
+      },
+      "quick_checks": [
+        "Poți separa clar „intră” de „iese”?",
+        "Știi că direcția schimbă răspunsul?"
+      ],
+      "memory_hook": "Intern = intră, extern = iese.",
+      "sprint_plan": [
+        "marchezi săgețile",
+        "numeri ce intră",
+        "numeri ce iese"
+      ]
+    },
+    {
+      "subject_id": "informatica_mate_info",
+      "subiect_id": "subiectul-3",
+      "chapter_id": "arbori",
+      "micro_recap": "Arborele este un graf conex, fără cicluri; frunzele au grad 1 în arbore neorientat.",
+      "attention_hook": "Când vezi „arbore”, verifici automat conexitatea și absența ciclurilor.",
+      "concrete_example": {
+        "title": "Exemplu lucrat · frunză",
+        "statement": "În arborele cu muchiile {1-2, 2-3}, care vârfuri sunt frunze?",
+        "steps": [
+          "Vârful 1 are grad 1 și vârful 3 are grad 1.",
+          "Vârful 2 are grad 2.",
+          "Frunzele sunt 1 și 3."
+        ]
+      },
+      "quick_checks": [
+        "Știi definiția frunzei?",
+        "Poți număra gradele rapid?"
+      ],
+      "memory_hook": "Frunză = grad 1.",
+      "sprint_plan": [
+        "calculezi gradele",
+        "identifici gradul 1",
+        "verifici structura de arbore"
+      ]
+    }
+  ]
+}

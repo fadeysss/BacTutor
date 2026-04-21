@@ -1,0 +1,362 @@
+{% extends 'base.html' %}
+{% block content %}
+{% set is_math_m1 = lesson.subject.id == 'matematica_m1' %}
+{% set quiz_count = quiz_questions|length %}
+<section class="hero compact-hero lesson-hero">
+  <div>
+    <a class="back-link" href="{{ url_for('subject_page', subject_id=lesson.subject.id) }}">← Înapoi la {{ lesson.subject.short_title }}</a>
+    <div class="breadcrumb-row">
+      <span class="eyebrow">{{ lesson.subject.short_title }}</span>
+      <span class="dot">•</span>
+      <span class="eyebrow">{{ lesson.subiect.title }}</span>
+      <span class="dot">•</span>
+      <span class="eyebrow">{{ lesson.focus_mode.label }}</span>
+    </div>
+    <h1>{{ lesson.chapter.title }}</h1>
+    <p class="hero-copy">{{ lesson.chapter.summary }}</p>
+    {% if quiz_count %}
+      <div class="hero-cta-row">
+        <a class="button secondary" href="#quiz-zone">
+          {% if is_math_m1 %}
+            Vezi setul M1 · {{ quiz_count }} grile
+          {% else %}
+            Vezi quiz-ul final
+          {% endif %}
+        </a>
+      </div>
+    {% endif %}
+  </div>
+  <aside class="card glass subject-summary-card">
+    <div class="stat-grid compact">
+      <div>
+        <span>Antrenament</span>
+        <strong>{{ lesson.chapter.practice_type }}</strong>
+      </div>
+      <div>
+        <span>Timp</span>
+        <strong>{{ lesson.chapter.estimated_minutes }} min</strong>
+      </div>
+      <div>
+        <span>XP total</span>
+        <strong>{{ student_summary.xp }}</strong>
+      </div>
+      <div>
+        <span>Nivel</span>
+        <strong>{{ student_summary.level }}</strong>
+      </div>
+    </div>
+  </aside>
+</section>
+
+<section class="lesson-layout">
+  <div class="lesson-main">
+    <article class="card section-card accent-card">
+      <div class="section-header">
+        <div>
+          <h2>Parcursul tău pentru capitol</h2>
+          <p>{{ lesson.focus_mode.description }}</p>
+        </div>
+        <span class="pill">{% if is_math_m1 %}Set M1 la final{% else %}Quiz aplicativ la final{% endif %}</span>
+      </div>
+      <p class="hero-copy">{{ lesson.attention_hook }}</p>
+      <div class="revision-grid">
+        {% for card in lesson.revision_cards %}
+          <div class="mini-panel">
+            <span>{{ card.label }}</span>
+            <strong>{{ card.text }}</strong>
+          </div>
+        {% endfor %}
+      </div>
+    </article>
+
+    <article class="card section-card">
+      <div class="section-header">
+        <div>
+          <h2>Explicația lecției</h2>
+          <p>Conținut împărțit în blocuri scurte, ca să poți parcurge rapid și clar.</p>
+        </div>
+      </div>
+      <div class="stack-list explanation-list">
+        {% for section in lesson.explanation_sections %}
+          <div class="stack-item">
+            <h4>{{ section.title }}</h4>
+            <p>{{ section.text }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    </article>
+
+    <article class="card section-card worked-example-card">
+      <div class="section-header">
+        <div>
+          <h2>{{ lesson.concrete_example.title }}</h2>
+          <p>Exemplu concret de teorie aplicată.</p>
+        </div>
+      </div>
+      <div class="example-box">
+        <p class="example-statement">{{ lesson.concrete_example.statement }}</p>
+        <ol class="steps-list dense">
+          {% for step in lesson.concrete_example.steps %}
+            <li>{{ step }}</li>
+          {% endfor %}
+        </ol>
+      </div>
+    </article>
+
+    <section class="split-section lesson-split">
+      <article class="card section-card">
+        <div class="section-header">
+          <div>
+            <h2>Ce faci în următoarele minute</h2>
+            <p>Mini-plan pentru atenție scurtă și progres constant.</p>
+          </div>
+        </div>
+        <ul class="bullet-list">
+          {% for step in lesson.sprint_plan %}
+            <li>{{ step }}</li>
+          {% endfor %}
+        </ul>
+      </article>
+
+      <article class="card section-card">
+        <div class="section-header">
+          <div>
+            <h2>Verificări rapide</h2>
+            <p>Întrebări de control înainte de {% if is_math_m1 %}setul M1{% else %}mini-quiz{% endif %}.</p>
+          </div>
+        </div>
+        <ul class="bullet-list">
+          {% for question in lesson.quick_checks %}
+            <li>{{ question }}</li>
+          {% endfor %}
+        </ul>
+        <div class="memory-hook">{{ lesson.memory_hook }}</div>
+      </article>
+    </section>
+
+    <section class="split-section lesson-split">
+      <article class="card section-card">
+        <div class="section-header">
+          <div>
+            <h2>{{ lesson.study_recipe_title }}</h2>
+            <p>Rutina optimă pentru materia asta.</p>
+          </div>
+        </div>
+        <ol class="steps-list dense">
+          {% for step in lesson.study_steps %}
+            <li>{{ step }}</li>
+          {% endfor %}
+        </ol>
+      </article>
+
+      <article class="card section-card">
+        <div class="section-header">
+          <div>
+            <h2>Task-uri de consolidare</h2>
+            <p>Fă 1-2 dintre ele înainte să reiei capitolul.</p>
+          </div>
+        </div>
+        <ul class="bullet-list">
+          {% for task in lesson.starter_tasks %}
+            <li>{{ task }}</li>
+          {% endfor %}
+        </ul>
+      </article>
+    </section>
+
+    {% if lesson.knowledge_cards %}
+      <article class="card section-card">
+        <div class="section-header">
+          <div>
+            <h2>Fragmente din materialele tale</h2>
+            <p>Conținut extras din knowledge feed și PDF-urile pe care le-ai încărcat.</p>
+          </div>
+        </div>
+        <div class="knowledge-grid">
+          {% for item in lesson.knowledge_cards %}
+            <div class="knowledge-card">
+              <div class="knowledge-meta">
+                <span>{{ item.source_name }}</span>
+                {% if item.semantic_score %}<span>semantic {{ item.semantic_score }}</span>{% endif %}
+              </div>
+              <h4>{{ item.title }}</h4>
+              <p>{{ item.snippet }}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </article>
+    {% endif %}
+
+    <article id="quiz-zone" class="card section-card quiz-final-card">
+      <div class="section-header">
+        <div>
+          {% if is_math_m1 %}
+            <h2>Set de antrenament M1</h2>
+            <p>{{ quiz_count }} grile calibrate pe stilul M_mate-info, afișate una sub alta și evaluate aici, la finalul paginii.</p>
+          {% else %}
+            <h2>Mini-quiz aplicativ</h2>
+            <p>Exercițiul apare intenționat după explicație, ca să închizi lecția cu un test scurt.</p>
+          {% endif %}
+        </div>
+      </div>
+
+      {% if quiz_questions %}
+        {% if is_math_m1 %}
+          <div class="quiz-brief-card">
+            <div>
+              <span>Format</span>
+              <strong>{{ quiz_count }} întrebări grilă</strong>
+            </div>
+            <div>
+              <span>Țintă</span>
+              <strong>stil bac M_mate-info</strong>
+            </div>
+            <div>
+              <span>Flux</span>
+              <strong>un singur submit final</strong>
+            </div>
+            <div>
+              <span>Feedback</span>
+              <strong>corectare sub fiecare item</strong>
+            </div>
+          </div>
+        {% endif %}
+
+        <form method="post" class="quiz-form quiz-form-long">
+          <input type="hidden" name="action" value="quiz">
+          {% for question in quiz_questions %}
+            <div class="quiz-question" id="question-{{ question.number }}">
+              <div class="quiz-head-row">
+                <div class="quiz-number-badge">{{ question.number }}</div>
+                <div class="quiz-head-content">
+                  <div class="quiz-meta-row">
+                    {% if question.bac_slot %}<span class="pill">{{ question.bac_slot }}</span>{% endif %}
+                    {% if question.source_year %}<span class="pill">an {{ question.source_year }}</span>{% endif %}
+                    {% if question.source_label %}<span class="pill">{{ question.source_label }}</span>{% endif %}
+                    <span class="pill">{{ question.difficulty_label }}</span>
+                  </div>
+                  <h3>{{ question.prompt }}</h3>
+                </div>
+              </div>
+              <div class="stack-list">
+                {% for option in question.options %}
+                  <label class="quiz-option {% if submitted_answers.get(question.id) == option %}selected{% endif %}">
+                    <input type="radio" name="{{ question.id }}" value="{{ option }}" {% if submitted_answers.get(question.id) == option %}checked{% endif %} required>
+                    <span>{{ option }}</span>
+                  </label>
+                {% endfor %}
+              </div>
+            </div>
+          {% endfor %}
+          <button class="button" type="submit">
+            {% if is_math_m1 %}Verifică setul M1{% else %}Verifică răspunsul{% endif %}
+          </button>
+        </form>
+      {% else %}
+        <p class="muted-text">Nu există încă itemi de quiz pentru acest capitol. Îi poți adăuga ulterior în banca de exerciții.</p>
+      {% endif %}
+
+      {% if quiz_result %}
+        <div class="result-box {% if quiz_result.percent >= 80 %}good{% elif quiz_result.percent >= 50 %}mid{% else %}warn{% endif %}">
+          <div class="result-stats">
+            <span class="pill">Scor {{ quiz_result.score }}/{{ quiz_result.total }}</span>
+            <span class="pill">{{ quiz_result.percent }}%</span>
+            <span class="pill">+{{ quiz_result.xp_gain }} XP</span>
+            <span class="pill">Nivel {{ quiz_result.level }}</span>
+          </div>
+          <p>{{ quiz_result.recommendation }}</p>
+          <div class="result-details">
+            {% for detail in quiz_result.details %}
+              <div class="detail-row {% if detail.is_correct %}ok{% else %}nope{% endif %}">
+                <div class="detail-head-row">
+                  <strong>#{{ detail.number }} · {{ detail.prompt }}</strong>
+                  <div class="quiz-meta-row compact-row">
+                    {% if detail.bac_slot %}<span class="pill">{{ detail.bac_slot }}</span>{% endif %}
+                    {% if detail.source_year %}<span class="pill">an {{ detail.source_year }}</span>{% endif %}
+                    {% if detail.difficulty_label %}<span class="pill">{{ detail.difficulty_label }}</span>{% endif %}
+                  </div>
+                </div>
+                <span>Răspunsul tău: {{ detail.selected or 'necompletat' }}</span>
+                <span>Corect: {{ detail.correct }}</span>
+                <p>{{ detail.explanation }}</p>
+                {% if detail.worked_steps %}
+                  <ol class="steps-list dense result-steps">
+                    {% for step in detail.worked_steps %}
+                      <li>{{ step }}</li>
+                    {% endfor %}
+                  </ol>
+                {% endif %}
+                {% if detail.hint and not detail.is_correct %}
+                  <p class="muted-text">Hint: {{ detail.hint }}</p>
+                {% endif %}
+                {% if detail.source_label %}
+                  <span class="pill">{{ detail.source_label }}</span>
+                {% endif %}
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+    </article>
+  </div>
+
+  <aside class="lesson-side">
+    <article class="card section-card sticky-card ai-side-card">
+      <div class="section-header">
+        <div>
+          <h2>AI Tutor</h2>
+          <p>Ollama poate amplifica explicația și poate reformula lecția în stilul tău.</p>
+        </div>
+      </div>
+      <div class="ai-status {% if lesson.ollama_status.healthy %}online{% else %}offline{% endif %}">
+        {% if lesson.ollama_status.healthy %}
+          <strong>Conectat</strong>
+          <span>{{ lesson.ollama_status.chat_model }} + {{ lesson.ollama_status.embed_model }}</span>
+        {% else %}
+          <strong>Fallback local</strong>
+          <span>Aplicația rămâne funcțională și fără serverul Ollama pornit.</span>
+        {% endif %}
+      </div>
+      <form method="post" class="stack-form">
+        <input type="hidden" name="action" value="ask">
+        <textarea name="question" rows="5" placeholder="Ex: explică-mi mai clar unde greșesc la inecuatii / dă-mi un exemplu nou / spune-mi planul pentru eseu">{{ asked_question or '' }}</textarea>
+        <button class="button" type="submit">Întreabă tutorul</button>
+      </form>
+      <div class="quick-ai-actions">
+        <form method="post">
+          <input type="hidden" name="action" value="smart_help">
+          <input type="hidden" name="preset" value="simplify">
+          <button class="button secondary pill-button" type="submit">Explică mai simplu</button>
+        </form>
+        <form method="post">
+          <input type="hidden" name="action" value="smart_help">
+          <input type="hidden" name="preset" value="example">
+          <button class="button secondary pill-button" type="submit">Dă-mi un exemplu nou</button>
+        </form>
+        <form method="post">
+          <input type="hidden" name="action" value="smart_help">
+          <input type="hidden" name="preset" value="strategy">
+          <button class="button secondary pill-button" type="submit">Strategie de bac</button>
+        </form>
+      </div>
+      {% if tutor_answer %}
+        <div class="answer-box prewrap">
+          <h4>Răspuns</h4>
+          <p>{{ tutor_answer }}</p>
+        </div>
+      {% endif %}
+    </article>
+  </aside>
+</section>
+
+{% if quiz_result %}
+  <script>
+    window.addEventListener('load', function () {
+      const node = document.getElementById('quiz-zone');
+      if (node) {
+        node.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  </script>
+{% endif %}
+{% endblock %}

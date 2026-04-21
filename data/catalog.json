@@ -1,0 +1,1905 @@
+{
+  "app_name": "Bac Tutor",
+  "generated_at": "2026-04-20T07:39:30.124378+00:00",
+  "subjects": [
+    {
+      "id": "romana_mate_info",
+      "title": "Limba și literatura română",
+      "short_title": "Română",
+      "track": "profil real - mate-info",
+      "discipline_type": "uman",
+      "badge": "RO",
+      "description": "Explicații clare pentru bac, de la text la prima vedere până la eseul pentru autorii canonici.",
+      "subiecte": [
+        {
+          "id": "subiectul-1",
+          "title": "Subiectul I",
+          "summary": "Înțelegerea textului la prima vedere, argumentare, vocabular și corectitudine în exprimare.",
+          "chapters": [
+            {
+              "id": "text-la-prima-vedere",
+              "title": "Text la prima vedere",
+              "summary": "Lucrezi pe text suport: identifici informații explicite și implicite, relații logice, atitudini și detalii relevante.",
+              "objective": "să extragi rapid informația utilă și să justifici răspunsurile prin trimiteri clare la text",
+              "common_mistake": "răspunsuri vagi, fără raportare exactă la fragmentul dat",
+              "practice_type": "analiză pe text suport",
+              "practice_prompt": "Citește un fragment necunoscut și rezolvă 5 cerințe: idee principală, două informații explicite, sensul unui cuvânt și o observație de atitudine.",
+              "coach_tip": "Sublinează în text zona din care ai extras răspunsul. La bac, justificarea scurtă și precisă face diferența.",
+              "keywords": [
+                "text suport",
+                "înțelegere",
+                "informații explicite",
+                "informații implicite",
+                "atitudine",
+                "idee principală"
+              ],
+              "starter_tasks": [
+                "Alege un text scurt și marchează în el 3 informații explicite și 2 inferențe.",
+                "Scrie două răspunsuri de 2-3 enunțuri, fiecare susținut prin citat sau parafrază precisă."
+              ],
+              "estimated_minutes": 30
+            },
+            {
+              "id": "sens-denotativ-conotativ-si-expresivitate",
+              "title": "Sens denotativ, conotativ și expresivitate",
+              "summary": "Exersezi sensul cuvintelor, rolul figurilor de stil și efectul expresiv al alegerilor de limbaj.",
+              "objective": "să explici nu doar ce înseamnă un cuvânt, ci și ce efect produce în context",
+              "common_mistake": "enumerarea figurilor de stil fără explicarea efectului lor în text",
+              "practice_type": "comentariu pe expresivitate",
+              "practice_prompt": "Alege 3 cuvinte sau imagini artistice dintr-un text și explică sensul lor denotativ, conotativ și rolul stilistic.",
+              "coach_tip": "Formula utilă: „sugerează”, „accentuează”, „creează”, „conturează”. Evită etichetele fără interpretare.",
+              "keywords": [
+                "sens denotativ",
+                "sens conotativ",
+                "figuri de stil",
+                "expresivitate",
+                "imagini artistice"
+              ],
+              "starter_tasks": [
+                "Fă o recapitulare de 5 minute pentru «Sens denotativ, conotativ și expresivitate» și notează 3 idei-cheie.",
+                "Rezolvă un exercițiu scurt sau scrie un răspuns model pentru «Sens denotativ, conotativ și expresivitate»."
+              ],
+              "estimated_minutes": 30
+            },
+            {
+              "id": "text-argumentativ",
+              "title": "Text argumentativ",
+              "summary": "Construiești un răspuns coerent, cu teză, două argumente dezvoltate și concluzie personală.",
+              "objective": "să redactezi un text argumentativ bine organizat, clar și convingător",
+              "common_mistake": "confundarea opiniei personale cu argumentarea reală; lipsa exemplelor relevante",
+              "practice_type": "redactare de text argumentativ",
+              "practice_prompt": "Scrie un text de 150-200 de cuvinte cu teză clară, două argumente și un exemplu personal sau cultural pentru fiecare argument.",
+              "coach_tip": "Respectă structura: introducere scurtă, poziție clară, argumente cu exemple, concluzie. Conectorii logici trebuie să fie vizibili.",
+              "keywords": [
+                "argumentare",
+                "teză",
+                "argumente",
+                "concluzie",
+                "conectori logici",
+                "opinie"
+              ],
+              "starter_tasks": [
+                "Alege o temă simplă și formulează o teză într-un singur enunț.",
+                "Construiește două argumente diferite pentru aceeași teză și adaugă câte un exemplu concret."
+              ],
+              "estimated_minutes": 30
+            },
+            {
+              "id": "norme-de-redactare-ortografie-punctuatie-morfosintaxa",
+              "title": "Norme de redactare: ortografie, punctuație, morfosintaxă",
+              "summary": "Recapitulezi acordul, ortografia uzuală, semnele de punctuație și formularea corectă a răspunsurilor.",
+              "objective": "să redactezi corect și curat, fără greșeli care reduc punctajul",
+              "common_mistake": "ignorarea reviziei finale și a semnelor de punctuație în enunțurile complexe",
+              "practice_type": "corectare și rescriere",
+              "practice_prompt": "Corectează un paragraf cu 8-10 greșeli și explică de ce ai modificat fiecare formă problematică.",
+              "coach_tip": "Ultimele 3 minute înainte de predare sunt pentru verificare: acorduri, cratimă, virgule, literă mare și formulări prea lungi.",
+              "keywords": [
+                "ortografie",
+                "punctuatie",
+                "morfosintaxa",
+                "acord",
+                "redactare corecta"
+              ],
+              "starter_tasks": [
+                "Fă o recapitulare de 5 minute pentru «Norme de redactare: ortografie, punctuație, morfosintaxă» și notează 3 idei-cheie.",
+                "Rezolvă un exercițiu scurt sau scrie un răspuns model pentru «Norme de redactare: ortografie, punctuație, morfosintaxă»."
+              ],
+              "estimated_minutes": 30
+            }
+          ]
+        },
+        {
+          "id": "subiectul-2",
+          "title": "Subiectul II",
+          "summary": "Analiza unui text dat prin raportare la gen, specie, perspectivă, compoziție și personaje.",
+          "chapters": [
+            {
+              "id": "perspectiva-narativa-si-punct-de-vedere",
+              "title": "Perspectivă narativă și punct de vedere",
+              "summary": "Identifici tipul de narator, focalizarea și relația dintre autor, narator și personaje.",
+              "objective": "să diferențiezi clar autorul de narator și să explici efectul perspectivei asupra cititorului",
+              "common_mistake": "confundarea autorului real cu vocea narativă din text",
+              "practice_type": "analiză de fragment narativ",
+              "practice_prompt": "Primești un fragment narativ și explici tipul de narator, persoana verbală dominantă și efectul subiectivității sau obiectivității.",
+              "coach_tip": "Caută indicii concrete: persoana verbelor, accesul la gândurile personajelor, comentariul naratorial, distanța față de acțiune.",
+              "keywords": [
+                "perspectiva narativa",
+                "narator",
+                "focalizare",
+                "punct de vedere",
+                "fragment narativ"
+              ],
+              "starter_tasks": [
+                "Fă o recapitulare de 5 minute pentru «Perspectivă narativă și punct de vedere» și notează 3 idei-cheie.",
+                "Rezolvă un exercițiu scurt sau scrie un răspuns model pentru «Perspectivă narativă și punct de vedere»."
+              ],
+              "estimated_minutes": 30
+            },
+            {
+              "id": "rolul-didascaliilor-si-particularitatile-textului-dramatic",
+              "title": "Rolul didascaliilor și particularitățile textului dramatic",
+              "summary": "Analizezi replici, conflict, indicații scenice și construcția unei situații dramatice.",
+              "objective": "să arăți cum contribuie didascaliile la înțelegerea personajelor și a conflictului",
+              "common_mistake": "tratarea didascaliilor ca simple detalii decorative, fără rol funcțional",
+              "practice_type": "comentariu pe text dramatic",
+              "practice_prompt": "Explică, pe un fragment dramatic, ce transmit didascaliile despre spațiu, relații și tonul scenei.",
+              "coach_tip": "Leagă indicațiile scenice de conflict, ritm, gesturi și atmosfera scenei. Acolo se ascunde adesea sensul.",
+              "keywords": [
+                "text dramatic",
+                "didascalii",
+                "replici",
+                "conflict",
+                "scena",
+                "personaj"
+              ],
+              "starter_tasks": [
+                "Fă o recapitulare de 5 minute pentru «Rolul didascaliilor și particularitățile textului dramatic» și notează 3 idei-cheie.",
+                "Rezolvă un exercițiu scurt sau scrie un răspuns model pentru «Rolul didascaliilor și particularitățile textului dramatic»."
+              ],
+              "estimated_minutes": 30
+            },
+            {
+              "id": "caracterizare-de-personaj",
+              "title": "Caracterizare de personaj",
+              "summary": "Construiești portretul unui personaj din mijloace directe și indirecte: fapte, limbaj, relații, gesturi.",
+              "objective": "să formulezi o caracterizare echilibrată, bazată pe exemple relevante din text",
+              "common_mistake": "liste de trăsături fără susținere textuală sau fără nuanțare",
+              "practice_type": "portret literar",
+              "practice_prompt": "Alege un personaj și realizează o caracterizare în 2 paragrafe: trăsături dominante, scene relevante și mijloace de caracterizare.",
+              "coach_tip": "Trăsătura trebuie demonstrată. Pentru fiecare calitate sau defect, caută un gest, o replică sau o scenă clară.",
+              "keywords": [
+                "caracterizare",
+                "personaj",
+                "mijloace directe",
+                "mijloace indirecte",
+                "portret",
+                "relatii"
+              ],
+              "starter_tasks": [
+                "Fă o recapitulare de 5 minute pentru «Caracterizare de personaj» și notează 3 idei-cheie.",
+                "Rezolvă un exercițiu scurt sau scrie un răspuns model pentru «Caracterizare de personaj»."
+              ],
+              "estimated_minutes": 30
+            },
+            {
+              "id": "elemente-de-compozitie-si-limbaj",
+              "title": "Elemente de compoziție și limbaj",
+              "summary": "Analizezi titlul, incipitul, finalul, planurile narative, simbolurile și registrele stilistice.",
+              "objective": "să explici de ce un element de construcție susține sensul textului și nu este doar decorativ",
+              "common_mistake": "comentarea izolată a titlului sau a motivelor fără raportare la sensul general",
+              "practice_type": "analiză de compoziție",
+              "practice_prompt": "Primești un text și comentezi rolul titlului, al incipitului sau al finalului în raport cu tema.",
+              "coach_tip": "Pleacă de la întrebarea: „ce aduce acest element în sensul textului?” și răspunde cu un exemplu concret.",
+              "keywords": [
+                "titlu",
+                "incipit",
+                "final",
+                "compozitie",
+                "simbol",
+                "registre stilistice"
+              ],
+              "starter_tasks": [
+                "Fă o recapitulare de 5 minute pentru «Elemente de compoziție și limbaj» și notează 3 idei-cheie.",
+                "Rezolvă un exercițiu scurt sau scrie un răspuns model pentru «Elemente de compoziție și limbaj»."
+              ],
+              "estimated_minutes": 30
+            }
+          ]
+        },
+        {
+          "id": "subiectul-3",
+          "title": "Subiectul III",
+          "summary": "Eseul pentru autorii canonici și pentru marile repere istorico-literare din programa de bac.",
+          "chapters": [
+            {
+              "id": "curente-literare-si-repere-istorico-literare",
+              "title": "Curente literare și repere istorico-literare",
+              "summary": "Recapitulezi marile repere: umanism, iluminism, pașoptism, junimism, romantism, realism, simbolism, modernism, tradiționalism și postbelic.",
+              "objective": "să plasezi corect un autor și o operă în contextul istoric și estetic potrivit",
+              "common_mistake": "amestecarea curentelor literare sau folosirea etichetelor fără argumente din operă",
+              "practice_type": "fișă de sinteză comparativă",
+              "practice_prompt": "Construiește un tabel comparativ pentru 4 curente literare: trăsături, autori, opere și două formule-cheie de recunoaștere.",
+              "coach_tip": "La eseu, contextul e util doar dacă pregătește analiza operei. Nu lăsa teoria să înlocuiască textul.",
+              "keywords": [
+                "umanism",
+                "iluminism",
+                "pasoptism",
+                "junimism",
+                "romantism",
+                "realism",
+                "simbolism",
+                "modernism",
+                "traditionalism",
+                "postbelic"
+              ],
+              "starter_tasks": [
+                "Fă o listă cu 5 curente literare și asociază fiecăruia câte un autor și o operă.",
+                "Scrie un paragraf care explică diferența dintre romantism și realism prin două exemple."
+              ],
+              "estimated_minutes": 25
+            },
+            {
+              "id": "mihai-eminescu-poezie-si-romantism",
+              "title": "Mihai Eminescu - poezie și romantism",
+              "summary": "Te concentrezi pe imaginarul poetic, tema iubirii sau a condiției geniului și pe relația dintre viziune și limbaj romantic.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "rezumarea poeziei fără comentarea imaginilor și a simbolurilor esențiale",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Mihai Eminescu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "romantism",
+                "poezie",
+                "geniu",
+                "iubire",
+                "imaginar cosmic",
+                "Mihai Eminescu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Mihai Eminescu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Mihai Eminescu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "ion-creanga-basm-si-proza-memorialistica",
+              "title": "Ion Creangă - basm și proză memorialistică",
+              "summary": "Urmărești oralitatea, umorul, construcția personajului și specificul universului popular sau autobiografic.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "tratarea oralității doar ca listă de regionalisme, fără efect asupra tonului și autenticității",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Ion Creangă, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "oralitate",
+                "basm",
+                "umor",
+                "univers popular",
+                "autenticitate",
+                "Ion Creangă",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Ion Creangă.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Ion Creangă."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "i-l-caragiale-comedie-si-schita",
+              "title": "I. L. Caragiale - comedie și schiță",
+              "summary": "Analizezi satira, limbajul personajelor, mecanismele comicului și critica socială.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "enumerarea tipurilor de comic fără exemplificare din scenă sau replică",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru I. L. Caragiale, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "comedie",
+                "comic",
+                "satira",
+                "tipologie",
+                "limbaj",
+                "I. L. Caragiale",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre I. L. Caragiale.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la I. L. Caragiale."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "titu-maiorescu-critica-si-junimism",
+              "title": "Titu Maiorescu - critică și junimism",
+              "summary": "Fixezi rolul teoriei formelor fără fond și poziția critică a junimismului în cultura română.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "transformarea eseului într-o lecție de istorie literară fără idei bine organizate",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Titu Maiorescu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "junimism",
+                "critica",
+                "forme fara fond",
+                "cultura",
+                "Titu Maiorescu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Titu Maiorescu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Titu Maiorescu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "ioan-slavici-nuvela-realista-si-morala",
+              "title": "Ioan Slavici - nuvelă realistă și morală",
+              "summary": "Urmărești conflictul interior, relația destin-caracter și mecanismele realismului moralizator.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "reducerea nuvelei la rezumatul acțiunii, fără observații despre construcția conflictului",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Ioan Slavici, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "nuvela",
+                "realism",
+                "moral",
+                "conflict interior",
+                "Ioan Slavici",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Ioan Slavici.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Ioan Slavici."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "george-bacovia-simbolism",
+              "title": "George Bacovia - simbolism",
+              "summary": "Analizezi atmosfera, cromatica, muzicalitatea și spațiul închis sau apăsător specific simbolismului bacovian.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "comentarea stărilor poetice fără legătură cu imaginile și simbolurile dominante",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru George Bacovia, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "simbolism",
+                "atmosfera",
+                "cromatica",
+                "muzicalitate",
+                "angoasa",
+                "George Bacovia",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre George Bacovia.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la George Bacovia."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "lucian-blaga-poezie-modernista",
+              "title": "Lucian Blaga - poezie modernistă",
+              "summary": "Te uiți la relația dintre cunoaștere, mister, metaforă revelatorie și viziunea filosofică.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "explicarea abstractă a ideilor fără ancorare în imagini și versuri reprezentative",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Lucian Blaga, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "modernism",
+                "metafora",
+                "mister",
+                "cunoastere",
+                "filosofie",
+                "Lucian Blaga",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Lucian Blaga.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Lucian Blaga."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "tudor-arghezi-modernism-si-estetica-uratului",
+              "title": "Tudor Arghezi - modernism și estetica urâtului",
+              "summary": "Urmărești inovația lexicală, tensiunea spirituală și transformarea materiei poetice în expresie artistică.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "așezarea automată a tuturor textelor sub aceeași etichetă fără nuanțarea temei și tonalității",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Tudor Arghezi, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "modernism",
+                "estetica uratului",
+                "lexic",
+                "spiritualitate",
+                "Tudor Arghezi",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Tudor Arghezi.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Tudor Arghezi."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "ion-barbu-ermetism-si-joc-secund",
+              "title": "Ion Barbu - ermetism și joc secund",
+              "summary": "Pui accent pe abstracție, simbolizare, limbajul intelectualizat și construcția ermetică.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "renunțarea la interpretare pe motiv că textul pare greu; trebuie căutate câteva axe clare",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Ion Barbu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "ermetism",
+                "simbol",
+                "abstractizare",
+                "intelectualizare",
+                "Ion Barbu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Ion Barbu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Ion Barbu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "mihail-sadoveanu-roman-traditional-si-istoric",
+              "title": "Mihail Sadoveanu - roman tradițional și istoric",
+              "summary": "Analizezi relația om-natură, construcția lumii narative și amploarea descriptivă sau epică.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "aglomerarea eseului cu detalii de acțiune și lipsa unei idei centrale despre lumea operei",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Mihail Sadoveanu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "roman",
+                "traditie",
+                "istoric",
+                "natura",
+                "epic",
+                "Mihail Sadoveanu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Mihail Sadoveanu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Mihail Sadoveanu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "liviu-rebreanu-roman-realist-obiectiv",
+              "title": "Liviu Rebreanu - roman realist obiectiv",
+              "summary": "Urmărești conflictul social și moral, obiectivitatea naratorială și construcția personajului în raport cu lumea satului sau a frontului.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "folosirea unor formule de manual fără comentarea scenelor-cheie",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Liviu Rebreanu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "roman realist",
+                "obiectivitate",
+                "conflict social",
+                "personaj",
+                "Liviu Rebreanu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Liviu Rebreanu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Liviu Rebreanu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "camil-petrescu-roman-subiectiv-si-autenticitate",
+              "title": "Camil Petrescu - roman subiectiv și autenticitate",
+              "summary": "Te concentrezi pe perspectiva subiectivă, analiza conștiinței, autenticitate și relativizarea adevărului.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "confundarea romanului subiectiv cu lipsa structurii; și aici ai nevoie de exemple bine alese",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Camil Petrescu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "roman subiectiv",
+                "autenticitate",
+                "constiinta",
+                "perspectiva",
+                "Camil Petrescu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Camil Petrescu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Camil Petrescu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "g-calinescu-roman-balzacian-si-critica",
+              "title": "G. Călinescu - roman balzacian și critică",
+              "summary": "Analizezi tipologia personajelor, realismul balzacian și construcția familiei sau a universului burghez.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "insistența doar pe eticheta „balzacian” fără exemplificarea mecanismelor narative",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru G. Călinescu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "balzacian",
+                "tipologie",
+                "familie",
+                "realism",
+                "G. Călinescu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre G. Călinescu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la G. Călinescu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "e-lovinescu-modernism-critic",
+              "title": "E. Lovinescu - modernism critic",
+              "summary": "Fixezi sincronismul, modernizarea literaturii și poziția critică față de evoluția culturii române.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "memorarea definițiilor fără legătură cu rolul criticii în dinamica literaturii",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru E. Lovinescu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "sincronism",
+                "modernism",
+                "critica",
+                "evolutie culturala",
+                "E. Lovinescu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre E. Lovinescu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la E. Lovinescu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "marin-preda-roman-postbelic",
+              "title": "Marin Preda - roman postbelic",
+              "summary": "Urmărești presiunea istoriei asupra individului, relația cu familia și comunitatea, precum și construcția realistă a personajelor.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "rezumat foarte lung al acțiunii și absența ideilor despre viziunea narativă",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Marin Preda, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "postbelic",
+                "roman",
+                "istorie",
+                "familie",
+                "comunitate",
+                "Marin Preda",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Marin Preda.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Marin Preda."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "nichita-stanescu-neomodernism",
+              "title": "Nichita Stănescu - neomodernism",
+              "summary": "Analizezi limbajul reflexiv, metafora, raportul dintre cuvânt și realitate și reinventarea discursului poetic.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "comentariul prea abstract, fără citate sau imagini centrale clar interpretate",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Nichita Stănescu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "neomodernism",
+                "metafora",
+                "limbaj",
+                "reflexivitate",
+                "Nichita Stănescu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Nichita Stănescu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Nichita Stănescu."
+              ],
+              "estimated_minutes": 40
+            },
+            {
+              "id": "marin-sorescu-poezie-si-dramaturgie-postbelica",
+              "title": "Marin Sorescu - poezie și dramaturgie postbelică",
+              "summary": "Pui accent pe ironie, demitizare, simplitate aparentă și profunzime reflexivă.",
+              "objective": "să construiești un eseu clar: context literar, temă, două secvențe comentate, elemente de compoziție și concluzie",
+              "common_mistake": "citirea exclusiv ludică a textelor, fără nivelul grav sau filozofic",
+              "practice_type": "eseu structurat de 2-3 pagini",
+              "practice_prompt": "Scrie un plan de eseu pentru Marin Sorescu, cu teză, două argumente și o concluzie personalizată.",
+              "coach_tip": "Nu enumera informații disparate. Leagă fiecare exemplu de teză și folosește formulări de interpretare.",
+              "keywords": [
+                "postbelic",
+                "ironie",
+                "demitizare",
+                "reflexivitate",
+                "Marin Sorescu",
+                "eseu",
+                "opera",
+                "tema",
+                "bac"
+              ],
+              "starter_tasks": [
+                "Scrie în 6-8 rânduri o introducere pentru un eseu despre Marin Sorescu.",
+                "Alege două scene sau imagini relevante și explică de ce susțin tema la Marin Sorescu."
+              ],
+              "estimated_minutes": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "matematica_m1",
+      "title": "Matematică M1",
+      "short_title": "Matematică M1",
+      "track": "profil real - matematică-informatică",
+      "discipline_type": "exact",
+      "badge": "M1",
+      "description": "Capitole grupate pedagogic pentru bac M1 (mate-info), cu accent pe metode, raționament, redactare clară și tipare de exerciții.",
+      "subiecte": [
+        {
+          "id": "subiectul-1",
+          "title": "Subiectul I",
+          "summary": "6 itemi scurți de tip M_mate-info: numere și calcule rapide, funcții, ecuații de bază, combinatorică/probabilități, geometrie analitică și trigonometrie.",
+          "chapters": [
+            {
+              "id": "multimi-intervale-si-logica-matematica",
+              "title": "Mulțimi, intervale și logică matematică",
+              "summary": "Recapitulezi relația de apartenență, reuniune, intersecție, incluziune și propoziții logice de bază.",
+              "objective": "să traduci corect un enunț în limbaj matematic și să operezi riguros cu mulțimi și intervale",
+              "common_mistake": "confundarea semnelor de incluziune cu apartenența și neglijarea restricțiilor de domeniu",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Mulțimi, intervale și logică matematică»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "multimi",
+                "intervale",
+                "propozitii logice",
+                "apartenență",
+                "incluziune",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Mulțimi, intervale și logică matematică"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Mulțimi, intervale și logică matematică».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Mulțimi, intervale și logică matematică»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "functii-si-reprezentari-grafice",
+              "title": "Funcții și reprezentări grafice",
+              "summary": "Lucrezi cu definiția funcției, domeniu, imagine, monotonia intuitivă și citirea informațiilor din grafic.",
+              "objective": "să extragi rapid informații dintr-un grafic și să legi proprietățile de reprezentarea vizuală",
+              "common_mistake": "citirea superficială a graficului fără verificarea axelor, unităților și domeniului",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Funcții și reprezentări grafice»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "functii",
+                "grafic",
+                "domeniu",
+                "imagine",
+                "monotonie",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Funcții și reprezentări grafice"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Funcții și reprezentări grafice».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Funcții și reprezentări grafice»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "functia-de-gradul-i-si-functia-de-gradul-al-ii-lea",
+              "title": "Funcția de gradul I și funcția de gradul al II-lea",
+              "summary": "Rezolvi probleme cu ecuații, intersecții, semn, vârf de parabolă și interpretare grafică.",
+              "objective": "să alegi formula corectă și să interpretezi geometric datele unei funcții polinomiale simple",
+              "common_mistake": "aplicarea formulelor fără verificarea coeficienților și a semnului discriminantului",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Funcția de gradul I și funcția de gradul al II-lea»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "gradul I",
+                "gradul II",
+                "parabola",
+                "discriminant",
+                "intersectii",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Funcția de gradul I și funcția de gradul al II-lea"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Funcția de gradul I și funcția de gradul al II-lea».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Funcția de gradul I și funcția de gradul al II-lea»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "siruri-aritmetice-si-geometrice",
+              "title": "Șiruri aritmetice și geometrice",
+              "summary": "Fixezi termenul general, suma primilor n termeni și recunoașterea tiparului unui șir.",
+              "objective": "să identifici repede dacă un șir este aritmetic sau geometric și să folosești formula potrivită",
+              "common_mistake": "folosirea greșită a rației sau a diferenței și confuzia între termen general și sumă",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Șiruri aritmetice și geometrice»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "siruri",
+                "aritmetic",
+                "geometric",
+                "ratie",
+                "sumă",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Șiruri aritmetice și geometrice"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Șiruri aritmetice și geometrice».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Șiruri aritmetice și geometrice»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "puteri-radicali-si-logaritmi",
+              "title": "Puteri, radicali și logaritmi",
+              "summary": "Simplifici expresii, folosești proprietăți și gestionezi condițiile de existență.",
+              "objective": "să reduci expresii algebrice fără să pierzi condițiile de definiție",
+              "common_mistake": "anularea unor termeni fără verificarea domeniului sau aplicarea greșită a proprietăților logaritmilor",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Puteri, radicali și logaritmi»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "puteri",
+                "radicali",
+                "logaritmi",
+                "domeniu",
+                "simplificare",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Puteri, radicali și logaritmi"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Puteri, radicali și logaritmi».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Puteri, radicali și logaritmi»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "numere-complexe",
+              "title": "Numere complexe",
+              "summary": "Lucrezi cu forma algebrică, conjugat, modul și interpretarea geometrică de bază.",
+              "objective": "să efectuezi corect operații cu numere complexe și să recunoști forma convenabilă pentru calcul",
+              "common_mistake": "uitarea lui i² = -1 sau amestecarea părții reale cu partea imaginară",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Numere complexe»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "numere complexe",
+                "conjugat",
+                "modul",
+                "forma algebrica",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Numere complexe"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Numere complexe».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Numere complexe»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "functia-exponentiala-si-functia-logaritmica",
+              "title": "Funcția exponențială și funcția logaritmică",
+              "summary": "Stăpânești proprietăți, grafice, intersecții și relația dintre funcțiile inverse.",
+              "objective": "să interpretezi corect graficele și să rezolvi cerințe cu bază și argument",
+              "common_mistake": "ignorarea condiției de bază pozitivă diferită de 1 și a argumentului pozitiv la logaritm",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Funcția exponențială și funcția logaritmică»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "functie exponentiala",
+                "functie logaritmica",
+                "grafice",
+                "inverse",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Funcția exponențială și funcția logaritmică"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Funcția exponențială și funcția logaritmică».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Funcția exponențială și funcția logaritmică»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+              "title": "Ecuații și inecuații exponențiale, logaritmice și trigonometrice",
+              "summary": "Aplici transformări, substituții și proprietăți specifice pentru a ajunge la forme rezolvabile.",
+              "objective": "să alegi metoda de transformare potrivită și să verifici soluțiile obținute",
+              "common_mistake": "transformări care nu sunt echivalente sau pierderea soluțiilor la ridicare la pătrat",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Ecuații și inecuații exponențiale, logaritmice și trigonometrice»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "ecuații",
+                "inecuații",
+                "substituție",
+                "verificare",
+                "trigonometrice",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Ecuații și inecuații exponențiale, logaritmice și trigonometrice"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Ecuații și inecuații exponențiale, logaritmice și trigonometrice».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Ecuații și inecuații exponențiale, logaritmice și trigonometrice»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "metode-de-numarare-si-combinatorica",
+              "title": "Metode de numărare și combinatorică",
+              "summary": "Lucrezi cu permutări, aranjamente, combinații și principiul produsului în contexte tip bac.",
+              "objective": "să recunoști structura de numărare și să alegi formula fără a dubla cazurile",
+              "common_mistake": "confundarea ordinii cu neordinea și numărarea repetată a acelorași situații",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Metode de numărare și combinatorică»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "combinatorica",
+                "permutari",
+                "aranjamente",
+                "combinari",
+                "principiul produsului",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Metode de numărare și combinatorică"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Metode de numărare și combinatorică».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Metode de numărare și combinatorică»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "probabilitati-statistica-si-matematici-financiare",
+              "title": "Probabilități, statistică și matematici financiare",
+              "summary": "Exersezi evenimente, probabilități simple, medii, dispersii intuitive și calcule financiare elementare.",
+              "objective": "să organizezi datele și să folosești corect raportul favorabil/posibil sau formulele de dobândă",
+              "common_mistake": "graba la numărarea cazurilor și neatenția la procente, perioade și unități",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Probabilități, statistică și matematici financiare»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "probabilitati",
+                "statistica",
+                "procente",
+                "dobanda",
+                "date",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Probabilități, statistică și matematici financiare"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Probabilități, statistică și matematici financiare».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Probabilități, statistică și matematici financiare»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "vectori-in-plan-si-coliniaritate",
+              "title": "Vectori în plan și coliniaritate",
+              "summary": "Exersezi coordonate, vectori, relații de paralelism, coliniaritate și combinații liniare simple.",
+              "objective": "să folosești calculul vectorial ca instrument de verificare rapidă în geometria analitică",
+              "common_mistake": "înmulțirea și scăderea coordonatelor fără respectarea formulei vectoriale",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Vectori în plan și coliniaritate»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "vectori",
+                "coordonate",
+                "coliniaritate",
+                "paralelism",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Vectori în plan și coliniaritate"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Vectori în plan și coliniaritate».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Vectori în plan și coliniaritate»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "geometrie-analitica-in-plan",
+              "title": "Geometrie analitică în plan",
+              "summary": "Folosești ecuația dreptei, panta, distanța, condiții de paralelism și perpendicularitate.",
+              "objective": "să transformi o problemă geometrică într-un calcul analitic ordonat",
+              "common_mistake": "pierderea semnelor în formula dreptei sau folosirea greșită a formulei distanței",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Geometrie analitică în plan»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "geometrie analitica",
+                "dreapta",
+                "panta",
+                "distanta",
+                "paralelism",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Geometrie analitică în plan"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Geometrie analitică în plan».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Geometrie analitică în plan»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "trigonometrie-elementara",
+              "title": "Trigonometrie elementară",
+              "summary": "Recapitulezi cercul trigonometric, formule de reducere, relații fundamentale și valori uzuale.",
+              "objective": "să recunoști imediat formula utilă și să lucrezi corect cu unghiuri și valori speciale",
+              "common_mistake": "amestecarea formulelor de reducere și uitarea condițiilor pentru unghiuri",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Trigonometrie elementară»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "trigonometrie",
+                "sin",
+                "cos",
+                "tangenta",
+                "cerc trigonometric",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Trigonometrie elementară"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Trigonometrie elementară».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Trigonometrie elementară»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "aplicatii-de-trigonometrie-si-produs-scalar",
+              "title": "Aplicații de trigonometrie și produs scalar",
+              "summary": "Aplici teoreme și formule în triunghi, distanțe, unghiuri și verificarea perpendicularității.",
+              "objective": "să legi datele din desen de formula potrivită și să justifici fiecare transformare",
+              "common_mistake": "folosirea mecanică a formulelor fără desen clar și fără notarea tuturor datelor",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Desenează figura, notează toate datele și rezolvă o problemă bac în care folosești produsul scalar sau o relație trigonometrică.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "produs scalar",
+                "triunghi",
+                "unghi",
+                "distanta",
+                "geometrie",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Aplicații de trigonometrie și produs scalar"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Aplicații de trigonometrie și produs scalar».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Aplicații de trigonometrie și produs scalar»."
+              ],
+              "estimated_minutes": 35
+            }
+          ]
+        },
+        {
+          "id": "subiectul-2",
+          "title": "Subiectul II",
+          "summary": "Exercițiul 1 pune accent pe matrice, determinanți, sisteme și tipurile clasice de subpunct c; exercițiul 2 merge pe legi de compoziție sau polinoame.",
+          "chapters": [
+            {
+              "id": "matrice-determinanti-si-sisteme-liniare",
+              "title": "Matrice, determinanți și sisteme liniare",
+              "summary": "Aplici operații cu matrice, calculezi determinanți și rezolvi sisteme cu regula lui Cramer sau metode elementare.",
+              "objective": "să alegi instrumentul potrivit pentru tipul de sistem și să păstrezi ordinea calculelor",
+              "common_mistake": "schimbarea ordinii liniilor fără a ține cont de efectul asupra determinantului",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Matrice, determinanți și sisteme liniare»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "matrice",
+                "determinant",
+                "sisteme",
+                "cramer",
+                "gauss",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Matrice, determinanți și sisteme liniare"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Matrice, determinanți și sisteme liniare».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Matrice, determinanți și sisteme liniare»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "grupuri-si-legi-de-compozitie",
+              "title": "Grupuri și legi de compoziție",
+              "summary": "Fixezi noțiunile de lege internă, element neutru, invers și exemple simple de structuri algebrice.",
+              "objective": "să verifici ordonat proprietățile unei structuri și să recunoști exemple uzuale",
+              "common_mistake": "confundarea asocierii cu comutativitatea sau uitarea elementului neutru",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Grupuri și legi de compoziție»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "grupuri",
+                "lege de compozitie",
+                "element neutru",
+                "invers",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Grupuri și legi de compoziție"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Grupuri și legi de compoziție».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Grupuri și legi de compoziție»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "inele-corpuri-si-polinoame",
+              "title": "Inele, corpuri și polinoame",
+              "summary": "Recapitulezi noțiuni esențiale despre structuri algebrice, împărțirea polinoamelor, Bézout, Horner și rădăcini.",
+              "objective": "să folosești relațiile și teoremele de bază pentru a simplifica sau factoriza polinoame",
+              "common_mistake": "aplicarea teoremei lui Bézout fără verificarea corectă a rădăcinii candidate",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Inele, corpuri și polinoame»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "inele",
+                "corpuri",
+                "polinoame",
+                "bezout",
+                "horner",
+                "vieta",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Inele, corpuri și polinoame"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Inele, corpuri și polinoame».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Inele, corpuri și polinoame»."
+              ],
+              "estimated_minutes": 35
+            }
+          ]
+        },
+        {
+          "id": "subiectul-3",
+          "title": "Subiectul III",
+          "summary": "Analiză matematică: limite, continuitate și asimptote, derivate și studiu de funcție, apoi primitive, integrale și aplicațiile lor.",
+          "chapters": [
+            {
+              "id": "limite-de-functii",
+              "title": "Limite de funcții",
+              "summary": "Calculezi limite prin factorizare, simplificare, împărțire la termenul dominant sau substituții utile.",
+              "objective": "să alegi rapid tehnica potrivită pentru forma întâlnită la limită",
+              "common_mistake": "aplicarea aceleiași metode la toate formele fără diagnostic inițial",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Limite de funcții»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "limite",
+                "termen dominant",
+                "factorizare",
+                "substitutie",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Limite de funcții"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Limite de funcții».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Limite de funcții»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "continuitate",
+              "title": "Continuitate",
+              "summary": "Verifici continuitatea într-un punct sau pe un interval și interpretezi consecințele acestei proprietăți.",
+              "objective": "să legi definiția de calculele concrete și de reprezentarea grafică",
+              "common_mistake": "confundarea existenței funcției într-un punct cu existența limitei și egalitatea lor",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Continuitate»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "continuitate",
+                "limita",
+                "punct",
+                "interval",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Continuitate"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Continuitate».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Continuitate»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "derivabilitate",
+              "title": "Derivabilitate",
+              "summary": "Aplici formule de derivare și înțelegi ce exprimă derivata despre variația locală a funcției.",
+              "objective": "să derivezi sigur și să recunoști când derivata este instrumentul central al problemei",
+              "common_mistake": "erori de derivare la produse, rapoarte sau compuneri",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Derivabilitate»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "derivata",
+                "reguli de derivare",
+                "produs",
+                "raport",
+                "compunere",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Derivabilitate"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Derivabilitate».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Derivabilitate»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "studiul-functiilor-cu-ajutorul-derivatelor",
+              "title": "Studiul funcțiilor cu ajutorul derivatelor",
+              "summary": "Construiești tabelul de variație, determini extreme, monotonia și interpretezi rezultatele în context.",
+              "objective": "să transformi derivata într-un plan complet de analiză a funcției",
+              "common_mistake": "săritul direct la concluzii fără tabel de semne sau fără justificarea punctelor critice",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Studiul funcțiilor cu ajutorul derivatelor»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "studiul functiilor",
+                "monotonie",
+                "extreme",
+                "tabel de variatie",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Studiul funcțiilor cu ajutorul derivatelor"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Studiul funcțiilor cu ajutorul derivatelor».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Studiul funcțiilor cu ajutorul derivatelor»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "primitive",
+              "title": "Primitive",
+              "summary": "Recunoști forme standard și refaci o funcție pornind de la derivata ei.",
+              "objective": "să folosești corect regulile de bază pentru primitive și constantele de integrare",
+              "common_mistake": "omiterea constantei sau folosirea eronată a unei formule standard",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Primitive»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "primitive",
+                "antiderivare",
+                "formule standard",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Primitive"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Primitive».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Primitive»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "integrala-definita",
+              "title": "Integrala definită",
+              "summary": "Calculezi integrale pe intervale și folosești proprietățile fundamentale ale integralei.",
+              "objective": "să gestionezi corect capetele intervalului și semnul integralei",
+              "common_mistake": "înlocuirea integralei cu o primitivă fără a evalua corect între capete",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Integrala definită»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "integrala definita",
+                "interval",
+                "newton-leibniz",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Integrala definită"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Integrala definită».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Integrala definită»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "aplicatii-ale-integralei",
+              "title": "Aplicații ale integralei",
+              "summary": "Folosești integrala pentru arii și volume în cazuri clasice de bac.",
+              "objective": "să traduci problema geometrică într-o integrală corectă și să interpretezi rezultatul",
+              "common_mistake": "stabilirea greșită a funcției de sus și de jos sau a intervalului de integrare",
+              "practice_type": "exercițiu ghidat",
+              "practice_prompt": "Rezolvă 3 exerciții progresive pentru «Aplicații ale integralei»: unul de bază, unul mediu și unul tip bac M1.",
+              "coach_tip": "Scrie datele, formulele și condițiile înainte de calcule. La final, verifică domeniul și semnul rezultatului.",
+              "keywords": [
+                "arii",
+                "volume",
+                "aplicatii ale integralei",
+                "matematica",
+                "mate-info",
+                "m1",
+                "bac",
+                "Aplicații ale integralei"
+              ],
+              "starter_tasks": [
+                "Rezolvă un exercițiu scurt de identificare a metodei potrivite pentru «Aplicații ale integralei».",
+                "Fă un mini-rezumat cu formulele și pașii standard pentru «Aplicații ale integralei»."
+              ],
+              "estimated_minutes": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "informatica_mate_info",
+      "title": "Informatică",
+      "short_title": "Informatică",
+      "track": "profil real - mate-info",
+      "discipline_type": "coding",
+      "badge": "C++",
+      "description": "Pregătire structurată pentru bac la informatică: algoritmi, C/C++, structuri de date și tehnici clasice.",
+      "subiecte": [
+        {
+          "id": "subiectul-1",
+          "title": "Subiectul I",
+          "summary": "Bazele algoritmice și elementele esențiale de limbaj, cu exerciții de urmărire și cod scurt.",
+          "chapters": [
+            {
+              "id": "algoritmi-si-reprezentare-in-pseudocod",
+              "title": "Algoritmi și reprezentare în pseudocod",
+              "summary": "Înveți să descrii clar pașii unui algoritm și să urmărești execuția lui.",
+              "objective": "să transformi o cerință în pași logici clari și verificabili",
+              "common_mistake": "să scrii direct cod fără să clarifici inputul, outputul și ordinea pașilor",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Algoritmi și reprezentare în pseudocod» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "algoritm",
+                "pseudocod",
+                "input",
+                "output",
+                "pași",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Algoritmi și reprezentare în pseudocod"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Algoritmi și reprezentare în pseudocod» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Algoritmi și reprezentare în pseudocod»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "date-variabile-expresii-si-operatori",
+              "title": "Date, variabile, expresii și operatori",
+              "summary": "Recapitulezi tipuri de date, atribuire, expresii aritmetice și logice, conversii și evaluare.",
+              "objective": "să alegi tipul potrivit și să urmărești corect efectul unei expresii",
+              "common_mistake": "confundarea împărțirii întregi cu împărțirea reală și neglijarea priorității operatorilor",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Date, variabile, expresii și operatori» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "tipuri de date",
+                "variabile",
+                "operatori",
+                "expresii",
+                "atribuire",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Date, variabile, expresii și operatori"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Date, variabile, expresii și operatori» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Date, variabile, expresii și operatori»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "structuri-de-control-secventa-alternativa-repetitivitate",
+              "title": "Structuri de control: secvență, alternativă, repetitivitate",
+              "summary": "Folosești if, switch, while, for și do-while pentru a modela logic diferite cerințe.",
+              "objective": "să alegi structura de control optimă și să gestionezi corect condițiile de oprire",
+              "common_mistake": "buclă infinită sau condiții formulate invers față de cerință",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Structuri de control: secvență, alternativă, repetitivitate» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "if",
+                "switch",
+                "while",
+                "for",
+                "do-while",
+                "control",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Structuri de control: secvență, alternativă, repetitivitate"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Structuri de control: secvență, alternativă, repetitivitate» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Structuri de control: secvență, alternativă, repetitivitate»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "subprograme-predefinite-si-functii-standard",
+              "title": "Subprograme predefinite și funcții standard",
+              "summary": "Recapitulezi funcții uzuale, operații matematice și prelucrarea de bază a datelor.",
+              "objective": "să folosești corect biblioteca standard și să eviți reimplementarea inutilă",
+              "common_mistake": "apeluri greșite de funcții standard sau uitarea antetelor necesare",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Subprograme predefinite și funcții standard» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "functii standard",
+                "biblioteca",
+                "cmath",
+                "cctype",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Subprograme predefinite și funcții standard"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Subprograme predefinite și funcții standard» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Subprograme predefinite și funcții standard»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "complexitate-si-urmarirea-executiei",
+              "title": "Complexitate și urmărirea execuției",
+              "summary": "Analizezi numărul de pași, urmărești variabilele și explici eficiența unei soluții simple.",
+              "objective": "să estimezi corect ordinul de mărime și să identifici rapid blocajele unui algoritm",
+              "common_mistake": "a număra doar liniile de cod, fără a ține cont de numărul de iterații",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Complexitate și urmărirea execuției» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "complexitate",
+                "urmarire",
+                "O(n)",
+                "eficienta",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Complexitate și urmărirea execuției"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Complexitate și urmărirea execuției» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Complexitate și urmărirea execuției»."
+              ],
+              "estimated_minutes": 35
+            }
+          ]
+        },
+        {
+          "id": "subiectul-2",
+          "title": "Subiectul II",
+          "summary": "Structuri de date clasice și tehnici de prelucrare des întâlnite la bac.",
+          "chapters": [
+            {
+              "id": "tablouri-unidimensionale",
+              "title": "Tablouri unidimensionale",
+              "summary": "Parcurgi, numeri, filtrezi și transformi vectori în probleme uzuale.",
+              "objective": "să alegi parcurgerea corectă și să actualizezi sigur valorile din tablou",
+              "common_mistake": "depășirea limitelor vectorului sau folosirea greșită a indicilor",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Tablouri unidimensionale» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "vectori",
+                "tablouri",
+                "parcurgere",
+                "indici",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Tablouri unidimensionale"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Tablouri unidimensionale» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Tablouri unidimensionale»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "matrice-si-tablouri-bidimensionale",
+              "title": "Matrice și tablouri bidimensionale",
+              "summary": "Rezolvi cerințe pe linii, coloane, diagonale și zone din matrice.",
+              "objective": "să organizezi clar dubla parcurgere și condițiile pe poziții",
+              "common_mistake": "amestecarea indicilor de linie și coloană sau condiții incomplete pe diagonale",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Matrice și tablouri bidimensionale» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "matrice",
+                "tablou bidimensional",
+                "diagonale",
+                "linii",
+                "coloane",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Matrice și tablouri bidimensionale"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Matrice și tablouri bidimensionale» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Matrice și tablouri bidimensionale»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "siruri-de-caractere",
+              "title": "Șiruri de caractere",
+              "summary": "Folosești operații pe caractere și stringuri pentru transformări și verificări.",
+              "objective": "să alegi între lucrul caracter cu caracter și funcțiile standard pe stringuri",
+              "common_mistake": "ignorarea terminatorului de șir sau confuzia dintre spații și caractere speciale",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Șiruri de caractere» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "siruri de caractere",
+                "string",
+                "char",
+                "prelucrare text",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Șiruri de caractere"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Șiruri de caractere» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Șiruri de caractere»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "inregistrari-si-structuri-de-date-simple",
+              "title": "Înregistrări și structuri de date simple",
+              "summary": "Modelezi entități cu câmpuri și organizezi datele clar în memorie.",
+              "objective": "să grupezi logic informațiile și să accesezi ușor fiecare componentă",
+              "common_mistake": "folosirea variabilelor separate când structura ar fi mult mai clară și sigură",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Înregistrări și structuri de date simple» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "struct",
+                "inregistrari",
+                "campuri",
+                "date",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Înregistrări și structuri de date simple"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Înregistrări și structuri de date simple» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Înregistrări și structuri de date simple»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "fisiere-text",
+              "title": "Fișiere text",
+              "summary": "Citești și scrii date din fișiere, respecți formatul și verifici fluxul de intrare.",
+              "objective": "să tratezi corect citirea până la final și formatele diferite de date",
+              "common_mistake": "presupuneri greșite despre formatul fișierului sau lipsa testării la EOF",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Fișiere text» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "fisiere text",
+                "ifstream",
+                "ofstream",
+                "citire",
+                "scriere",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Fișiere text"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Fișiere text» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Fișiere text»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "subprograme-definite-de-utilizator",
+              "title": "Subprograme definite de utilizator",
+              "summary": "Împarți problema în funcții sau proceduri și alegi parametri potriviți.",
+              "objective": "să modularizezi soluția fără să pierzi claritatea fluxului de date",
+              "common_mistake": "apeluri haotice și transmiterea nepotrivită a parametrilor",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Subprograme definite de utilizator» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "subprograme",
+                "functie",
+                "procedura",
+                "parametri",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Subprograme definite de utilizator"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Subprograme definite de utilizator» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Subprograme definite de utilizator»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "recursivitate",
+              "title": "Recursivitate",
+              "summary": "Înțelegi pașii de apel, cazul de bază și legătura dintre recursiv și iterativ.",
+              "objective": "să identifici problemele care se potrivesc natural recursivității",
+              "common_mistake": "lipsa cazului de bază sau apeluri recursive care nu apropie problema de soluție",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Recursivitate» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "recursivitate",
+                "apel recursiv",
+                "caz de baza",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Recursivitate"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Recursivitate» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Recursivitate»."
+              ],
+              "estimated_minutes": 35
+            }
+          ]
+        },
+        {
+          "id": "subiectul-3",
+          "title": "Subiectul III",
+          "summary": "Tehnici algoritmice clasice: căutare, sortare, backtracking, combinatorică, grafuri și arbori.",
+          "chapters": [
+            {
+              "id": "tehnici-elementare-de-algoritmica",
+              "title": "Tehnici elementare de algoritmică",
+              "summary": "Rezolvi probleme cu cifre, divizibilitate, sume, produse, minim, maxim și prelucrări iterative.",
+              "objective": "să recunoști tiparul unei probleme simple și să construiești soluția fără complicații inutile",
+              "common_mistake": "scrierea unei soluții prea complicate pentru o cerință elementară",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Tehnici elementare de algoritmică» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "cifre",
+                "divizibilitate",
+                "sume",
+                "minim",
+                "maxim",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Tehnici elementare de algoritmică"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Tehnici elementare de algoritmică» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Tehnici elementare de algoritmică»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "cautare-si-sortare",
+              "title": "Căutare și sortare",
+              "summary": "Aplici căutare liniară și binară, precum și sortări uzuale și condițiile lor de corectitudine.",
+              "objective": "să alegi metoda potrivită în funcție de date și de restricțiile problemei",
+              "common_mistake": "folosirea căutării binare pe date nesortate sau implementarea incompletă a sortării",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Căutare și sortare» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "cautare",
+                "sortare",
+                "binar",
+                "vector",
+                "ordonare",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Căutare și sortare"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Căutare și sortare» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Căutare și sortare»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "interclasare-frecvente-si-prelucrari-eficiente",
+              "title": "Interclasare, frecvențe și prelucrări eficiente",
+              "summary": "Combini liste sortate, construiești frecvențe și optimizezi parcurgerile simple.",
+              "objective": "să reduci numărul de operații prin organizarea inteligentă a datelor",
+              "common_mistake": "parcurgeri repetate inutile când o singură trecere sau un tablou de frecvență ar fi suficient",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Interclasare, frecvențe și prelucrări eficiente» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "interclasare",
+                "frecventa",
+                "eficienta",
+                "liste sortate",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Interclasare, frecvențe și prelucrări eficiente"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Interclasare, frecvențe și prelucrări eficiente» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Interclasare, frecvențe și prelucrări eficiente»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "backtracking",
+              "title": "Backtracking",
+              "summary": "Generezi soluții pas cu pas, verifici condiții și tai ramurile inutile când poți.",
+              "objective": "să descrii clar starea curentă, condiția de validitate și ordinea generării",
+              "common_mistake": "confundarea backtrackingului cu o simplă buclă și uitarea revenirii la starea anterioară",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Backtracking» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "backtracking",
+                "generare",
+                "validare",
+                "stare",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Backtracking"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Backtracking» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Backtracking»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "generare-combinatorica",
+              "title": "Generare combinatorică",
+              "summary": "Lucrezi cu permutări, aranjamente, combinații și submulțimi în formă algoritmică.",
+              "objective": "să legi modelele de generare de tipul exact de obiecte cerut în problemă",
+              "common_mistake": "schimbarea ordinii de generare sau repetarea elementelor unde nu este permis",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Generare combinatorică» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "combinatorica",
+                "permutari",
+                "aranjamente",
+                "combinari",
+                "submultimi",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Generare combinatorică"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Generare combinatorică» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Generare combinatorică»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "grafuri-neorientate",
+              "title": "Grafuri neorientate",
+              "summary": "Recapitulezi reprezentări, grade, componente conexe, parcurgeri și proprietăți de bază.",
+              "objective": "să citești corect un graf și să aplici o parcurgere adecvată cerinței",
+              "common_mistake": "confundarea numerotării vârfurilor sau a muchiilor și tratarea incompletă a componentelor",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Grafuri neorientate» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "grafuri",
+                "neorientat",
+                "dfs",
+                "bfs",
+                "componente",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Grafuri neorientate"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Grafuri neorientate» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Grafuri neorientate»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "grafuri-orientate",
+              "title": "Grafuri orientate",
+              "summary": "Lucrezi cu grade interne/externe, muchii orientate și parcurgeri adaptate.",
+              "objective": "să ții cont de sensul arcelor și să interpretezi corect vecinătățile",
+              "common_mistake": "rezolvarea problemei ca pentru graf neorientat, ignorând direcția arcelor",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Grafuri orientate» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "graf orientat",
+                "arce",
+                "grad intern",
+                "grad extern",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Grafuri orientate"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Grafuri orientate» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Grafuri orientate»."
+              ],
+              "estimated_minutes": 35
+            },
+            {
+              "id": "arbori",
+              "title": "Arbori",
+              "summary": "Fixezi noțiuni despre arbori, rădăcină, frunze, tați, fii și parcurgeri specifice.",
+              "objective": "să exploatezi structura de arbore pentru a simplifica relațiile dintre noduri",
+              "common_mistake": "confundarea arborelui cu un graf general și pierderea relației părinte-copil",
+              "practice_type": "problemă de implementare",
+              "practice_prompt": "Scrie pseudocod sau C/C++ pentru o problemă reprezentativă din «Arbori» și explică complexitatea.",
+              "coach_tip": "Pornește de la input și output, identifică structura de date potrivită și testează cazul minim și cazul-limită.",
+              "keywords": [
+                "arbori",
+                "radacina",
+                "frunze",
+                "noduri",
+                "parcurgere",
+                "informatica",
+                "mate-info",
+                "bac",
+                "Arbori"
+              ],
+              "starter_tasks": [
+                "Desenează pe hârtie pașii algoritmului pentru «Arbori» și urmărește variabilele importante.",
+                "Scrie o versiune scurtă în pseudocod pentru o problemă tipică din «Arbori»."
+              ],
+              "estimated_minutes": 35
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
