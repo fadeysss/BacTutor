@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero compact-hero">
+  <div>
+    <span class="eyebrow">Tablou de progres</span>
+    <h1>Nivel curent: {{ student_summary.level }}</h1>
+    <p class="hero-copy">Aici vezi clar unde stai bine si ce merita reluat. Capitolele cu scor mic revin automat in recomandari.</p>
+    <div class="hero-cta-row">
+      <span class="pill">Progres total {{ student_summary.overall_completion_percent }}%</span>
+      <span class="pill">Quiz-uri {{ student_summary.quizzes_taken }}</span>
+      <span class="pill">Medie {{ student_summary.average_score }}%</span>
+    </div>
+  </div>
+  <aside class="card glass hero-stats">
+    <div class="stat-grid compact">
+      <div><span>XP</span><strong>{{ student_summary.xp }}</strong></div>
+      <div><span>Nivel</span><strong>{{ student_summary.level }}</strong></div>
+      <div><span>Completare</span><strong>{{ student_summary.overall_completion_percent }}%</strong></div>
+      <div><span>Urmatorul prag</span><strong>{{ student_summary.xp_to_next_level }} XP</strong></div>
+    </div>
+  </aside>
+</section>
+
+<section class="card-grid dashboard-grid">
+  {% for subject in student_summary.subjects %}
+    <article class="card progress-card">
+      <div class="progress-card-head">
+        <h3>{{ subject.short_title }}</h3>
+        <span>{{ subject.progress_percent }}%</span>
+      </div>
+      <div class="progress-bar"><span style="width: {{ subject.progress_percent }}%"></span></div>
+      <div class="card-meta stacked">
+        <span>{{ subject.completed }} / {{ subject.total }} capitole cu scor bun</span>
+        <span>Medie quiz: {{ subject.average_score }}%</span>
+        <span>Incercari: {{ subject.quizzes_taken }}</span>
+      </div>
+      <a class="button secondary full" href="{{ url_for('subject_page', subject_id=subject.id) }}">Continua materia</a>
+    </article>
+  {% endfor %}
+</section>
+
+<section class="split-section">
+  <article class="card">
+    <h3>Capitole de revizuit acum</h3>
+    {% if weak_spot_links %}
+      <ul class="bullet-list">
+        {% for item in weak_spot_links %}
+          <li>
+            <a href="{{ item.url }}">{{ item.label }}</a>
+            <span class="muted-text"> — ultim scor {{ item.score }}%</span>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p class="muted-text">Nu ai inca suficiente quiz-uri pentru recomandari. Incepe cu un capitol si revino aici.</p>
+    {% endif %}
+  </article>
+  <article class="card">
+    <h3>Activitate recenta</h3>
+    {% if student_summary.recent_activity %}
+      <div class="timeline">
+        {% for item in student_summary.recent_activity[:8] %}
+          <div class="timeline-item">
+            <strong>{% if item.type == 'quiz' %}Quiz finalizat{% else %}Capitol deschis{% endif %}</strong>
+            <p>{{ item.subject_id }} / {{ item.chapter_id }}</p>
+            {% if item.score is defined %}<span>{{ item.score }}% · +{{ item.xp_gain }} XP</span>{% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p class="muted-text">Inca nu exista activitate in sesiunea ta.</p>
+    {% endif %}
+  </article>
+</section>
+{% endblock %}

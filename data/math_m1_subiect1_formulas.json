@@ -1,0 +1,252 @@
+{
+  "subject_id": "matematica_m1",
+  "subiect_id": "subiectul-1",
+  "chapters": [
+    {
+      "chapter_id": "multimi-intervale-si-logica-matematica",
+      "title": "Multimi, intervale si logica matematica",
+      "formulas": [
+        "A \\u2282 B \\u21d4 (\\u2200x)(x\\u2208A \\u21d2 x\\u2208B)",
+        "A \\u2229 B = {x | x\\u2208A si x\\u2208B}",
+        "A \\u222a B = {x | x\\u2208A sau x\\u2208B}",
+        "A \\\\ B = {x | x\\u2208A si x\\u2209B}",
+        "|x-a| \\u2264 r \\u21d4 a-r \\u2264 x \\u2264 a+r",
+        "|x-a| < r \\u21d4 a-r < x < a+r",
+        "|x-a| \\u2265 r \\u21d4 x \\u2264 a-r sau x \\u2265 a+r",
+        "|x-a| > r \\u21d4 x < a-r sau x > a+r"
+      ],
+      "tips": [
+        "La intervale, deseneaza axa numerelor si verifica separat capetele.",
+        "La probleme cu modul, transforma intai in inecuatii echivalente."
+      ]
+    },
+    {
+      "chapter_id": "functii-si-reprezentari-grafice",
+      "title": "Functii si reprezentari grafice",
+      "formulas": [
+        "f: A -> B, x -> f(x)",
+        "Domeniu: Df = {x | f(x) exista}",
+        "Imagine: Im f = {f(x) | x\\u2208Df}",
+        "Intersec\\u021bie cu OY: x=0 \\u21d2 punct (0, f(0))",
+        "Intersec\\u021bie cu OX: f(x)=0",
+        "Compunere: (f\\u2218g)(x)=f(g(x))",
+        "f para: f(-x)=f(x)",
+        "f impara: f(-x)=-f(x)"
+      ],
+      "tips": [
+        "Inainte de calcule, identifica domeniul si punctele de intersectie cu axele.",
+        "Pentru compunere, verifica daca g(x) apartine domeniului lui f."
+      ]
+    },
+    {
+      "chapter_id": "functia-de-gradul-i-si-functia-de-gradul-al-ii-lea",
+      "title": "Functia de gradul I si functia de gradul al II-lea",
+      "formulas": [
+        "f(x)=ax+b, a\\u22600",
+        "Radacina functiei liniare: x0=-b/a",
+        "f(x)=ax^2+bx+c, a\\u22600",
+        "\\u0394=b^2-4ac",
+        "x1,2=(-b\\u00b1\\u221a\\u0394)/(2a)",
+        "xV=-b/(2a), yV=f(xV)",
+        "Axa de simetrie: x=-b/(2a)",
+        "Rela\\u021biile lui Viete: x1+x2=-b/a, x1*x2=c/a"
+      ],
+      "tips": [
+        "La inecuatii de gradul II, decide semnul dupa coeficientul a si radacini.",
+        "Nu uita: varful parabolei decide minimul sau maximul."
+      ]
+    },
+    {
+      "chapter_id": "siruri-aritmetice-si-geometrice",
+      "title": "Siruri aritmetice si geometrice",
+      "formulas": [
+        "PA: an=a1+(n-1)r",
+        "PA: Sn=n(a1+an)/2 = n[2a1+(n-1)r]/2",
+        "PG: bn=b1*q^(n-1)",
+        "PG (q\\u22601): Sn=b1(q^n-1)/(q-1)",
+        "PG (|q|<1): S\\u221e=b1/(1-q)",
+        "Trei termeni consecutivi in PA: b=(a+c)/2",
+        "Trei termeni consecutivi in PG (pozitivi): b^2=ac"
+      ],
+      "tips": [
+        "Aritmetica inseamna diferenta constanta, geometrica inseamna raport constant.",
+        "La sume, scrie explicit formula inainte de inlocuire."
+      ]
+    },
+    {
+      "chapter_id": "puteri-radicali-si-logaritmi",
+      "title": "Puteri, radicali si logaritmi",
+      "formulas": [
+        "a^m*a^n=a^(m+n)",
+        "a^m/a^n=a^(m-n), a\\u22600",
+        "(a^m)^n=a^(mn)",
+        "(ab)^n=a^n*b^n",
+        "\\u221aa * \\u221ab = \\u221a(ab), a,b\\u22650",
+        "\\u221aa / \\u221ab = \\u221a(a/b), b>0",
+        "log_a(xy)=log_a x + log_a y",
+        "log_a(x/y)=log_a x - log_a y",
+        "log_a(x^k)=k*log_a x",
+        "Schimbare baza: log_a x = (log_b x)/(log_b a)"
+      ],
+      "tips": [
+        "Conditii logaritm: a>0, a\\u22601, x>0.",
+        "La radicali, scoate factorii patrati perfecti pentru simplificare."
+      ]
+    },
+    {
+      "chapter_id": "numere-complexe",
+      "title": "Numere complexe",
+      "formulas": [
+        "z=a+bi, i^2=-1",
+        "\\u0305z = a-bi",
+        "|z|=\\u221a(a^2+b^2)",
+        "z1+z2=(a1+a2)+(b1+b2)i",
+        "z1*z2=(a1a2-b1b2)+(a1b2+a2b1)i",
+        "z1/z2 = z1*\\u0305z2 / |z2|^2, z2\\u22600",
+        "Puterile lui i: i^0=1, i^1=i, i^2=-1, i^3=-i, i^4=1"
+      ],
+      "tips": [
+        "La inmultire, separa partea reala de partea imaginara.",
+        "La impartire, amplifica cu conjugatul numitorului."
+      ]
+    },
+    {
+      "chapter_id": "functia-exponentiala-si-functia-logaritmica",
+      "title": "Functia exponentiala si functia logaritmica",
+      "formulas": [
+        "f(x)=a^x, a>0, a\\u22601",
+        "D(f)=R, Im(f)=(0,\\u221e)",
+        "a>1 \\u21d2 f crescatoare; 0<a<1 \\u21d2 f descrescatoare",
+        "g(x)=log_a x, a>0, a\\u22601",
+        "D(g)=(0,\\u221e), Im(g)=R",
+        "a>1 \\u21d2 g crescatoare; 0<a<1 \\u21d2 g descrescatoare",
+        "a^(log_a x)=x, x>0",
+        "log_a(a^x)=x"
+      ],
+      "tips": [
+        "Verifica mereu domeniul la functia logaritmica.",
+        "Exponentiala si logaritmica in aceeasi baza sunt functii inverse."
+      ]
+    },
+    {
+      "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+      "title": "Ecuatii si inecuatii exponentiale, logaritmice si trigonometrice",
+      "formulas": [
+        "a^u=a^v \\u21d4 u=v, a>0, a\\u22601",
+        "log_a u = log_a v \\u21d4 u=v (cu u>0, v>0)",
+        "sin x = m \\u21d2 x = (-1)^k*arcsin(m)+k\\u03c0",
+        "cos x = m \\u21d2 x = \\u00b1arccos(m)+2k\\u03c0",
+        "tan x = m \\u21d2 x = arctan(m)+k\\u03c0",
+        "sin^2 x + cos^2 x = 1",
+        "1 + tan^2 x = 1/cos^2 x"
+      ],
+      "tips": [
+        "La logaritmi, aplica intai conditiile de existenta.",
+        "La trigonometrie, scrie solutia generala, nu doar solutia principala."
+      ]
+    },
+    {
+      "chapter_id": "metode-de-numarare-si-combinatorica",
+      "title": "Metode de numarare si combinatorica",
+      "formulas": [
+        "n! = 1*2*...*n",
+        "Permutari: Pn=n!",
+        "Aranjamente: A(n,k)=n!/(n-k)!",
+        "Combinari: C(n,k)=n!/[k!(n-k)!]",
+        "Binomul lui Newton: (x+y)^n = \\u03a3 C(n,k)x^(n-k)y^k",
+        "Numarul submultimilor unei multimi cu n elemente: 2^n"
+      ],
+      "tips": [
+        "Ordinea conteaza la aranjamente, nu conteaza la combinari.",
+        "Verifica daca exista repetitii permise in enunt."
+      ]
+    },
+    {
+      "chapter_id": "probabilitati-statistica-si-matematici-financiare",
+      "title": "Probabilitati, statistica si matematici financiare",
+      "formulas": [
+        "P(A)=n(A)/n(\\u03a9) (cazuri echiprobabile)",
+        "P(\\u0100)=1-P(A)",
+        "P(A\\u222aB)=P(A)+P(B)-P(A\\u2229B)",
+        "P(A|B)=P(A\\u2229B)/P(B), P(B)>0",
+        "Media aritmetica: x\\u0304=(x1+...+xn)/n",
+        "Dobanda simpla: D=S*r*n/100",
+        "Suma finala (dobanda simpla): S_f=S(1+rn/100)",
+        "Suma finala (dobanda compusa): S_f=S(1+r/100)^n"
+      ],
+      "tips": [
+        "La probabilitati, separa clar evenimentele incompatibile/dependente.",
+        "La procente si dobanzi, transforma procentele in fractii corecte."
+      ]
+    },
+    {
+      "chapter_id": "vectori-in-plan-si-coliniaritate",
+      "title": "Vectori in plan si coliniaritate",
+      "formulas": [
+        "\\u2192AB = (xB-xA, yB-yA)",
+        "|\\u2192AB| = \\u221a[(xB-xA)^2+(yB-yA)^2]",
+        "\\u2192u + \\u2192v = (u1+v1, u2+v2)",
+        "\\u03bb\\u2192u = (\\u03bbu1, \\u03bbu2)",
+        "Coliniaritate vectori: \\u2192u || \\u2192v \\u21d4 u1*v2-u2*v1=0",
+        "Mijloc segment: M((xA+xB)/2, (yA+yB)/2)"
+      ],
+      "tips": [
+        "Pentru coliniaritate, foloseste determinantul 2x2.",
+        "Verifica orientarea si sensul vectorilor cand interpretezi geometric."
+      ]
+    },
+    {
+      "chapter_id": "geometrie-analitica-in-plan",
+      "title": "Geometrie analitica in plan",
+      "formulas": [
+        "Distanta intre puncte: AB=\\u221a[(xB-xA)^2+(yB-yA)^2]",
+        "Panta dreptei prin A,B: m=(yB-yA)/(xB-xA)",
+        "Ecuatia dreptei: y=mx+n",
+        "Forma generala: ax+by+c=0",
+        "Drepte paralele: m1=m2",
+        "Drepte perpendiculare: m1*m2=-1",
+        "Distanta punct-dreapta: d(M,ax+by+c=0)=|ax0+by0+c|/\\u221a(a^2+b^2)",
+        "Aria triunghiului: A=|x1(y2-y3)+x2(y3-y1)+x3(y1-y2)|/2"
+      ],
+      "tips": [
+        "Alege o forma unica pentru ecuatia dreptei ca sa eviti erori.",
+        "La arii cu determinant, ordinea punctelor influenteaza doar semnul."
+      ]
+    },
+    {
+      "chapter_id": "trigonometrie-elementara",
+      "title": "Trigonometrie elementara",
+      "formulas": [
+        "sin^2 x + cos^2 x = 1",
+        "tan x = sin x / cos x, cos x\\u22600",
+        "cot x = cos x / sin x, sin x\\u22600",
+        "1 + tan^2 x = 1/cos^2 x",
+        "1 + cot^2 x = 1/sin^2 x",
+        "sin(\\u03b1\\u00b1\\u03b2)=sin\\u03b1 cos\\u03b2 \\u00b1 cos\\u03b1 sin\\u03b2",
+        "cos(\\u03b1\\u00b1\\u03b2)=cos\\u03b1 cos\\u03b2 \\u2213 sin\\u03b1 sin\\u03b2",
+        "sin 2x = 2 sin x cos x",
+        "cos 2x = cos^2 x - sin^2 x = 2cos^2 x - 1 = 1 - 2sin^2 x"
+      ],
+      "tips": [
+        "Invata foarte bine valorile trigonometrice pentru unghiuri remarcabile.",
+        "Alege forma lui cos(2x) care simplifica cel mai mult expresia."
+      ]
+    },
+    {
+      "chapter_id": "aplicatii-de-trigonometrie-si-produs-scalar",
+      "title": "Aplicatii de trigonometrie si produs scalar",
+      "formulas": [
+        "\\u2192u\\u22c5\\u2192v = u1v1+u2v2",
+        "\\u2192u\\u22c5\\u2192v = |\\u2192u||\\u2192v|cos\\u03b8",
+        "Perpendicularitate: \\u2192u\\u22c5\\u2192v=0",
+        "cos\\u03b8 = (\\u2192u\\u22c5\\u2192v)/(|\\u2192u||\\u2192v|)",
+        "Teorema cosinusului: c^2=a^2+b^2-2ab cos C",
+        "Aria triunghiului: A=(ab sin C)/2"
+      ],
+      "tips": [
+        "La produs scalar, incepe cu forma in coordonate.",
+        "Pentru unghiul dintre vectori, normalizarea prin module e obligatorie."
+      ]
+    }
+  ]
+}

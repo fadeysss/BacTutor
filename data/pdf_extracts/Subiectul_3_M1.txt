@@ -1,0 +1,81 @@
+
+
+===== PAGE 1 =====
+MATEMATICĂ
+ 
+Subiectul III
+Mate-info (M1)
+
+===== PAGE 2 =====
+EXERCIȚIUL 1
+CUPRINS
+Limite de funcții
+Limite remarcabile
+Cazuri de nedeterminare
+Limite laterale
+Continuitatea unei funcții
+Asimptote
+Derivate- noțiuni generale și formule
+Derivate compuse
+Regula lui l Hospital
+Limite utilizând proprietățile derivatelor
+Monotonia unei funcții
+Puncte de extrem
+Șirul lui Rolle
+Ecuația tangentei
+Derivate de ordin superior
+Rolul derivatelor de ordinul II
+Puncte de inflexiune
+Noțiuni generale șiruri
+EXERCIȚIUL 2Noțiuni generale integrale
+Primitiva unei funcții
+Monotonia unei primitive
+Concavitatea/convexitatea unei primitive
+1
+2
+2
+6
+7
+9
+12
+15
+17
+18
+19
+21
+23
+26
+28
+28
+30
+30
+31
+31
+32
+33
+
+===== PAGE 3 =====
+34
+38
+40
+42
+44
+46
+47
+© 2025 Integral Nexus S.R.L.Toate drepturile rezervate. Nicio parte a acestei culegeri nu poate fi reprodusă, stocată sau transmisă sub nicioformă – electronică, mecanică, fotocopiere, înregistrare sau altfel – fără acordul scris al autorului.Auto-publicareAceastă culegere este destinată exclusiv uzului educaționalPentru permisiuni sau informații suplimentare, contactați: integralnexus@yahoo.com
+Integrale nedefinite- formule
+Integrale definite
+Metoda integrării prin parți
+Metoda schimbării de variabilă
+Calcularea ariei
+Calcularea volumului
+Calculul limitelor unor integrale de functii
+REZOLVĂRI 51
+
+===== PAGE 4 =====
+Subiectul 111
+Exercitiul 1
+
+===== PAGE 34 =====
+Subiectul 111
+Exercitiul 2

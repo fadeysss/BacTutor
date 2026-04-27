@@ -1,0 +1,2066 @@
+
+
+===== PAGE 1 =====
+Subiectul I.1 
+PROGRESII 
+ARITMETICE GEOMETRICE 
+Notații 
+ (  )                     
+ 
+   {
+                              
+   
+                  
+ 
+ (  )                     
+ 
+   {
+                              
+   
+                  
+ 
+Exemplu 
+             {    
+    
+  
+                    
+              {    
+    
+  
+                     
+ 
+Definiție (Formula de recurență) 
+                                  
+Rația unei progresii 
+                         
+  
+  (    )        
+ 
+CELE MAI UTILIZATE FORMULE 
+ 
+Formula termenului general 
+      (   )                           
+Suma primilor n termeni ai progresiei 
+              
+ 
+   (     )   
+  
+ 
+              
+ 
+   {
+  (    )
+            
+             
+ 
+Condiția ca trei numere să fie termeni consecutivi ai unei progresii
+
+===== PAGE 2 =====
+LOGARITMI 
+ 
+Definiție 
+                              
+Condițiile de existență ale logaritmului 
+       {
+    (       )
+    (      )
+    (             )
+ 
+Logaritmul zecimal Logaritmul natural 
+                                 (                 ) 
+Proprietăți ale logaritmilor 
+1.         2.         
+3.                4.          
+5.                 (   ) 6.                 ( 
+ ) 
+ 
+7.               
+Formule de schimbare a bazei logaritmului 
+8.         
+        9.            
+      
+10.        
+      11.                   
+Monotonia funcției logaritmice 
+  (   )     ( )                
+I. Dacă   (   )                                
+           (  )      (  ) 
+II. Dacă   (   )                             
+           (  )      (  ) 
+Monotonia funcției exponențiale 
+    (   )  ( )             
+I. Dacă   (   )                                
+               
+II. Dacă   (   )
+
+===== PAGE 3 =====
+PUTERI ȘI RADICALI 
+PUTERI 
+Definiție putere 
+          ⏟      
+        
+          
+ 
+   {                
+                      
+Proprietăți puteri 
+1.      2.      
+3.            4.   
+        
+5.       (   )  6.   
+   ( 
+ )
+ 
+ 
+7. (  )  (  )       8.      
+  
+9.      
+   10. ( 
+ )
+  
+ ( 
+ )
+ 
+ 
+ 
+RADICALI 
+Radicalul de ordin 2 Radicalul de ordin 3 
+Condiții de existență ale radicalului de ordin 2 
+(de ordin par) 
+Condiții de existență ale radicalului de ordin 3 
+(de ordin impar) 
+√ ( )    ( )    
+ (                                 ) Nu există 
+Proprietăți ale radicalilor 
+1. √  √  √    √ 
+ 
+ √ 
+ 
+ √   
+ 
+ 
+2. √ 
+√ 
+ √
+ 
+  √  
+√   √ 
+ 
+ 
+ 
+3. (√ )
+ 
+   (√ 
+ 
+)
+ 
+   
+4. √   
+ 
+  √ 
+ 
+  
+ 
+  
+5. √
+
+===== PAGE 4 =====
+NUMERE COMPLEXE ( )– forma algebrică 
+Definiție 
+             
+Notații 
+a = partea reală a numărului complex z 
+a = Re(z) – realul lui z 
+bi = partea imaginară a numărului complex z 
+b = Im(z) – imaginarul lui z 
+       
+i = unitate imaginară 
+Proprietăți  
+       ( )              (  ( )         ( )   )
+(          )  
+Egalitatea a două numere complexe 
+                                
+Conjugatul lui z Modulul lui z  
+ ̅      ̅̅̅̅̅̅̅̅       | |  |    |  √      
+Proprietăți (cele mai utilizate) 
+1. | |  | ̅| 4. |     |  |  |  |  | 
+2. |  |  | |  5. |  
+  
+|  
+|  |
+|  |       
+3.         ̅ 6. | |     ̅ 
+Raportul a două numere complexe 
+= se calculează prin amplificarea lui (raportului) cu conjugatul numitorului 
+  
+  
+     
+     (    )  (    )
+(    )  (    )        
+     ⏟    
+  (  
+  
+)
+      
+     ⏟    
+  (  
+  
+)
+  
+Puterile lui i 
+                            
+                          
+Rezolvarea în   a ecuației de grad II cu coeficienți reali 
+                     
+ 
+                  
+{  
+         √  
+  
+       √  
+  
+ 
+               √
+
+===== PAGE 5 =====
+FORMULE DE CALCUL PRESCURTAT 
+      (   )  (   ) 
+(   )            
+(   )            
+ 
+      (   )  (        ) 
+      (   )  (        ) 
+(   )                  
+(   )                  
+ 
+PARTEA ÎNTREAGĂ ȘI PARTEA FRACTIONARĂ  
+A UNUI NUMĂR REAL 
+Partea întreagă a unui număr real  x 
+Notație   Definiție 
+[ ]                          [ ]                                      
+[ ]                 
+Partea fracționară a numărului real  x 
+Notație   Definiție 
+{ }                             { }    [ ] 
+Proprietăți  
+1.     [ ]    3. { }  [   ) 
+2. [   ]  [ ]        4. {   }  { }     
+5.    [ ]  { } 
+  
+MODULUL UNUI NUMĂR REAL 
+Definiție | |  {      
+      
+Proprietăți 
+| |                
+| |
+
+===== PAGE 6 =====
+Subiectul I.2 
+ 
+FUNCȚII – definiții și proprietăți 
+ 
+Notații 
+          ( ) 
+A = domeniul funcției 
+B = codomeniul funcției 
+f(x)= legea de corespondență a  funcției 
+ 
+ (   )       ( )    
+ 
+ (                )                    
+ 
+x (prima coordonată) = abscisa punctului 
+y (a doua coordonată) = ordonata punctului 
+ 
+Intersecția cu axele de coordonate ale Gf 
+                                 (     )
+            ( )    
+                               (     )
+              ( )
+ 
+ 
+Determinarea coordonatelor punctelor de intersecție a două grafice (Gf și Gg) 
+                        ( )   ( )                             
+                                  
+ 
+Compunerea funcțiilor 
+(   )( )   ( ( ))
+
+===== PAGE 7 =====
+FUNCȚII – definiții și proprietăți 
+Funcții pare. Funcții impare 
+                           (           ) 
+         (  )   ( )                 (  )    ( )      
+Funcții periodice 
+      este periodică cu perioada T dacă (   )   ( )               
+Cea mai mică perioadă nenulă pozitivă (dacă există) s.n. perioadă principală 
+Imaginea unei funcții (mulțimea de valori a funcției) 
+      
+    {   |          ( )   }  sau      ( )  { ( )|   } 
+Funcții injective – definiții 
+                                   
+1.  (  )   (  )         [              ] 
+2.        (  )   (  )  [              ] 
+3. f este strict monotonă  (Analiză matematică) 
+Obs.                                                            (  )   (  )  
+Funcții surjective – definiții 
+                                    
+1. [              ( )   ]    [                     ( )                                 ] 
+2.       
+Funcții bijective – definiții 
+                                   
+1. f este injectivă și surjectivă 
+2. [                ( )   ]   [                     ( )                           ] 
+Funcții inversabile 
+                                     
+f este bijectivă 
+Inversa unei funcții 
+                                      
+                           ( )         ( )          
+ (   ( ))              ( ( ))        
+Funcții monotone 
+      este monoton crescătoare dacă                  (  )   (  ) 
+      este monoton descrescătoare dacă                  (  )   (  ) 
+      este strict crescătoare dacă                  (  )   (  ) 
+      este strict descrescătoare dacă                  (  )   (  )
+
+===== PAGE 8 =====
+FUNCȚIA DE GRADUL I 
+ 
+Forma generală a funcției 
+       ( )                 
+Monotonia funcției 
+1. Dacă     atunci  f  este strict descrescătoare 
+2. Dacă     atunci  f  este strict crescătoare 
+Semnul funcției 
+Se rezolvă ecuația  ( )         
+  
+                         
+     
+ ( )    semn contrar a      0          semn a
+
+===== PAGE 9 =====
+FUNCȚIA DE GRADUL al II – lea 
+Forma generală a funcției 
+       ( )                       
+ 
+Ecuația de gradul al doilea 
+                        
+         
+Cazul 
+I           {
+                                         (               )
+      √ 
+            √ 
+  
+ 
+Cazul 
+II           {
+                                     (               )
+         
+    
+Cazul 
+III                                        (         ) 
+ 
+Semnul funcției de gradul al doilea 
+Cazul 
+I 
+                                                  (                  ) 
+ 
+                                 
+ ( ) 
+Semn a 0 
+Semn 
+contrar 
+a 
+0 Semn a 
+ 
+Cazul 
+II 
+                                              (               ) 
+ 
+                             
+ ( )    semn a                 0          semn a 
+ 
+Cazul 
+III 
+                                      (         ) 
+ 
+                           
+ ( ) semn a 
+ 
+ 
+ 
+Relațiile lui Viete 
+                                                  
+         
+ 
+  (                )         
+ 
+  (                    ) 
+Suma pătratelor rădăcinilor 
+  
+    
+        
+ 
+Formarea ecuației de gradul al doilea cu rădăcinile       
+Se calculează         și         . Ecuația cu rădăcinile       este:
+
+===== PAGE 10 =====
+Graficul funcției de gradul al doilea 
+Se numește parabolă. Parabola are un punct de extrem, numit vârf  și notat cu V. 
+Coordonatele vârfului :  ( 
+ 
+    
+ 
+  ) 
+Dacă        
+funcția admite maxim (V este punct de maxim)  
+valoarea maximă a funcției sau maximul  funcției este       
+ 
+   
+Dacă        
+funcția admite minim (V este punct de minim)  
+valoarea minimă a funcției sau minimul  funcției este       
+ 
+   
+Ecuația axei de simetrie a parabolei este:    
+ 
+   
+Poziția parabolei (graficului funcției de grad II) față de axa Ox 
+                                                       (                         )      
+                                     
+                                 
+ (                                       (   )                             (   ))      
+ 
+Monotonia și imaginea funcției de gradul al doilea 
+       ( )                       
+Se calculează coordonatele vârfului  ( 
+ 
+    
+ 
+  ) 
+Dacă        este punct de maxim  
+ 
+                         
+      
+ ( ) 
+        
+   
+  max 
+   
+    (     
+  ] 
+                            (     
+  ]                                 [  
+     ) 
+Dacă        este punct de minim  
+ 
+                         
+      
+ ( ) 
+        
+   
+   min 
+   
+    [  
+     ) 
+                                (     
+  ]                              [  
+     )
+
+===== PAGE 11 =====
+Subiectul I.3 
+ECUAȚII 
+Ecuații iraționale 
+√ ( )   ( ) √ ( )
+ 
+  ( ) 
+1. Se pun condiții de existență 
+        { ( )   
+ ( )                   
+Eliminarea radicalului (prin ridicarea la putere) și rezolvarea ecuației obținute 
+(√ ( ))
+ 
+ ( ( ))
+ 
+  ( )  ( ( ))
+ 
+ (√ ( )
+ 
+)
+ 
+ ( ( ))
+ 
+  ( )  ( ( ))
+ 
+ 
+Verificarea soluției 
+ 
+Ecuații exponențiale 
+1.   ( )    ( )   ( )   ( ) 2.   ( )     ( )        
+3. Cu ajutorul notațiilor și a proprietăților puterilor 
+ 
+Ecuații logaritmice 
+1. 
+     ( )       ( )   ( )   ( ) 
+ 
+    {
+ ( )   
+ ( )   
+   
+   
+ 
+2. 
+     ( )     ( )     
+ 
+    {
+ ( )   
+   
+   
+ 
+3.  Cu ajutorul notațiilor
+
+===== PAGE 12 =====
+Ecuații trigonometrice 
+Ecuații trigonometrice fundamentale 
+         [    ]     (  )                 
+         [    ]                      
+                           
+                             
+Ecuații trigonometrice de forma     ( )      ( )      ( )      ( )        ( )     ( ) 
+    ( )      ( )   ( )  (  )   ( )         
+    ( )      ( )   ( )    ( )          
+   ( )     ( )   ( )   ( )             ( )        ( )    
+Ecuații trigonometrice care se rezolvă cu ajutorul unor ecuații din algebră (notații) 
+Cele mai utilizate formule trigonometrice sunt: 
+                    și                                
+Ecuații de forma                       
+(O metodă) Prin utilizarea substituției     
+    și a formulelor trigonometrice 
+         
+              
+     
+Observație!  
+Funcția trigonometrică tg nu este definită pe întreaga mulțime a numerelor reale ( ) ducând 
+astfel la pierderea unor eventuale soluții de forma (    )     . 
+ Prin urmare este necesară verificarea valorilor de forma   (    )
+
+===== PAGE 13 =====
+Subiectul I.4 
+METODE DE NUMĂRARE 
+               
+                             
+     
+Permutări = numără câte mulțimi ordonate se pot forma cu n elemente distincte 
+      
+Aranjamente =  numără câte submulțimi ordonate de k elemente se pot forma cu n elemente distincte 
+  
+    
+(   )              
+Combinări =  numără câte submulțimi de k elemente se pot forma cu n elemente distincte 
+  
+    
+   (   )              
+ 
+Binomul lui Newton 
+(   )    
+       
+           
+              
+             
+     
+  
+    
+    
+      
+                        
+Formula termenului general  
+       
+                      
+Suma coeficienților binomiali  
+  
+    
+    
+      
+     
+Suma coeficienților binomiali de rang par Suma coeficienților binomiali de rang impar 
+  
+    
+    
+           
+    
+    
+         
+ 
+Formule de numărare  
+Numărul submulțimilor unei mulțimi cu n elemente este    
+Numărul funcțiilor       este              
+Numărul funcțiilor bijective       este (      )  
+Ne amintim! Card A =numărul de elemente al mulțimii A 
+  
+PROBABILITĂȚI
+
+===== PAGE 14 =====
+MATEMATICI FINANCIARE 
+Procente 
+           
+      
+ Scumpirea prețului unui produs Reducerea prețului unui produs 
+Datele 
+problemei 
+x = prețul inițial al produsului 
+p = procentul cu care se scumpește 
+      = prețul după scumpire 
+x = prețul inițial al produsului 
+p = procentul cu care se reduce 
+      = prețul după reducere 
+Formulă     
+                
+             
+ 
+T.V.A. = taxa pe valoarea adăugată 
+Datele 
+problemei 
+x = prețul inițial (de producție) al produsului 
+p = procentul T.V.A. 
+  = prețul de vânzare al produsului 
+Formule 
+   
+         
+            
+ 
+Dobânda simplă 
+Datele 
+problemei 
+D = dobânda obținută la finalul perioadei de timp (în lei) 
+S = suma depusă inițial la bancă (in lei) 
+r = rata dobânzii (%) 
+n = perioada de timp (în ani) 
+        = suma obținută după perioada de timp (în lei) 
+Formule  
+     
+      
+            
+ 
+Dobânda compusă 
+Datele 
+problemei 
+D = dobânda obținută la finalul perioadei de timp (în lei) 
+S = suma depusă inițial la bancă (in lei) 
+r = rata dobânzii (%) 
+n = perioada de timp (în ani) 
+        = suma obținută după perioada de timp (în lei) 
+Formule  
+    [(   
+   )
+ 
+  ] 
+              (   
+   )
+
+===== PAGE 15 =====
+Subiectul I.5 
+GEOMETRIE ANALITICĂ 
+I. Distanța dintre două puncte (Lungimea unui segment) 
+Datele problemei Formulă 
+ (     ) 
+ (     )    √(     )  (     )  
+II. Coordonatele mijlocului unui segment 
+Datele problemei Formulă 
+ (     ) 
+ (     ) 
+ (     )                              
+        
+             
+  
+ 
+III. Panta unei drepte (  ) 
+Datele problemei Formulă 
+                                          (coeficient unghiular) 
+Ecuația generală a dreptei: 
+                     
+  
+Ecuația explicită a dreptei 
+              (                  ) 
+ (     )   
+ (     )          
+     
+       
+ 
+IV. Determinarea ecuației unei drepte 
+Datele problemei Formulă 
+ (     ) 
+ (     ) 
+    |
+   
+     
+     
+|    
+        
+     
+     
+     
+             
+                     
+                     
+ (     ) și panta dreptei d             (    ) 
+ 
+Să ne amintim! 
+Mediatoarea unui segment este perpendiculara 
+dusă prin mijlocul segmentului 
+Înălțimea este perpendiculara dusă dintr-un vârf al 
+triunghiului pe latura opusă 
+Mediana este segmentul care unește un vârf al 
+triunghiului cu mijlocul laturii opuse
+
+===== PAGE 16 =====
+V. Pozițiile relative a două drepte 
+                               
+SAU 
+                                
+     drepte concurente  
+  
+  
+ 
+  
+  
+ 
+Observație! Coordonatele punctului de intersecție a două drepte reprezintă soluția sistemul 
+format din ecuațiile celor două drepte. 
+        
+  
+   
+  
+       (            )    
+  
+   
+  
+   
+  
+ 
+ 
+VI. Aria unui triunghi 
+Datele problemei Formulă 
+ (     ) 
+ (     ) 
+ (     ) 
+       
+  | |      
+  |
+     
+     
+     
+| 
+VII. Coliniaritatea a trei puncte distincte în plan 
+Datele problemei Formulă 
+ (     ) 
+ (     ) 
+ (     ) 
+                          
+   |
+     
+     
+     
+| 
+ 
+VIII. Distanța de la un punct la o dreaptă 
+Datele problemei Formulă 
+Coordonatele punctului 
+  (     ) 
+Ecuația generală a dreptei 
+             
+ (   )  
+|         |
+√      
+Aplicație! Determinarea lungimii unei înălțimi 
+ (     )                
+IX. Coordonatele centrului de greutate al unui triunghi 
+Datele problemei Formulă 
+ (     ) 
+ (     ) 
+ (     ) 
+ (     )                                  
+           
+                
+  
+Să ne amintim! Centrul de greutate al unui   (G) reprezintă punctul 
+de intersecție al medianelor unui  .
+
+===== PAGE 17 =====
+VECTORI 
+Definiții și notații 
+Vector = mărime fizică, caracterizată prin direcție, sens, lungime 
+  ⃗⃗⃗⃗⃗  
+                       
+                           
+                                       
+|  ⃗⃗⃗⃗⃗ |     (                      ⃗⃗⃗⃗⃗ ) 
+Doi vectori au aceeași direcție dacă dreptele lor suport sunt paralele sau coincid. 
+Doi vectori au același sens dacă extremitățile lor sunt de aceeași parte a dreptei determinată 
+de originile vectorilor. 
+Doi vectori sunt egali dacă au aceeași direcție, lungime și același sens. 
+Doi vectori sunt opuși dacă au aceeași direcție, lungime și sensuri opuse. Notăm:      ⃗ . 
+  ⃗⃗⃗⃗⃗⃗     ⃗⃗⃗⃗⃗⃗  
+Vectorul nul este vectorul cu lungime 0. Notăm:  ⃗              .  
+|  ⃗⃗⃗⃗⃗ |  | ⃗⃗ |    
+Doi vectori sunt coliniari dacă au aceeași direcție.  
+ ⃗                             ⃗            ⃗   
+Adunarea vectorilor necoliniari 
+Regula triunghiului Regula paralelogramului 
+  ⃗⃗⃗⃗⃗    ⃗⃗⃗⃗⃗    ⃗⃗⃗⃗⃗    ⃗⃗⃗⃗⃗    ⃗⃗⃗⃗⃗    ⃗⃗⃗⃗⃗                         
+  
+Vectorul de poziției al mijlocului unui segment 
+                      ⃗⃗⃗⃗⃗⃗    ⃗⃗⃗⃗⃗    ⃗⃗⃗⃗⃗ 
+                                
+Vectori în reper cartezian 
+              (   ) |  |  √      
+  ⃗⃗⃗⃗⃗  (     )   (     )   
+  ⃗⃗⃗⃗              ⃗⃗⃗⃗            
+  ⃗⃗⃗⃗    ⃗⃗⃗⃗             
+  
+  
+ 
+  
+  
+  
+Produsul scalar 
+  ⃗⃗⃗⃗    ⃗⃗⃗⃗                ⃗⃗⃗⃗    ⃗⃗⃗⃗  |  ⃗⃗⃗⃗ |  |  ⃗⃗⃗⃗ |     ( (  ⃗⃗⃗⃗    ⃗⃗⃗⃗ )) 
+  ⃗⃗⃗⃗    ⃗⃗⃗⃗    ⃗⃗⃗⃗    ⃗⃗⃗⃗    
+ 
+             B                                              C 
+A         D 
+    
+  
+             B 
+  A 
+C
+
+===== PAGE 18 =====
+Subiectul I.6 
+ 
+ELEMENTE DE TRIGONOMETRIE 
+ 
+Cercul trigonometric 
+  sin 
+ 
+      (   ) 
+ 
+ 
+ 
+  (    )                                       0 (1,0)     cos  
+                                     
+ 
+ 
+ 
+  
+    (    ) 
+ 0  
+               
+               
+sin 0 1 0 -1 0 
+cos 1 0 -1 0 1 
+ 
+  
+       
+       
+      
+sin  
+  √ 
+  √ 
+  
+cos √ 
+  √ 
+  
+ 
+  
+tg  
+√ 
+ 1 √  
+ctg √  1  
+√ 
+ 
+ 
+Semnul funcțiilor trigonometrice 
+  (   
+ ) 
+[           ] 
+Cadran I 
+       
+       
+  (    
+ ) 
+Cadran III 
+       
+       
+  ( 
+   ) 
+[         ] 
+Cadran II 
+       
+       
+  (  
+    ) 
+Cadran IV
+
+===== PAGE 19 =====
+Proprietăți ale funcțiilor trigonometrice 
+Mărginirea  
+                              
+Paritatea  
+   (  )           (  )        
+   (  )           (  )         
+Observație! cos este funcției pară, sin, tg, ctg funcții impare 
+Periodicitatea  
+   (     )                  (    )           ( 
+    )      
+   (     )                   (    )            (  )     
+ 
+Formule trigonometrice 
+Formula fundamentală a trigonometriei 
+                   
+   (     )          (      )       
+   (     )          (      )        
+   (   )                       (   )                    
+   (   )                       (   )                    
+                                  
+                              
+         
+               
+     
+ 
+   (   )           
+             (   )           
+          
+          
+           
+      
+       
+     
+    
+ 
+      
+ 
+      
+      
+ 
+      
+ 
+ 
+Transformarea unor sume în produs
+
+===== PAGE 20 =====
+Funcții trigonometrice inverse 
+        [    ]  [  
+   
+ ] 
+      (    )       [  
+   
+ ] 
+   (       )       [    ] 
+      (  )              [    ] 
+         (  
+   
+ ) 
+     (   )       (  
+   
+ ) 
+  (      )       [    ] 
+     (  )               
+        [    ]  [   ] 
+      (    )       [   ] 
+   (       )       [    ] 
+      (  )               [    ] 
+          (   ) 
+      (    )       (   ) 
+   (       )       [    ] 
+      (  )
+
+===== PAGE 21 =====
+APLICAȚII ALE TRIGONOMETRIEI ÎN GEOMETRIE 
+ 
+Teorema cosinusului 
+               
+                 
+        
+                 
+        
+                 
+        
+ 
+Teorema sinusurilor 
+               
+  
+        
+       
+        
+                                 
+Observație! Aplic teorema cosinusului dacă    
+Ipoteză Concluzie 
+Toate laturile triunghiului           
+2 laturi și   dintre ele a 3 –a latură 
+altfel aplic teorema sinusurilor. 
+Aria unui triunghi oarecare 
+            (  )
+                           
+      
+  
+   √  (   )  (   )  (   ) 
+       
+                   
+Raza cercului circumscris   Raza cercului înscris în
+
+===== PAGE 22 =====
+Triunghiul dreptunghic 
+ 
+                      
+      
+    
+  
+ Aria triunghiului 
+        
+  
+Înălțimea corespunzătoare ipotenuzei 
+       
+   
+Mediana corespunzătoare ipotenuzei 
+          
+  
+Raza cercului circumscris   
+    
+  
+Funcții trigonometrice 
+                    
+                      
+                    
+                        
+                           
+                
+ 
+Triunghiul echilateral 
+are toate laturile egale; are toate   de     
+           √ 
+     √ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+catetă (c2) 
+catetă (𝑐 )
+
+===== PAGE 23 =====
+Subiectul II.1 
+ELEMENTE DE CALCUL MATRICEAL ȘI SISTEME DE 
+ECUAȚII LINIARE 
+ 
+ 
+PERMUTĂRI 
+ 
+Permutare de grad n  - 
+definiție 
+  (    
+ ( )  ( )  
+   
+ ( )   ( )) 
+Permutarea identică  
+de gradul n 
+  (   
+   
+   
+   ) 
+Transpoziție     (   
+            
+           
+           
+          
+  ) 
+Inversa unei permutări 
+    (  ( )  ( )  
+        ( )   ( )
+   ) 
+apoi se ordonează prima linie 
+Compunerea permutărilor    (    
+ ( ( ))  ( ( ))      
+ 
+ ( ( ))) 
+Inversiune a unei permutări 
+Perechea (   ) cu     se numește inversiune a permutării   dacă 
+ ( )   ( ) 
+ ( )= numărul inversiunilor permutării   
+Semnul (signatura) unei 
+permutări – definiție 
+ ( )  (  ) ( ) 
+Semnul (signatura) unei 
+permutări – proprietăți 
+ (  )   ( ) ( ) și  (  )  ( ( ))
+ 
+ 
+Permutare pară   este permutare pară dacă  ( )    
+Permutare impară   este permutare impară dacă  ( )
+
+===== PAGE 24 =====
+MATRICE. DETERMINANȚI 
+ 
+Matrice pătratică  
+de ordin n 
+Matrice cu n linii și n coloane 
+Matricea unitate 
+de ordin n - definiție 
+   (  
+  ) ,    (
+   
+   
+   
+) 
+Matricea unitate 
+de ordin n – proprietate  
+                   ( ) 
+Matricea nulă 
+de tipul (   ) 
+     (
+   
+   
+   
+    
+ 
+ 
+ 
+) 
+ Urma unei matrice 
+pătratice  
+  ( ) = suma elementelor de pe diagonala principală 
+Transpusa unei matrice – 
+definiție  
+    se obține din matricea   prin transformarea liniilor în coloane și 
+a coloanelor în linii 
+Transpusa unei matrice – 
+proprietate  
+(  )       
+Relația lui 
+ Hamilton - Cayley 
+     ( )       ( )        
+Determinantul de ordin 2    ( )  |  
+  |        
+Proprietăți ale 
+determinanților  
+Un determinant cu elementele unei linii/coloane nule are valoarea 0. 
+Un determinant cu două linii/coloane identice are valoarea 0. 
+   (  )     ( ) 
+   (   )            
+   (  )  (    )  
+Dacă la elementele unui linii/coloane se adună elementele altei 
+linii/coloane înmulțite eventual cu același număr, atunci valoarea 
+determinantului nu se modifică.
+
+===== PAGE 25 =====
+Matrice inversabile 
+  este inversabilă          
+               
+Inversa unei matrice 
+Pas 1. Se calculează         
+Pas 2. Se determină matricea transpusă    
+Pas 3. Se determină matricea adjunctă    (   )       ̅̅̅̅̅ 
+    (  )     determinantul obținut din    
+                                        prin eliminarea linie   și coloanei   
+Pas 4. Se calculează inversa matricei      
+ 
+        
+Ecuații matriceale 
+             ,         
+             ,         
+                   ,        ,
+
+===== PAGE 26 =====
+SISTEME DE ECUAȚII LINIARE 
+ 
+Rangul unei matrice 
+             un minor de ordin   al lui   nenul (  ) și toți minorii 
+de ordin     sunt nuli ( ) 
+ 
+ 
+Stabilirea compatibilității unui sistem liniar și rezolvarea lui 
+ 
+  – matricea sistemului 
+  – matrice pătratică  
+Stabilirea compatibilității 
+Se calculează      
+         
+sistem compatibil determinat/ 
+sistem cu soluție unică/ 
+sistem de tip Cramer 
+       
+1. Se determină     ( )     (minorul 
+principal) 
+2. Se calculează minorii caracteristici    
+        Numărul    = numărul ecuațiilor secundare 
+3. Dacă         sistem incompatibil 
+    Dacă toți       sistem compatibil 
+nedeterminat (o infinitate de soluții) 
+Rezolvarea sistemului 
+    
+         
+         
+     
+Se stabilesc ecuațiile principale și secundare 
+Se stabilesc necunoscutele principale și secundare 
+Necunoscute secundare       
+Un sistem cu o necunoscută secundară = sistem 
+compatibil simplu nedeterminat 
+Un sistem cu două necunoscute secundare = sistem 
+compatibil dublu nedeterminat 
+Se rezolvă sistemul format din ecuațiile principale
+
+===== PAGE 27 =====
+– nu este matrice pătratică 
+ ̅ – matricea extinsă a sistemului 
+Stabilirea compatibilității 
+1. Se determină     ( )     (minorul principal) 
+2. Se calculează minorii caracteristici    
+        Numărul    = numărul ecuațiilor secundare 
+3.  Dacă         sistem incompatibil 
+                                                      Dacă toți       sistem compatibil  
+                                      Dacă                   ̅
+    
+⇒  sistem compatibil   
+Rezolvarea sistemului 
+Se stabilesc ecuațiile principale și secundare 
+Se stabilesc necunoscutele principale și secundare 
+Necunoscute secundare       
+Dacă   necunoscute secundare   sistem compatibil nedeterminat 
+Dacă   necunoscute secundare   sistem compatibil determinat 
+Un sistem cu o necunoscută secundară = sistem compatibil simplu nedeterminat 
+Un sistem cu două necunoscute secundare = sistem compatibil dublu nedeterminat 
+Se rezolvă sistemul format din ecuațiile principale
+
+===== PAGE 28 =====
+Subiectul II.2  
+LEGI DE COMPOZIȚIE PE O MULȚIME 
+ 
+Proprietățile legilor de compoziție (   ) 
+Parte stabilă              
+Asociativitate (   )      (   )           
+Comutativitate                 
+Element neutru                          
+Elemente simetrizabile 
+    element simetrizabil dacă 
+                       
+                            
+ ( )   mulțimea elementelor simetrizabile din   în raport cu legea     
+ 
+Structuri algebrice 
+Monoid 
+(   ) monoid comutativ (abelian) dacă  
+1.   este parte stabilă în raport cu legea     
+2.     este asociativă 
+3.     admite element neutru 
+4.      este comutativă 
+Grup 
+(   ) grup comutativ (abelian) dacă  
+1.   este parte stabilă în raport cu legea     
+2.     este asociativă 
+3.     admite element neutru 
+4.  ( )    
+5.      este comutativă 
+Inel 
+(     ) inel comutativ dacă  
+1. (   ) este grup comutativ 
+2. (   )  este monoid comutativ 
+3. Distributivitatea operației     față de     
+     (   )  (   )  (   )          
+   (   )    (   )  (   )          
+Corp  
+(     ) corp comutativ dacă 
+1. (   ) este grup comutativ (    element neutru) 
+2. (  {  }  )  este grup comutativ 
+3. Distributivitatea operației     față de     
+     (   )  (   )  (   )          
+                 (   )    (   )  (   )
+
+===== PAGE 29 =====
+Morfisme de grupuri 
+Fie (    ) și (    ) două 
+grupuri  
+        este izomorfism de grupuri dacă 
+1.   este morfism de grupuri dacă  (   )   ( )   ( )         
+2.   bijecivă 
+Proprietate:   (  )     
+Morfisme de inele 
+Fie (      ) și (      ) 
+două inele 
+        este izomorfism de inele dacă 
+1.   este morfism de inele dacă  
+a.  (   )   ( )   ( )         
+b.  (   )   ( )   ( )         
+c.  (  )     
+2.   bijecivă 
+Proprietate:   (  )     
+Subgrupuri  
+Fie (   ) și     
+(   ) este subgrup al lui G dacă 
+               
+sau 
+1.              
+2.
+
+===== PAGE 30 =====
+POLINOAME 
+Forma algebrică 
+a unui polinom 
+                          [ ] 
+ [ ]   mulțimea polinoamelor cu coeficienți în corpul   
+Suma coeficienților 
+unui polinom 
+Suma coeficienților polinomului    (               )   ( ) 
+Gradul unui polinom         cel mai mare exponent al lui   
+Polinoame particulare 
+Polinomul constant:           
+Gradul polinomului constant = 0 
+Polinomul nul:     
+Gradul polinomului constant =    
+Un polinom devine polinom nul dacă toți coeficienții polinomului sunt 0. 
+Teorema împărțirii cu 
+rest 
+                        
+   deîmpărțit 
+   împărțitor 
+   cât 
+   rest 
+Teorema restului    (   )     ( ) 
+Divizibilitatea 
+polinoamelor 
+         
+  (   )   ( )    
+  (   )       și     
+Rădăcini ale 
+polinoamelor 
+    rădăcină   ( )    
+    rădăcină    (   ) (Th. Bezout) 
+    rădăcină dublă    (   )  
+    rădăcină dublă   ( )    și   ( )    
+Polinoame ireductibile 
+   [ ] este polinom reductibil peste corpul   dacă 
+        [ ]          și          a.î.      . 
+ 
+   [ ]            este polinom ireductibil peste corpul   dacă   nu 
+este reductibil peste  . 
+Descompunerea 
+polinoamelor în factori 
+ireductibili 
+   [ ]                           
+           rădăcinile polinomului 
+    (    )(    )  (    )
+
+===== PAGE 31 =====
+Relațiile lui Viete 
+pentru polinoame de 
+grad 3 
+                   cu          rădăcini 
+              
+   
+                   
+  
+            
+   
+Suma pătratelor rădăcinilor 
+  
+    
+    
+    
+      
+Ecuația algebrică de gradul 3 cu rădăcinile          este 
+                 
+Relațiile lui Viete 
+pentru polinoame de 
+grad 4 
+                       cu             rădăcini 
+                 
+   
+                                  
+  
+                                 
+   
+             
+  
+Suma pătratelor rădăcinilor 
+  
+    
+    
+    
+    
+      
+Ecuația algebrică de gradul 4 cu rădăcinile             este 
+                      
+Ecuații algebrice cu 
+coeficienți în   
+Rădăcinile întregi ale unei ecuații algebrice cu coeficienți în    
+  Divizorilor termenului liber  
+Rădăcinile raționale ale unei ecuații algebrice cu coeficienți în   sunt de 
+forma 
+ 
+  unde 
+    Divizorilor termenului liber și 
+   Divizorilor coeficientului dominant 
+Ecuații algebrice cu 
+coeficienți în   
+   [ ]
+     √                  |       √                   
+Ecuații algebrice cu 
+coeficienți în   
+   [ ]
+                        |
+
+===== PAGE 32 =====
+Ecuații reciproce de 
+gradul 3 
+Ecuația reciprocă de grad 3                are rădăcina 
+       
+               (   )(    (   )   )    
+Ecuații reciproce de 
+gradul 4 
+Ecuația reciprocă de grad 4 
+                    |  
+ 
+  (   )   
+ (    
+  )   (   
+ )      
+   
+        
+       
+⇔               
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subiectul III.1
+
+===== PAGE 33 =====
+ELEMENETE DE ANALIZĂ MATEMATICĂ CLASA a XI – a  
+Derivatele funcțiilor elementare 
+Nr. Crt. Derivate simple Derivate compuse 
+1       
+2       
+3 (  )        ( ( ) )     ( )    ( ( ))  
+4 (√ )   
+ √  (√ ( ))    
+ √ ( )
+ ( ( ))  
+5 (√ 
+ 
+)   
+ √    (√ ( )
+ 
+)    
+ √( ( ))
+  
+ ( ( ))  
+6 ( √ 
+ 
+)   
+ √      ( √ ( )
+ 
+)    
+ √( ( ))
+    
+ ( ( ))  
+7 (  )        (  ( ))    ( )     ( ( ))  
+8 (  )     (  ( ))    ( )  ( ( ))  
+9 (   )   
+  (   ( ))   
+ ( )  ( ( ))  
+10 (     )   
+     (     ( ))   
+ ( )     ( ( ))  
+11 (    )       (    ( ))      ( )  ( ( ))  
+12 (    )        (    ( ))        ( )  ( ( ))  
+13 (   )   
+      (   ( ))   
+     ( )  ( ( ))  
+14 (    )    
+      (    ( ))    
+     ( )  ( ( ))  
+15 (       )   
+√     (       ( ))   
+√   ( ) 
+ ( ( ))  
+16 (       )    
+√     (       ( ))    
+√   ( ) 
+ ( ( ))  
+17 (      )   
+     (      ( ))   
+   ( )  ( ( ))  
+18 (       )    
+     (       ( ))    
+   ( )  ( ( ))
+
+===== PAGE 34 =====
+Șiruri 
+Mărginire și monotonie 
+Mărginire 
+(  )    mărginit inferior dacă       a.î.           
+(  )    mărginit superior dacă       a.î.           
+(  )    mărginit dacă șirul este mărginit inferior și superior 
+Monotonie 
+(  )    monoton crescător dacă                
+SAU 
+(  )                este monoton crescător dacă 
+ 
+    
+  
+        
+(  )    monoton descrescător dacă                
+SAU 
+(  )                este monoton descrescător dacă 
+ 
+    
+  
+        
+(  )    strict crescător dacă                
+SAU 
+(  )                este strict crescător dacă 
+ 
+    
+  
+        
+(  )    strict descrescător dacă                
+SAU 
+(  )                este strict descrescător dacă 
+ 
+    
+  
+        
+ 
+ 
+Reguli de derivare 
+(   )        
+(   )       
+(   )            
+( 
+ )
+ 
+          
+   
+( 
+ )
+ 
+    
+   
+(   ) (  )   
+  (  )      (  )
+
+===== PAGE 35 =====
+Convergența 
+Un șir este convergent dacă acesta are limita finită. 
+Un șir este divergent dacă are limita    sau nu au limită (    ). 
+Un șir este convergent dacă este monoton și mărginit.  
+(Proprietatea lui Weierstrass) 
+Limite de șiruri – cazuri de nedeterminare (idei de rezolvare) 
+Cazul  
+ 
+  
+Factor comun forțat 
+   
+   
+   {
+              
+            (    )
+          
+          
+ 
+Lema lui Stolz – Cesaro 
+   
+   
+  
+  
+    
+   
+       
+       
+  
+      (  )                                                           
+Criteriul raportului  
+(  )   cu termeni strict pozitivi. Dacă 
+    
+   
+    
+  
+    ̅          
+ )   [   )           
+   
+      
+ )   (   )           
+   
+     
+ )                                                         
+Regula lui lʹHospital 
+   
+   
+       ( )     
+                 
+   
+ ( )                               
+       
+⇒                     
+   
+           
+   
+   
+ ( )           
+   
+      
+Cazul     
+Factor comun forțat 
+SAU 
+Amplificarea cu expresia conjugată (la limitele cu radicali) 
+SAU 
+Proprietățile logaritmilor (la limitele cu ln)
+
+===== PAGE 36 =====
+Cazul  
+ 
+  Limite remarcabile 
+   
+   
+     
+  
+          
+   
+    
+  
+          
+   
+        
+  
+          
+   
+       
+  
+    
+   
+   
+  (    )
+  
+   
+   
+   
+     
+  
+     
+          
+Cazul     
+Cazul       
+   
+(    )
+ 
+               
+Cazul           
+   
+   
+  
+      
+   
+       
+    
+   
+        
+Criteriul radicalului 
+   
+   √  
+     
+   
+    
+  
+   
+(  )   cu termeni strict pozitivi 
+ 
+Funcții  
+Limite de funcții 
+Limite laterale 
+  (  )   (    )         
+    
+ ( ) 
+  (  )   (    )         
+    
+ ( ) 
+    
+    
+ ( )      (  )    (  ) 
+Cazuri de nedeterminare (idei de rezolvare) 
+Cazul  
+ 
+  
+Factor comun forțat 
+Regula lui lʹHospital 
+   
+    
+ ( )
+ ( )     
+    
+( ( )) 
+( ( ))  
+Cazul     
+Factor comun forțat 
+SAU 
+Amplificarea cu expresia conjugată (la limitele cu radicali) 
+SAU 
+Proprietățile logaritmilor (la limitele cu ln) 
+   ( )     ( )     ( )
+ ( )
+
+===== PAGE 37 =====
+Cazul  
+ 
+  
+Limite remarcabile 
+       
+    ( )
+ ( )               
+   ( )
+ ( )          
+       
+       ( )
+ ( )                  
+      ( )
+ ( )     
+   
+    
+  (   ( ))
+ ( )    
+   
+    
+  ( )   
+ ( )      
+      ( )    
+Regula lui lʹHospital 
+Cazul     
+Limite remarcabile 
+Regula lui lʹHospital 
+   
+    
+ ( )   ( )     
+    
+( ( )) 
+(  
+ ( ))
+         
+    
+( ( )) 
+(  
+ ( ))
+  
+Cazul       
+    
+(   ( ))
+ 
+ ( )          ( )    
+Cazul              
+    
+ ( ) ( )     
+    
+    ( ) ( )
+    
+    
+  ( )    ( ) 
+Asimptote  
+Asimptote orizontale 
+la     
+            
+     
+    
+ ( ) 
+Asimptote oblice 
+la    
+                                    
+     
+    
+ ( )
+  
+     
+    
+[ ( )    ] 
+Asimptote verticale 
+                              
+                                                                          
+Câteva rezultate utile în 
+calcularea limitelor! 
+ 
+ 
+ 
+  
+     
+  
+      
+     
+             
+           
+        
+       (  )
+
+===== PAGE 38 =====
+Funcții continue 
+  continuă în        (  )    (  )   (  )  
+Proprietate lui 
+ Cauchy - Bolzano 
+                                          
+ ( )   ( )   |           
+ ( )                                          (   ) 
+Semnul unei funcții 
+continue 
+O funcție continuă are același semn pe un intervalul în care nu are 
+zerouri. 
+Funcții derivabile 
+   
+    
+ ( )   (  )
+    
+   (  ) 
+Ecuația tangentei la 
+graficul funcției   în 
+punctul de abscisă      
+   (  )    (  )(    ) 
+      (  ) – panta tangentei 
+                       (  )     (  )        
+                         (  )     (  ) 
+Puncte de întoarcere 
+   este punct de întoarcere al funcției   dacă   este continuă în    și 
+   (  )     (  ) infinite 
+Puncte unghiulare 
+   este punct unghiular al funcției   dacă   este continuă în    și 
+   (  )     (  ) și cel puțin o derivată laterală este finită 
+Teorema lui Fermat 
+  [   ]       (   ) un punct de extrem al funcției. Dacă   este 
+derivabilă în punctul    atunci   (  )    
+Teorema lui Lagrange               [   ]
+                (   )|      (   )      ( )   ( )
+      ( ) 
+Teorema lui Rolle 
+              [   ]
+                (   )
+ ( )   ( )
+|      (   )       ( )    
+Șirul lui Rolle 
+Se aplică pentru determinarea numărului de soluții reale ale 
+ecuației  ( )    
+Etape: 
+1) Se determină   ( ) 
+2) Se rezolvă   ( )    
+3)  
+ 
+   
+  ( )  
+ ( )  
+Ș.R.
+
+===== PAGE 39 =====
+Rolul derivatei I 
+  ( )                 (       )                   
+  ( )                 (       )                     
+Determinarea intervalelor de monotonie și a punctelor de extrem 
+Etape: 
+Se determină   ( ) 
+Se rezolvă   ( )    
+ 
+   
+  ( )  
+ ( )  
+Enunțuri care se rezolvă cu derivata I 
+ Să se determinarea intervalelor de monotonie 
+ Să se determinarea punctelor de extrem 
+ Să se demonstreze că f este (strict) crescătoare/descrescătoare 
+ Să se demonstreze inegalități cu ajutorul punctelor de extrem 
+ Să se determine imaginea(mulțimea de valori) unei funcții 
+ Să se demonstreze că o funcție este mărginită 
+ Să se demonstreze bijectivitatea unei funcții 
+o   injectivă    strict monotonă pe domeniu 
+o   surjectivă       codomeniu 
+Rolul derivatei a II –a  
+   ( )                               
+   ( )                              
+     punct de inflexiune dacă 
+   continuă în    
+   are derivată în    
+   este concavă de o parte a lui    și convexă de cealaltă 
+parte a lui     
+Determinarea intervalelor de concavitate/convexitate și a punctelor 
+de inflexiune 
+Etape: 
+Se determină    ( ) 
+Se rezolvă    ( )    
+ 
+   
+   ( )  
+ ( )
+
+===== PAGE 40 =====
+Subiectul III.2 
+ELEMENETE DE ANALIZĂ MATEMATICĂ CLASA a XII – a  
+Primitive  
+Definiție 
+  este primitivă a funcției   dacă  
+1. F derivabilă pe D 
+2.   ( )   ( )      
+Pentru a determina/a calcula primitiva unei funcții se folosește  ( )  ∫  ( )  . 
+Pentru a demonstra/a arăta enunțuri care implică primitive se folosește definiția primitivei. 
+Pentru a demonstra că o funcție admite primitive pe D se arată că funcția este continuă pe D. 
+Metoda integrării prin părți 
+∫   ( )   ( )    ( )   ( )  ∫  ( )    ( )   
+ 
+Integrale definite 
+Formula lui 
+Leibniz - Newton 
+∫  ( )
+ 
+ 
+    ( )| 
+   ( )   ( ) 
+Proprietăți 
+∫  ( )  
+ 
+      dacă   impară și     
+∫  ( )  
+ 
+    ∫  ( )  
+ 
+     dacă   pară și     
+∫  ( )  
+ 
+ 
+       
+Teorema de medie 
+  [   ]    este o funcție continuă     [   ] a.î. 
+∫  ( )
+ 
+ 
+   (   ) ( ) 
+Proprietatea de 
+pozitivitate 
+∫  ( )  
+ 
+ 
+    ( )       [   ] 
+Proprietatea de 
+monotonie 
+ ( )   ( )    [   ]  ∫  ( )  
+ 
+ 
+ ∫  ( )  
+ 
+ 
+ 
+Proprietatea de 
+aditivitate la interval ∫  ( )  
+ 
+  ∫  ( )  
+ 
+  ∫  ( )  
+ 
+    [   ]  
+Metoda integrării prin 
+părți 
+∫   ( )   ( )  
+ 
+ 
+  ( )   ( )| 
+  ∫  ( )    ( )
+
+===== PAGE 41 =====
+Integrale nedefinite 
+1 ∫      ∫         
+2 ∫          
+      ∫   ( )    ( )       ( )
+      
+3 ∫           ∫   ( )    ( )     ( )    
+4 ∫        
+      ∫   ( )    ( )     ( )
+      
+5 ∫  
+          ∫  
+ ( )    ( )       ( )    
+6 ∫  
+         
+    |   
+   |    ∫  
+  ( )       ( )    
+    | ( )   
+ ( )   |    
+7 ∫  
+         
+       
+    ∫  
+  ( )       ( )    
+       ( )
+    
+8 ∫  
+√          |  √     |    ∫  
+√  ( )    
+   ( )     | ( )  √  ( )    |    
+9 ∫  
+√          (  √     )    ∫  
+√  ( )    
+   ( )     ( ( )  √  ( )    )    
+10 ∫  
+√               
+    ∫  
+√     ( )
+   ( )          ( )
+    
+11 ∫                ∫     ( )    ( )         ( )    
+12 ∫                ∫     ( )    ( )       ( )    
+13 ∫           |    |    ∫    ( )    ( )        |    ( )|    
+14 ∫           |    |    ∫     ( )    ( )       |    ( )|    
+15 ∫  
+                ∫  
+     ( )    ( )        ( )    
+16 ∫  
+              ∫  
+     ( )    ( )       ( )
+
+===== PAGE 42 =====
+Aplicații ale integralei definite 
+Aria unei suprafețe 
+plane delimitate de 
+graficul funcției  , axa    
+și dreptele de ecuații 
+    și     
+    (  )  ∫ | ( )|
+ 
+ 
+   
+Aria suprafeței plane 
+cuprinse între două 
+curbe 
+    (    )  ∫ | ( )   ( )|
+ 
+ 
+   
+Volumul unui corp de 
+rotație determinat de 
+graficul funcției 
+  [   ]    
+   (  )   ∫   ( )

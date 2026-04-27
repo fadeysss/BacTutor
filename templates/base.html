@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title or 'Bac Tutor' }}</title>
+  <meta name="description" content="Bac Tutor - platforma locala pentru pregatirea la Bacalaureat">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <a class="brand" href="{{ url_for('home') }}">
+        <span class="brand-logo">B</span>
+        <span>
+          <strong>Bac Tutor</strong>
+          <small>Bac 2026 · invatare structurata · AI optional</small>
+        </span>
+      </a>
+      <div class="topbar-right">
+        <div class="status-pill {% if global_ollama_status.healthy %}online{% else %}offline{% endif %}">
+          <span class="status-dot"></span>
+          {% if global_ollama_status.healthy %}
+            Tutor AI online
+          {% else %}
+            Tutor AI optional
+          {% endif %}
+        </div>
+        <nav class="nav-links">
+          <a href="{{ url_for('home') }}">Materii</a>
+          <a href="{{ url_for('dashboard') }}">Progres</a>
+          <a href="{{ url_for('custom_lesson') }}">Lectie personala</a>
+          <a href="{{ url_for('admin_panel') }}">Materiale</a>
+        </nav>
+      </div>
+    </header>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <section class="flash-stack">
+          {% for category, message in messages %}
+            <div class="flash {{ category }}">{{ message }}</div>
+          {% endfor %}
+        </section>
+      {% endif %}
+    {% endwith %}
+
+    <main class="page">
+      {% block content %}{% endblock %}
+    </main>
+  </div>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+{
+  "subject_id": "matematica_m1",
+  "subiect_id": "subiectul-2",
+  "chapters": [
+    {
+      "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+      "title": "Matrice, determinanti si sisteme liniare",
+      "formulas": [
+        "A=(a_{ij})_{m x n}",
+        "(A+B)_{ij}=a_{ij}+b_{ij}",
+        "(kA)_{ij}=k*a_{ij}",
+        "(AB)_{ij}=\\u03a3_{k=1}^{p} a_{ik}b_{kj}",
+        "det\\u005ba b; c d\\u005d = ad-bc",
+        "det(A)\\u22600 \\u21d2 A^{-1}=(1/det(A))*adj(A)",
+        "A*X=B, det(A)\\u22600 \\u21d2 X=A^{-1}B",
+        "Sistem Cramer: x_i=det(A_i)/det(A), det(A)\\u22600"
+      ],
+      "tips": [
+        "La sisteme liniare, verifica intai daca det(A) este 0 sau nu.",
+        "La inmultire de matrice, dimensiunile interne trebuie sa coincida."
+      ]
+    },
+    {
+      "chapter_id": "grupuri-si-legi-de-compozitie",
+      "title": "Grupuri si legi de compozitie",
+      "formulas": [
+        "Lege interna: * : GxG -> G",
+        "(a*b)*c = a*(b*c)",
+        "\\u2203e\\u2208G astfel incat e*a=a*e=a",
+        "\\u2200a\\u2208G, \\u2203a^{-1}\\u2208G cu a*a^{-1}=a^{-1}*a=e",
+        "Grup abelian: a*b=b*a",
+        "ax=b \\u21d2 x=a^{-1}b",
+        "xa=b \\u21d2 x=ba^{-1}",
+        "(a*b)^{-1}=b^{-1}*a^{-1}"
+      ],
+      "tips": [
+        "Cand verifici daca (G,*) este grup, urmeaza ordinea: inchidere, asociativitate, neutru, inverse.",
+        "La ecuatii in grupuri, izoleaza necunoscuta prin inmultiri cu inversul in partea corecta."
+      ]
+    },
+    {
+      "chapter_id": "inele-corpuri-si-polinoame",
+      "title": "Inele, corpuri si polinoame",
+      "formulas": [
+        "Inel: (R,+,*) cu (R,+) grup abelian si * asociativa",
+        "Corp: (K,+,*) inel comutativ in care \\u2200a\\u22600 exista a^{-1}",
+        "Divizare euclidiana: P(x)=D(x)*Q(x)+R(x), deg(R)<deg(D)",
+        "D(x)=x-a \\u21d2 P(x)=(x-a)Q(x)+P(a)",
+        "P(a)=0 \\u21d4 (x-a) | P(x)",
+        "deg(P*Q)=deg(P)+deg(Q), daca P,Q\\u22600",
+        "(P+Q)(a)=P(a)+Q(a)",
+        "(P*Q)(a)=P(a)*Q(a)"
+      ],
+      "tips": [
+        "La probleme cu polinoame, teorema restului este de obicei primul pas eficient.",
+        "Daca trebuie sa arati divizibilitate, cauta radacini si scrie factorii liniari."
+      ]
+    }
+  ]
+}

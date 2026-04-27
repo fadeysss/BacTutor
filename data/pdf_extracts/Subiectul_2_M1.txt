@@ -1,0 +1,98 @@
+
+
+===== PAGE 1 =====
+MATEMATICĂ
+Subiectul II
+Mate-info (M1)
+x * y=2xy+x
+f(x)=5+3^   ^
+G=(N; *)
+{x+y=8
+2x+3y=9
+(       )
+2
+3
+4
+0
+9
+6
+1
+5
+2
+
+===== PAGE 2 =====
+EXERCIȚIUL 1
+1
+2
+3
+4
+5
+6
+6
+10
+12
+14
+16
+20
+22
+22
+25
+26
+CUPRINS
+Noțiuni generale matrice
+Transpusa unei matrice
+Adunarea și scăderea
+Egalitatea a două matrice
+Înmulțirea unei matrice cu un scalar
+Urma unei matrice (trace) 
+Înmulțirea a două matrice
+Calcularea determinanților
+Teoreme ale determinanților
+Aplicații ale determinanților în geometrie
+Inversa unei matrice
+Sisteme de ecuații liniare
+Relația Hamilton Cayley
+Exercitii tip pubpunctul c
+Rangul unei matrice
+Tipuri de sisteme de ecuatii in functie de
+rang
+EXERCIȚIUL 2
+Legi de compoziție
+Calcule cu legi de compoziție
+Comutativitatea
+Asociativitatea
+28
+28
+28
+29
+
+===== PAGE 3 =====
+© 2025 Integral Nexus S.R.L.Toate drepturile rezervate. Nicio parte a acestei culegeri nu poate fi reprodusă, stocată sau transmisă sub nicioformă – electronică, mecanică, fotocopiere, înregistrare sau altfel – fără acordul scris al autorului.Auto-publicareAceastă culegere este destinată exclusiv uzului educaționalPentru permisiuni sau informații suplimentare, contactați: integralnexus@yahoo.com
+Polinoame
+Gradul unui polinom si calcule cu polinoame
+Împărțirea polinoamelor
+Divizibilitatea unui polinom
+Relațiile lui Viette
+Elementul neutru
+Elementul simetrizabil
+Descompunerea unei legi de compoziție
+Monoid și Grup
+Morfism si izomorfism
+Exercitii tip subpunctul c
+29
+30
+30
+32
+34
+35
+37
+38
+39
+40
+REZOLVĂRI 45
+
+===== PAGE 4 =====
+Subiectul  11Exercitiul 1
+
+===== PAGE 31 =====
+Subiectul  11Exercitiul 2

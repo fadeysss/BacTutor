@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero">
+  <div>
+    <span class="eyebrow">Platforma studiu pentru Bac</span>
+    <h1>Invatatul pentru bac in 2026</h1>
+    <p class="hero-copy">Bac Tutor este gandit pentru sesiuni scurte de invatare: lectie structurata, quiz final, feedback clar. Tutorul AI este optional si nu blocheaza folosirea platformei.</p>
+    {% if recommended_start %}
+      <div class="hero-cta-row">
+        <a class="button" href="{{ recommended_start.url }}">Start recomandat</a>
+        <span class="muted-text">{{ recommended_start.label }}</span>
+      </div>
+    {% endif %}
+    <div class="hero-kpis">
+      <span class="pill">Lectii pe capitole</span>
+      <span class="pill">Quiz final in fiecare lectie</span>
+      <span class="pill">Progres salvat local</span>
+    </div>
+  </div>
+  <aside class="hero-stats card glass">
+    <div class="stat-grid compact">
+      <div>
+        <span>Nivel</span>
+        <strong>{{ student_summary.level }}</strong>
+      </div>
+      <div>
+        <span>XP</span>
+        <strong>{{ student_summary.xp }}</strong>
+      </div>
+      <div>
+        <span>Quiz-uri</span>
+        <strong>{{ student_summary.quizzes_taken }}</strong>
+      </div>
+      <div>
+        <span>Medie</span>
+        <strong>{{ student_summary.average_score }}%</strong>
+      </div>
+    </div>
+  </aside>
+</section>
+
+<section class="section-header">
+  <div>
+    <h2>Alege materia</h2>
+    <p>Incepe cu materia prioritara, alege capitolul, apoi inchide sesiunea cu quiz-ul final.</p>
+  </div>
+</section>
+
+<section class="card-grid subject-grid">
+  {% for subject in subjects %}
+    <a class="subject-card card" href="{{ url_for('subject_page', subject_id=subject.id) }}">
+      <div class="subject-badge">{{ subject.badge }}</div>
+      <div>
+        <h3>{{ subject.short_title }}</h3>
+        <p>{{ subject.description }}</p>
+        <div class="card-meta">
+          <span>{{ subject.track }}</span>
+          <span>{{ subject.subiecte|length }} subiecte</span>
+          <span>quiz aplicativ</span>
+        </div>
+      </div>
+    </a>
+  {% endfor %}
+  <a class="subject-card card add-card" href="{{ url_for('custom_lesson') }}">
+    <div class="subject-badge">+</div>
+    <div>
+      <h3>Lectie personala</h3>
+      <p>Incarci text sau PDF, iar tutorul il transforma intr-o lectie clara cu recap si task-uri.</p>
+      <div class="card-meta">
+        <span>text / PDF</span>
+        <span>AI-ready</span>
+      </div>
+    </div>
+  </a>
+</section>
+
+<section class="split-section">
+  <article class="card">
+    <h3>Cum incepi in 2 minute?</h3>
+    <ol class="steps-list">
+      <li>Deschizi materia care te intereseaza acum.</li>
+      <li>Parcurgi lectia in idei scurte cu exemplu lucrat.</li>
+      <li>Rezolvi quiz-ul final pentru verificare imediata.</li>
+      <li>Revii in dashboard pentru urmatorul capitol recomandat.</li>
+    </ol>
+  </article>
+  <article class="card">
+    <h3>Materiale de studiu + Tutor AI</h3>
+    <p>Adaugi notite si PDF-uri in zona Materiale. Cand Ollama ruleaza local, raspunsurile devin mai specifice pe continutul tau.</p>
+    <a class="button secondary" href="{{ url_for('admin_panel') }}">Deschide materiale</a>
+  </article>
+</section>
+{% endblock %}

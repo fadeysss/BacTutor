@@ -24,6 +24,8 @@ subject -> section -> chapter -> lesson -> final quiz -> progress feedback
 - Chapter-based lessons with:
   - short recap
   - worked example
+  - chapter formula sheet (M1 Subiectul I, II, III)
+  - quick formula drills before final quiz
   - common mistakes
   - quick checks
   - end-of-lesson quiz
@@ -78,6 +80,12 @@ bactutor_app_v2/
   - staggered reveal animations
   - better hover/interaction feedback
   - reduced-motion support for accessibility
+- Better math readability:
+  - unicode escape cleanup (`\uXXXX` no longer visible in lesson cards)
+  - superscript/subscript rendering for powers and indices in formulas and quiz
+- M1 expansion:
+  - formula coverage added for Subiectul II and Subiectul III chapters
+  - lesson quick-nav + live quiz completion progress bar
 - Maintenance script portability fix:
   - removed hardcoded absolute path in `scripts/upgrade_math_m1_content.py`
 

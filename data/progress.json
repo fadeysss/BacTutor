@@ -1,0 +1,1232 @@
+{
+  "students": {
+    "987d721971b74cf89b190299ac857476": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-20T10:31:14.683109+00:00"
+    },
+    "44b6ebffb7744217b97ecf53783eb1ac": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-20T10:31:32.174220+00:00"
+    },
+    "0acd856445864f16bbbb1dbe706b46bf": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-20T10:31:39.515225+00:00"
+    },
+    "e9e2312fa456473c82e86eb9b85cccea": {
+      "xp": 10,
+      "quizzes_taken": 1,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 0.0,
+          "chapters": {
+            "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice": {
+              "attempts": 1,
+              "best_score": 0,
+              "last_score": 0,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-20T10:32:10.850653+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "score": 0,
+          "xp_gain": 10,
+          "timestamp": "2026-04-20T10:32:10.850659+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:32:10.846858+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:32:10.838308+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:32:10.822430+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:32:10.765459+00:00"
+        }
+      ],
+      "created_at": "2026-04-20T10:32:10.765432+00:00"
+    },
+    "43c4a431dff74bca9e57d2c3b87ac290": {
+      "xp": 10,
+      "quizzes_taken": 1,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 0.0,
+          "chapters": {
+            "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice": {
+              "attempts": 1,
+              "best_score": 0,
+              "last_score": 0,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-20T10:32:29.409070+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "score": 0,
+          "xp_gain": 10,
+          "timestamp": "2026-04-20T10:32:29.409075+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:32:29.404979+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:32:29.395392+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:32:29.337820+00:00"
+        }
+      ],
+      "created_at": "2026-04-20T10:32:29.337787+00:00"
+    },
+    "f6f38f5111c8431b829845be5eee383d": {
+      "xp": 10,
+      "quizzes_taken": 1,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi",
+        "matematica_m1:subiectul-1:ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 0.0,
+          "chapters": {
+            "puteri-radicali-si-logaritmi": {
+              "attempts": 1,
+              "best_score": 0,
+              "last_score": 0,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-20T10:36:55.300751+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "score": 0,
+          "xp_gain": 10,
+          "timestamp": "2026-04-20T10:36:55.300757+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T10:36:55.297070+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T10:36:55.289339+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T10:36:55.284131+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-20T10:36:55.252343+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T10:36:55.223395+00:00"
+        }
+      ],
+      "created_at": "2026-04-20T10:36:55.165612+00:00"
+    },
+    "8915afc77cc04f1fb997bce9f9dfc605": {
+      "xp": 34,
+      "quizzes_taken": 1,
+      "average_score": 15.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi",
+        "matematica_m1:subiectul-2:matrice-determinanti-si-sisteme-liniare",
+        "matematica_m1:subiectul-3:limite-de-functii"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 15.0,
+          "chapters": {
+            "puteri-radicali-si-logaritmi": {
+              "attempts": 1,
+              "best_score": 15,
+              "last_score": 15,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-20T16:15:31.751945+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "score": 15,
+          "xp_gain": 34,
+          "timestamp": "2026-04-20T16:15:31.751951+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T16:15:31.746322+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T16:15:31.738705+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "limite-de-functii",
+          "timestamp": "2026-04-20T16:15:31.731255+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-2",
+          "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+          "timestamp": "2026-04-20T16:15:31.723508+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T16:15:31.677005+00:00"
+        }
+      ],
+      "created_at": "2026-04-20T16:15:31.618801+00:00"
+    },
+    "783a8cc69850469db7b823f5465f90df": {
+      "xp": 34,
+      "quizzes_taken": 1,
+      "average_score": 15.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi",
+        "matematica_m1:subiectul-2:matrice-determinanti-si-sisteme-liniare",
+        "matematica_m1:subiectul-3:limite-de-functii"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 15.0,
+          "chapters": {
+            "puteri-radicali-si-logaritmi": {
+              "attempts": 1,
+              "best_score": 15,
+              "last_score": 15,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-20T16:17:49.037751+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "score": 15,
+          "xp_gain": 34,
+          "timestamp": "2026-04-20T16:17:49.037756+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T16:17:49.033064+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T16:17:49.026299+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "limite-de-functii",
+          "timestamp": "2026-04-20T16:17:49.019185+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-2",
+          "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+          "timestamp": "2026-04-20T16:17:49.011772+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-20T16:17:48.968733+00:00"
+        }
+      ],
+      "created_at": "2026-04-20T16:17:48.911159+00:00"
+    },
+    "b98cf03b5f184bb5be6b6e81a869859b": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "romana_mate_info:subiectul-1:text-la-prima-vedere"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T16:37:15.521274+00:00"
+        }
+      ],
+      "created_at": "2026-04-21T16:37:15.332164+00:00"
+    },
+    "42216b166be64de8921c3506b67e391c": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "romana_mate_info:subiectul-1:text-la-prima-vedere"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T16:37:31.177261+00:00"
+        }
+      ],
+      "created_at": "2026-04-21T16:37:31.093517+00:00"
+    },
+    "546e9d76fda1480b9ff8259cc68d042c": {
+      "xp": 60,
+      "quizzes_taken": 2,
+      "average_score": 12.5,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:multimi-intervale-si-logica-matematica",
+        "romana_mate_info:subiectul-3:curente-literare-si-repere-istorico-literare"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 25.0,
+          "chapters": {
+            "multimi-intervale-si-logica-matematica": {
+              "attempts": 1,
+              "best_score": 25,
+              "last_score": 25,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-21T17:32:31.247944+00:00"
+            }
+          }
+        },
+        "romana_mate_info": {
+          "quizzes_taken": 1,
+          "average_score": 0.0,
+          "chapters": {
+            "curente-literare-si-repere-istorico-literare": {
+              "attempts": 1,
+              "best_score": 0,
+              "last_score": 0,
+              "subiect_id": "subiectul-3",
+              "updated_at": "2026-04-21T17:34:31.463059+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "curente-literare-si-repere-istorico-literare",
+          "score": 0,
+          "xp_gain": 10,
+          "timestamp": "2026-04-21T17:34:31.463075+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "curente-literare-si-repere-istorico-literare",
+          "timestamp": "2026-04-21T17:34:31.285399+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "curente-literare-si-repere-istorico-literare",
+          "timestamp": "2026-04-21T17:34:05.267339+00:00"
+        },
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "score": 25,
+          "xp_gain": 50,
+          "timestamp": "2026-04-21T17:32:31.247948+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-21T17:32:28.879458+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-21T16:55:32.204582+00:00"
+        }
+      ],
+      "created_at": "2026-04-21T16:55:12.821345+00:00"
+    },
+    "537f4a99538e4716bc13bfbfe2faeb67": {
+      "xp": 10,
+      "quizzes_taken": 1,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "romana_mate_info:subiectul-1:text-la-prima-vedere"
+      ],
+      "subjects": {
+        "romana_mate_info": {
+          "quizzes_taken": 1,
+          "average_score": 0.0,
+          "chapters": {
+            "text-la-prima-vedere": {
+              "attempts": 1,
+              "best_score": 0,
+              "last_score": 0,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-21T17:57:07.745943+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "score": 0,
+          "xp_gain": 10,
+          "timestamp": "2026-04-21T17:57:07.745949+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T17:57:07.583514+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T17:57:07.410946+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T17:57:05.751657+00:00"
+        }
+      ],
+      "created_at": "2026-04-21T17:57:05.683555+00:00"
+    },
+    "c9403a3277ec425087346ee417808696": {
+      "xp": 10,
+      "quizzes_taken": 1,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "romana_mate_info:subiectul-1:text-la-prima-vedere"
+      ],
+      "subjects": {
+        "romana_mate_info": {
+          "quizzes_taken": 1,
+          "average_score": 0.0,
+          "chapters": {
+            "text-la-prima-vedere": {
+              "attempts": 1,
+              "best_score": 0,
+              "last_score": 0,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-21T17:57:37.536372+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "score": 0,
+          "xp_gain": 10,
+          "timestamp": "2026-04-21T17:57:37.536377+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T17:57:37.351814+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T17:57:37.172239+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "text-la-prima-vedere",
+          "timestamp": "2026-04-21T17:57:36.942438+00:00"
+        }
+      ],
+      "created_at": "2026-04-21T17:57:36.872758+00:00"
+    },
+    "748f07a8aa6542b2b90ffb1f05a0afdf": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-21T17:58:11.342987+00:00"
+    },
+    "e056c406dc074a0aa19870b354e7357d": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-21T17:58:11.422509+00:00"
+    },
+    "0cc98cf1f3d64141add5ccc29696bfdc": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-21T18:07:40.379838+00:00"
+    },
+    "a9c0ee09ea5f44de98a334c8b16edb67": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-21T18:07:40.522145+00:00"
+    },
+    "ab710656ea4a4077ada9699cc9c36165": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [],
+      "subjects": {},
+      "recent_activity": [],
+      "created_at": "2026-04-21T18:07:40.552818+00:00"
+    },
+    "6c9323ffeb6f44f89d8efae182f97769": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:multimi-intervale-si-logica-matematica"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-21T18:11:04.370610+00:00"
+        }
+      ],
+      "created_at": "2026-04-21T18:10:53.174600+00:00"
+    },
+    "933f15c87f094debb9c37d41030c017a": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:numere-complexe",
+        "matematica_m1:subiectul-1:ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+        "matematica_m1:subiectul-1:functia-exponentiala-si-functia-logaritmica",
+        "matematica_m1:subiectul-1:metode-de-numarare-si-combinatorica",
+        "romana_mate_info:subiectul-3:george-bacovia-simbolism"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "romana_mate_info",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "george-bacovia-simbolism",
+          "timestamp": "2026-04-21T20:13:06.531932+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "metode-de-numarare-si-combinatorica",
+          "timestamp": "2026-04-21T20:12:25.591206+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functia-exponentiala-si-functia-logaritmica",
+          "timestamp": "2026-04-21T20:12:14.531367+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "ecuatii-si-inecuatii-exponentiale-logaritmice-si-trigonometrice",
+          "timestamp": "2026-04-21T20:12:06.922097+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "numere-complexe",
+          "timestamp": "2026-04-21T20:12:03.383920+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "numere-complexe",
+          "timestamp": "2026-04-21T20:12:01.253374+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "numere-complexe",
+          "timestamp": "2026-04-21T20:10:20.871719+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "numere-complexe",
+          "timestamp": "2026-04-21T20:10:14.543737+00:00"
+        }
+      ],
+      "created_at": "2026-04-21T20:09:01.569980+00:00"
+    },
+    "394f0d609b0e427ba5e72e11f9e65848": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:functii-si-reprezentari-grafice"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functii-si-reprezentari-grafice",
+          "timestamp": "2026-04-22T14:22:43.133085+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:22:39.683245+00:00"
+    },
+    "ae16efbdb4a84dca87385dbdc5a5fd19": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:multimi-intervale-si-logica-matematica"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-22T14:42:58.452975+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:42:58.452956+00:00"
+    },
+    "ad25fd8b9e9f41ab970edbadf886ebb5": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:multimi-intervale-si-logica-matematica",
+        "matematica_m1:subiectul-1:functii-si-reprezentari-grafice",
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T15:03:12.525242+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T14:53:24.881099+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functii-si-reprezentari-grafice",
+          "timestamp": "2026-04-22T14:52:31.419187+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-22T14:52:23.695418+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-22T14:51:36.286621+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-22T14:46:06.023263+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:46:01.964005+00:00"
+    },
+    "a0fcd00157fa49378e8df14e31bff3c3": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:multimi-intervale-si-logica-matematica"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-22T14:50:41.617062+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:50:41.617046+00:00"
+    },
+    "6db82d9b3d9543018ad35a5f79b47b68": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:multimi-intervale-si-logica-matematica"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-22T14:51:06.986774+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:51:06.986760+00:00"
+    },
+    "ccdf9c641f914fddba5d94c82c3262f7": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:functia-de-gradul-i-si-functia-de-gradul-al-ii-lea"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functia-de-gradul-i-si-functia-de-gradul-al-ii-lea",
+          "timestamp": "2026-04-22T14:51:15.340288+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:51:15.340273+00:00"
+    },
+    "3abc0459c16148b294d5d9d50a8cce43": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi",
+        "matematica_m1:subiectul-1:metode-de-numarare-si-combinatorica"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "metode-de-numarare-si-combinatorica",
+          "timestamp": "2026-04-22T14:57:02.780613+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T14:57:02.524031+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:57:02.524015+00:00"
+    },
+    "81e173b292d042cb9c5b2c30ac023b9f": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T14:57:11.892683+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:57:11.892666+00:00"
+    },
+    "ba9fdc2f8d87409da5f828b7fa7896a9": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi",
+        "matematica_m1:subiectul-1:functia-de-gradul-i-si-functia-de-gradul-al-ii-lea"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functia-de-gradul-i-si-functia-de-gradul-al-ii-lea",
+          "timestamp": "2026-04-22T14:57:31.160933+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T14:57:30.923441+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T14:57:30.923425+00:00"
+    },
+    "5007121f45dd41cc8f6e27f1d0ffd704": {
+      "xp": 42,
+      "quizzes_taken": 1,
+      "average_score": 20.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:functii-si-reprezentari-grafice"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 20.0,
+          "chapters": {
+            "functii-si-reprezentari-grafice": {
+              "attempts": 1,
+              "best_score": 20,
+              "last_score": 20,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-22T15:13:47.003883+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functii-si-reprezentari-grafice",
+          "timestamp": "2026-04-22T15:14:08.585274+00:00"
+        },
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functii-si-reprezentari-grafice",
+          "score": 20,
+          "xp_gain": 42,
+          "timestamp": "2026-04-22T15:13:47.003887+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functii-si-reprezentari-grafice",
+          "timestamp": "2026-04-22T15:13:46.824302+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "functii-si-reprezentari-grafice",
+          "timestamp": "2026-04-22T15:12:46.546542+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T15:12:42.125028+00:00"
+    },
+    "7a297f36cacf4f17b68caf786c42190c": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi",
+        "matematica_m1:subiectul-2:matrice-determinanti-si-sisteme-liniare",
+        "matematica_m1:subiectul-3:derivabilitate"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "derivabilitate",
+          "timestamp": "2026-04-22T18:05:22.885110+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-2",
+          "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+          "timestamp": "2026-04-22T18:05:22.715833+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T18:05:14.820281+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T18:05:14.820261+00:00"
+    },
+    "36baaef8892f4d4b914218b461886706": {
+      "xp": 100,
+      "quizzes_taken": 2,
+      "average_score": 25.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-2:matrice-determinanti-si-sisteme-liniare",
+        "matematica_m1:subiectul-3:integrala-definita"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 2,
+          "average_score": 25.0,
+          "chapters": {
+            "matrice-determinanti-si-sisteme-liniare": {
+              "attempts": 1,
+              "best_score": 25,
+              "last_score": 25,
+              "subiect_id": "subiectul-2",
+              "updated_at": "2026-04-22T18:06:04.460611+00:00"
+            },
+            "integrala-definita": {
+              "attempts": 1,
+              "best_score": 25,
+              "last_score": 25,
+              "subiect_id": "subiectul-3",
+              "updated_at": "2026-04-22T18:06:04.809439+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "integrala-definita",
+          "score": 25,
+          "xp_gain": 50,
+          "timestamp": "2026-04-22T18:06:04.809443+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "integrala-definita",
+          "timestamp": "2026-04-22T18:06:04.642309+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "integrala-definita",
+          "timestamp": "2026-04-22T18:06:04.474035+00:00"
+        },
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-2",
+          "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+          "score": 25,
+          "xp_gain": 50,
+          "timestamp": "2026-04-22T18:06:04.460615+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-2",
+          "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+          "timestamp": "2026-04-22T18:06:04.273799+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-2",
+          "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+          "timestamp": "2026-04-22T18:06:03.991584+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T18:06:03.991569+00:00"
+    },
+    "85e7be78907648e4a283c2859fdccd30": {
+      "xp": 98,
+      "quizzes_taken": 1,
+      "average_score": 55.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:puteri-radicali-si-logaritmi",
+        "matematica_m1:subiectul-2:matrice-determinanti-si-sisteme-liniare",
+        "informatica_mate_info:subiectul-1:subprograme-predefinite-si-functii-standard",
+        "informatica_mate_info:subiectul-1:algoritmi-si-reprezentare-in-pseudocod"
+      ],
+      "subjects": {
+        "matematica_m1": {
+          "quizzes_taken": 1,
+          "average_score": 55.0,
+          "chapters": {
+            "puteri-radicali-si-logaritmi": {
+              "attempts": 1,
+              "best_score": 55,
+              "last_score": 55,
+              "subiect_id": "subiectul-1",
+              "updated_at": "2026-04-22T20:26:28.675934+00:00"
+            }
+          }
+        }
+      },
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "informatica_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "algoritmi-si-reprezentare-in-pseudocod",
+          "timestamp": "2026-04-22T20:35:25.527507+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "informatica_mate_info",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "subprograme-predefinite-si-functii-standard",
+          "timestamp": "2026-04-22T20:35:06.295195+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-2",
+          "chapter_id": "matrice-determinanti-si-sisteme-liniare",
+          "timestamp": "2026-04-22T20:27:11.857877+00:00"
+        },
+        {
+          "type": "quiz",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "score": 55,
+          "xp_gain": 98,
+          "timestamp": "2026-04-22T20:26:28.675938+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T20:26:28.473972+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "puteri-radicali-si-logaritmi",
+          "timestamp": "2026-04-22T20:23:14.600506+00:00"
+        }
+      ],
+      "created_at": "2026-04-22T20:23:03.280111+00:00"
+    },
+    "07c7bb732a6c49928c01c9936ec1c41d": {
+      "xp": 0,
+      "quizzes_taken": 0,
+      "average_score": 0.0,
+      "chapters_viewed": [
+        "matematica_m1:subiectul-1:multimi-intervale-si-logica-matematica",
+        "matematica_m1:subiectul-3:continuitate"
+      ],
+      "subjects": {},
+      "recent_activity": [
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-3",
+          "chapter_id": "continuitate",
+          "timestamp": "2026-04-27T22:12:32.976842+00:00"
+        },
+        {
+          "type": "lesson_view",
+          "subject_id": "matematica_m1",
+          "subiect_id": "subiectul-1",
+          "chapter_id": "multimi-intervale-si-logica-matematica",
+          "timestamp": "2026-04-27T22:12:07.206018+00:00"
+        }
+      ],
+      "created_at": "2026-04-27T22:11:55.325452+00:00"
+    }
+  }
+}

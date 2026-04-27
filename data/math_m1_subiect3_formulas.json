@@ -1,0 +1,127 @@
+{
+  "subject_id": "matematica_m1",
+  "subiect_id": "subiectul-3",
+  "chapters": [
+    {
+      "chapter_id": "limite-de-functii",
+      "title": "Limite de functii",
+      "formulas": [
+        "\\u2113 = lim_{x\\u2192x_0} f(x)",
+        "lim(f+g)=lim f + lim g",
+        "lim(f*g)=lim f * lim g",
+        "lim(f/g)=(lim f)/(lim g), lim g\\u22600",
+        "lim_{x\\u21920} (sin x)/x = 1",
+        "lim_{x\\u21920} (1-cos x)/x^2 = 1/2",
+        "lim_{x\\u21920} (e^x-1)/x = 1",
+        "lim_{x\\u21920} ln(1+x)/x = 1"
+      ],
+      "tips": [
+        "Identifica forma initiala (0/0, \\u221e/\\u221e) si abia apoi alegi metoda: factorizare, rationalizare sau substitutie.",
+        "La trigonometrie, treci expresia la rapoarte care contin sin t / t."
+      ]
+    },
+    {
+      "chapter_id": "continuitate",
+      "title": "Continuitate",
+      "formulas": [
+        "f continua in x_0 \\u21d4 lim_{x\\u2192x_0} f(x)=f(x_0)",
+        "lim_{x\\u2192x_0^-} f(x)=lim_{x\\u2192x_0^+} f(x)=f(x_0)",
+        "f,g continue \\u21d2 f+g, f*g continue",
+        "f,g continue si g(x_0)\\u22600 \\u21d2 f/g continua",
+        "f continua pe [a,b] \\u21d2 atinge min si max",
+        "f continua pe [a,b] si f(a)f(b)<0 \\u21d2 \\u2203c\\u2208(a,b): f(c)=0"
+      ],
+      "tips": [
+        "La functii definite pe bucati, verifica separat limitele laterale in punctul de lipire.",
+        "Daca una dintre limitele laterale nu exista, functia nu poate fi continua in acel punct."
+      ]
+    },
+    {
+      "chapter_id": "derivabilitate",
+      "title": "Derivabilitate",
+      "formulas": [
+        "f'(x_0)=lim_{h\\u21920} (f(x_0+h)-f(x_0))/h",
+        "(u+v)'=u'+v'",
+        "(u*v)'=u'v+uv'",
+        "(u/v)'=(u'v-uv')/v^2, v\\u22600",
+        "(f\\u2218g)'(x)=f'(g(x))*g'(x)",
+        "(x^n)'=n*x^(n-1)",
+        "(e^x)'=e^x, (a^x)'=a^x ln a",
+        "(ln x)'=1/x, (sin x)'=cos x, (cos x)'=-sin x"
+      ],
+      "tips": [
+        "La produse/rapoarte, scrie formula derivarii explicit inainte de simplificare.",
+        "Nu aplica regula lantului doar partial: trebuie derivata si functia interioara."
+      ]
+    },
+    {
+      "chapter_id": "studiul-functiilor-cu-ajutorul-derivatelor",
+      "title": "Studiul functiilor cu ajutorul derivatelor",
+      "formulas": [
+        "f'>0 pe I \\u21d2 f strict crescatoare pe I",
+        "f'<0 pe I \\u21d2 f strict descrescatoare pe I",
+        "Punct critic: f'(x_0)=0 sau f' nu exista",
+        "f' schimba semnul (+ -> -) in x_0 \\u21d2 maxim local",
+        "f' schimba semnul (- -> +) in x_0 \\u21d2 minim local",
+        "f''>0 \\u21d2 convexa, f''<0 \\u21d2 concava",
+        "Asimptota verticala: lim_{x\\u2192a} f(x)=\\u00b1\\u221e",
+        "Asimptota oblica: y=mx+n, m=lim f(x)/x, n=lim(f(x)-mx)"
+      ],
+      "tips": [
+        "Tabelul de semn pentru f' este cheia completa a variatiei functiei.",
+        "La asimptota oblica, calculeaza intai m si verifica sa fie finit si nenul."
+      ]
+    },
+    {
+      "chapter_id": "primitive",
+      "title": "Primitive",
+      "formulas": [
+        "\\u222b x^n dx = x^(n+1)/(n+1)+C, n\\u2260-1",
+        "\\u222b 1/x dx = ln|x| + C",
+        "\\u222b e^x dx = e^x + C",
+        "\\u222b a^x dx = a^x/ln a + C, a>0, a\\u22601",
+        "\\u222b sin x dx = -cos x + C",
+        "\\u222b cos x dx = sin x + C",
+        "\\u222b f'(x)/f(x) dx = ln|f(x)| + C",
+        "\\u222b [u(x)+v(x)]dx = \\u222b u(x)dx + \\u222b v(x)dx"
+      ],
+      "tips": [
+        "Verifica prin derivare daca primitiva obtinuta este corecta.",
+        "Constanta C nu se omite in exercitiile de primitive."
+      ]
+    },
+    {
+      "chapter_id": "integrala-definita",
+      "title": "Integrala definita",
+      "formulas": [
+        "\\u222b_a^b f(x)dx = F(b)-F(a), unde F'=f",
+        "\\u222b_a^a f(x)dx = 0",
+        "\\u222b_a^b f(x)dx = -\\u222b_b^a f(x)dx",
+        "\\u222b_a^b [f(x)+g(x)]dx = \\u222b_a^b f(x)dx + \\u222b_a^b g(x)dx",
+        "\\u222b_a^b kf(x)dx = k\\u222b_a^b f(x)dx",
+        "f\\u2265g pe [a,b] \\u21d2 \\u222b_a^b f(x)dx \\u2265 \\u222b_a^b g(x)dx",
+        "f\\u22650 pe [a,b] \\u21d2 \\u222b_a^b f(x)dx \\u22650"
+      ],
+      "tips": [
+        "La calcul numeric, scrie primitiva F separat si abia apoi aplici F(b)-F(a).",
+        "Pastreaza ordinea capetelor de interval pentru semnul corect al rezultatului."
+      ]
+    },
+    {
+      "chapter_id": "aplicatii-ale-integralei",
+      "title": "Aplicatii ale integralei",
+      "formulas": [
+        "Arie fata de OX: A=\\u222b_a^b |f(x)|dx",
+        "Daca f\\u22650 pe [a,b], A=\\u222b_a^b f(x)dx",
+        "Arie intre grafice: A=\\u222b_a^b |f(x)-g(x)|dx",
+        "Daca f\\u2265g pe [a,b], A=\\u222b_a^b (f(x)-g(x))dx",
+        "Valoare medie: f_med=(1/(b-a))\\u222b_a^b f(x)dx",
+        "Lungime arc (cand se cere): L=\\u222b_a^b \\u221a(1+[f'(x)]^2)dx"
+      ],
+      "tips": [
+        "Stabileste intai punctele de intersectie pentru a fixa corect intervalele de integrare.",
+        "La arii, modulul este obligatoriu cand functia isi schimba semnul."
+      ]
+    }
+  ]
+}

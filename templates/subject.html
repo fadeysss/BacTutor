@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero compact-hero">
+  <div>
+    <a class="back-link" href="{{ url_for('home') }}">← Înapoi la materii</a>
+    <span class="eyebrow">{{ subject.track }}</span>
+    <h1>{{ subject.title }}</h1>
+    <p class="hero-copy">{{ subject.description }}</p>
+  </div>
+  <aside class="card glass subject-summary-card">
+    <div class="stat-grid compact">
+      <div>
+        <span>Subiecte</span>
+        <strong>{{ subject.subiecte|length }}</strong>
+      </div>
+      <div>
+        <span>Capitole</span>
+        <strong>{{ total_chapters }}</strong>
+      </div>
+      <div>
+        <span>Progres</span>
+        <strong>{{ subject_progress.progress_percent }}%</strong>
+      </div>
+      <div>
+        <span>Medie</span>
+        <strong>{{ subject_progress.average_score }}%</strong>
+      </div>
+    </div>
+  </aside>
+</section>
+
+<section class="section-header with-filter">
+  <div>
+    <h2>Subiecte și capitole</h2>
+    <p>Fiecare capitol deschide o lecție structurată pe explicații scurte, exemplu aplicat și quiz la final.</p>
+  </div>
+  <div class="search-box">
+    <input type="search" id="chapterFilter" placeholder="Caută un capitol...">
+  </div>
+</section>
+
+{% for subiect in subject.subiecte %}
+  <section class="subiect-block card">
+    <div class="subiect-head">
+      <div>
+        <span class="eyebrow">{{ subiect.title }}</span>
+        <h3>{{ subiect.summary }}</h3>
+      </div>
+      <span class="pill">{{ subiect.chapters|length }} capitole</span>
+    </div>
+    <div class="chapter-grid">
+      {% for chapter in subiect.chapters %}
+        {% set chapter_stats = chapter_lookup.get(chapter.id, {}) %}
+        <a class="chapter-card" data-title="{{ chapter.title|lower }} {{ chapter.summary|lower }}" href="{{ url_for('lesson_page', subject_id=subject.id, subiect_id=subiect.id, chapter_id=chapter.id) }}">
+          <div class="chapter-card-top">
+            <h4>{{ chapter.title }}</h4>
+            {% if chapter_stats.best_score %}
+              <span class="mini-score">{{ chapter_stats.best_score }}%</span>
+            {% else %}
+              <span class="mini-score muted">nou</span>
+            {% endif %}
+          </div>
+          <p>{{ chapter.summary }}</p>
+          <div class="chapter-meta">
+            <span>{{ chapter.estimated_minutes }} min</span>
+            <span>{{ chapter.practice_type }}</span>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}
+{% endblock %}
